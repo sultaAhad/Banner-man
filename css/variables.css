@@ -1,0 +1,396 @@
+/* font family includes */
+@font-face {
+	src: url(../fonts/sofiapro-light.otf);
+	font-family: "sofiapro-light";
+}
+@font-face {
+	src: url(../fonts/Poppins-Medium.ttf);
+	font-family: "Poppins-Medium";
+}
+
+@font-face {
+	src: url(../fonts/Poppins-SemiBold.ttf);
+	font-family: "Poppins-SemiBold";
+}
+
+@font-face {
+	src: url(../fonts/Poppins-Bold.ttf);
+	font-family: "Poppins-Bold";
+}
+
+@font-face {
+	src: url(../fonts/Poppins-Regular.ttf);
+	font-family: "Poppins-Regular";
+}
+
+@font-face {
+	src: url(../fonts/Brinnan-Regular.otf);
+	font-family: "Brinnan-Regular";
+}
+
+@font-face {
+	src: url(../fonts/Brinnan-Bold.otf);
+	font-family: "Brinnan-Bold";
+}
+
+@font-face {
+	src: url(../fonts/Brinnan-Light.otf);
+	font-family: "Brinnan-Light";
+}
+@font-face {
+	src: url(../fonts/Brinnan-Black.otf);
+	font-family: "Brinnan Black";
+}
+body {
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	background: rgb(227, 242, 249);
+	background: radial-gradient(
+		circle,
+		rgba(227, 242, 249, 1) 31%,
+		rgba(137, 207, 240, 1) 100%
+	);
+}
+
+h1 {
+	font-family: "Brinnan-Bold";
+	font-size: 100px;
+	line-height: 1.2;
+}
+
+h2 {
+	font-family: "Brinnan-Regular";
+	font-size: 80px;
+	line-height: 1.2;
+}
+
+h3 {
+	font-family: "Brinnan-Regular";
+	font-size: 60px;
+	line-height: 1.2;
+	color: #081a55;
+}
+
+h4 {
+	font-family: "Brinnan-Regular";
+	font-size: 50px;
+	line-height: 1.2;
+	color: #081a55;
+}
+
+h5 {
+	font-family: "Brinnan-Bold";
+	font-size: 30px;
+	line-height: 1.5;
+}
+
+h6 {
+	font-family: "Poppins-SemiBold";
+	font-size: 18px;
+	line-height: 1.5;
+	color: #08a9e6;
+}
+
+p {
+	font-size: 16px;
+	font-weight: 400;
+	font-family: "poppins";
+}
+a {
+	cursor: pointer;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #37b3ed;
+	text-decoration: none;
+}
+
+li {
+	list-style: none;
+}
+ul {
+	padding: 0;
+}
+/*preloader*/
+
+.preloader {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 9999;
+	overflow: hidden;
+	background: #05075a;
+}
+#spinner {
+	position: fixed;
+	top: calc(50% - 30px);
+	left: calc(50% - 30px);
+	margin-top: -50px;
+	margin-left: -50px;
+	height: 100px;
+	width: 100px;
+	background: none;
+	border-radius: 100px;
+	border-top: 15px solid #f75414;
+	border-bottom: 15px solid #f75414;
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	-webkit-animation: spin 5s infinite alternate linear,
+		glow 5s infinite alternate linear;
+	-moz-animation: spin 5s infinite alternate linear,
+		glow 5s infinite alternate linear;
+	-ms-animation: spin 5s infinite alternate linear,
+		glow 5s infinite alternate linear;
+	-o-animation: spin 5s infinite alternate linear,
+		glow 5s infinite alternate linear;
+	animation: spin 5s infinite alternate linear,
+		glow 5s infinite alternate linear;
+}
+
+#spinner:before {
+	content: "";
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding: 15px;
+	background: none;
+	position: relative;
+	top: -30px;
+	left: -30px;
+	z-index: -1;
+	border-radius: 115px;
+	border: 15px solid #f75414;
+	border-top: 15px solid transparent;
+	border-bottom: 15px solid transparent;
+
+	-webkit-animation: spin2 2s infinite alternate linear,
+		glow 3s infinite alternate linear;
+	-moz-animation: spin2 2s infinite alternate linear,
+		glow 3s infinite alternate linear;
+	-ms-animation: spin2 2s infinite alternate linear,
+		glow 3s infinite alternate linear;
+	-o-animation: spin2 2s infinite alternate linear,
+		glow 3s infinite alternate linear;
+	animation: spin2 2s infinite alternate linear,
+		glow 3s infinite alternate linear;
+}
+
+#spinner:after {
+	content: "";
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding: 30px;
+	background: none;
+	position: relative;
+	top: -205px;
+	left: -45px;
+	z-index: -2;
+	border-radius: 130px;
+	border: 15px solid #f75414;
+	border-left: 15px solid transparent;
+	border-bottom: 15px solid transparent;
+
+	-webkit-animation: spin 1s infinite alternate ease both,
+		glow 10s infinite alternate linear;
+	-moz-animation: spin 1s infinite alternate ease both,
+		glow 10s infinite alternate linear;
+	-ms-animation: spin 1s infinite alternate ease both,
+		glow 10s infinite alternate linear;
+	-o-animation: spin 1s infinite alternate ease both,
+		glow 10s infinite alternate linear;
+	animation: spin 1s infinite alternate ease both,
+		glow 10s infinite alternate linear;
+}
+
+@keyframes spin {
+	0% {
+		-webkit-transform: rotate(360deg);
+		-moz-transform: rotate(360deg);
+		-o-transform: rotate(360deg);
+		-ms-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+	100% {
+		-webkit-transform: rotate(0deg);
+		-moz-transform: rotate(0deg);
+		-o-transform: rotate(0deg);
+		-ms-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+}
+
+@-moz-keyframes spin {
+	0% {
+		-moz-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+	100% {
+		-moz-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+}
+
+@-webkit-keyframes spin {
+	0% {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+	100% {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+}
+
+@-ms-keyframes spin {
+	0% {
+		-ms-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+	100% {
+		-ms-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+}
+
+@-o-keyframes spin {
+	0% {
+		-o-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+	100% {
+		-o-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+}
+
+@keyframes spin2 {
+	0% {
+		-webkit-transform: rotate(0deg);
+		-moz-transform: rotate(0deg);
+		-o-transform: rotate(0deg);
+		-ms-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+		-moz-transform: rotate(360deg);
+		-o-transform: rotate(360deg);
+		-ms-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+}
+
+@-moz-keyframes spin2 {
+	0% {
+		-moz-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	100% {
+		-moz-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+}
+
+@-webkit-keyframes spin2 {
+	0% {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+}
+
+@-ms-keyframes spin2 {
+	0% {
+		-ms-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	100% {
+		-ms-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+}
+
+@-o-keyframes spin2 {
+	0% {
+		-o-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	100% {
+		-o-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+}
+
+@keyframes glow {
+	0% {
+		-webkit-box-shadow: none;
+		box-shadow: none;
+	}
+	50% {
+		-webkit-box-shadow: 10px -10px 30px cyan, -10px 10px 30px cyan;
+		box-shadow: 10px -10px 30px#FFBE06, -10px 10px 30px #ffbe06;
+	}
+	100% {
+		-webkit-box-shadow: none;
+		box-shadow: none;
+	}
+}
+
+@-moz-keyframes glow {
+	0% {
+		box-shadow: none;
+	}
+	50% {
+		box-shadow: 10px -10px 30px #ffbe06, -10px 10px 30px#FFBE06;
+	}
+	100% {
+		box-shadow: none;
+	}
+}
+
+@-webkit-keyframes glow {
+	0% {
+		-webkit-box-shadow: none;
+		box-shadow: none;
+	}
+	50% {
+		-webkit-box-shadow: 10px -10px 30px cyan, -10px 10px 30px cyan;
+		box-shadow: 10px -10px 30px #ffbe06, -10px 10px 30px #ffbe06;
+	}
+	100% {
+		-webkit-box-shadow: none;
+		box-shadow: none;
+	}
+}
+
+@-ms-keyframes glow {
+	0% {
+		box-shadow: none;
+	}
+	50% {
+		box-shadow: 10px -10px 30px #ffbe06, -10px 10px 30px #ffbe06;
+	}
+	100% {
+		box-shadow: none;
+	}
+}
+
+@-o-keyframes glow {
+	0% {
+		box-shadow: none;
+	}
+	50% {
+		box-shadow: 10px -10px 30px #ffbe06, -10px 10px 30px #ffbe06;
+	}
+	100% {
+		box-shadow: none;
+	}
+}
