@@ -403,6 +403,9 @@ nav .close1:hover div::after {
 /* Responsive End */
 
 /* Banner css start */
+section.Banner-main {
+	padding: 100px 0;
+}
 .userbox {
 	display: flex;
 	justify-content: start;
@@ -464,6 +467,174 @@ nav .close1:hover div::after {
 	align-items: center;
 	justify-content: center;
 	font-family: "Brinnan-Bold";
+}
+.banner-small-heading {
+	display: flex;
+	justify-content: space-between;
+}
+.banner-heading {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 11px;
+	align-items: center;
+}
+.banner-large-heading h1 {
+	font-size: 75px;
+	color: #081a55;
+}
+.banner-heading h2 {
+	color: #081a55;
+	font-size: 60px;
+}
+.reviews p {
+	color: #081a55;
+	font-family: "sofiapro-light";
+	font-size: 12px;
+}
+.click-button {
+	display: flex;
+	align-items: start;
+	background: #f75414;
+	border-radius: 13px;
+	padding: 20px 0px;
+	width: 100%;
+	justify-content: center;
+	box-shadow: 1px 2px 30px 0px rgba(0, 0, 0, 0.18) inset;
+	-webkit-box-shadow: 1px 2px 30px 0px rgba(0, 0, 0, 0.18) inset;
+	-moz-box-shadow: 1px 2px 30px 0px rgba(0, 0, 0, 0.18) inset;
+}
+.indoor-button h6 {
+	font-family: "Brinnan-Bold";
+	color: #fff;
+	margin: 0;
+	font-size: 17px;
+	margin-bottom: 2px;
+	margin-left: 3px;
+}
+.click-button img {
+	margin-top: 5px;
+}
+.btn i.fa-solid.fa-arrow-right {
+	margin-left: 9px;
+	font-size: 12px;
+}
+.indoor-banner-main {
+	margin-top: 90px;
+}
+.indoor-banner-main h5 {
+	color: #081a55;
+}
+.indoor-banner {
+	margin-top: 20px;
+}
+.btn {
+	font-family: "sofiapro-light";
+	font-size: 18px;
+	color: #fff;
+	padding: 8px 19px;
+	transition: all 0.4s ease-in-out;
+	background-color: #081a55;
+	border-radius: 12px;
+	cursor: pointer;
+}
+.btn:hover {
+	color: #ffbe06;
+}
+.indoor-button {
+	margin-left: 10px;
+}
+.review-main {
+	position: relative;
+	top: 25px;
+}
+.reviews {
+	position: absolute;
+	left: 160px;
+	top: -30px;
+}
+.reviews a {
+	font-family: "Brinnan-Bold";
+	font-size: 15px;
+	color: #081a55;
+	line-height: 0;
+}
+.main-banner-img {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+.main-wrapper {
+	margin-right: 0;
+}
+.banner-small-heading img {
+	margin-right: 50px;
+}
+.banner-small-heading h6 {
+	font-size: 15px;
+}
+.cssanimation,
+.cssanimation span {
+	animation-duration: 1s;
+	animation-fill-mode: both;
+}
+
+.cssanimation span {
+	display: inline-block;
+}
+
+.leRotateYZoomIn span {
+	animation-name: leRotateYZoomIn;
+}
+@keyframes leRotateYZoomIn {
+	from {
+		transform: perspective(600px) translate3d(0, -60px, -2000px) rotateY(75deg);
+		opacity: 0;
+	}
+	5% {
+		transform: perspective(600px) translate3d(0, -60px, -1500px) rotateY(75deg);
+	}
+}
+.card-slider {
+	position: relative;
+}
+.card-wrapper h5 {
+	color: #fff;
+	font-size: 16px;
+	font-family: "Brinnan-Bold";
+	margin: 0;
+}
+.card-wrapper {
+	background: #081a55;
+	border-radius: 10px 10px 0px 0px;
+	padding: 14px 0;
+	width: 80%;
+	text-align: center;
+}
+.banners-category .slick-arrow {
+	z-index: 111;
+	width: 30px;
+	height: 30px;
+	color: #fff;
+	font-family: "FontAwesome";
+	position: absolute;
+	background: #081a55;
+	border-radius: 0px 10px 10px 0px;
+}
+.banners-category button.slick-prev {
+	left: 0px;
+}
+.banners-category button.slick-next {
+	right: 0px;
+	border-radius: 10px 0px 0px 10px;
+}
+.banners-category .slick-prev:before {
+	content: "\f053";
+	font-family: "FontAwesome";
+}
+.banners-category .slick-next:before {
+	content: "\f054";
+	font-family: "FontAwesome";
 }
 /* Banner css start */
 

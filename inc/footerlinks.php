@@ -107,7 +107,7 @@ $(document).ready(function() {
         $('#search').show()
     })
 })
-
+// gsap responsive header
 const open = document.querySelector('.container1');
 const close = document.querySelector('.close1');
 var tl = gsap.timeline({
@@ -140,5 +140,94 @@ open.addEventListener('click', () => {
 
 close.addEventListener('click', () => {
     tl.reverse();
+});
+// parallax img
+document.addEventListener("mousemove", parallax);
+
+function parallax(e) {
+    this.querySelectorAll('.layer').forEach(layer => {
+        const speed = layer.getAttribute('data-speed')
+
+        const x = (window.innerWidth - e.pageX * speed) / 100
+        const y = (window.innerHeight - e.pageY * speed) / 100
+
+        layer.style.transform = `translateX(${x}px) translateY(${y}px)`
+    })
+}
+// banner main heading
+window.onload = function() {
+    animateRandom();
+};
+
+function animateRandom() {
+    var a = document.getElementsByClassName('random');
+    for (var i = 0; i < a.length; i++) {
+        var $this = a[i];
+        var letter = $this.innerHTML;
+        letter = letter.trim();
+        var delay = 70;
+        var delayArray = new Array;
+        var randLetter = new Array;
+        for (j = 0; j < letter.length; j++) {
+            while (1) {
+                var random = getRandomInt(0, (letter.length - 1));
+                if (delayArray.indexOf(random) == -1)
+                    break;
+            }
+            delayArray[j] = random;
+        }
+        for (l = 0; l < delayArray.length; l++) {
+            var str = '';
+            var index = delayArray[l];
+            if (letter[index] != ' ') {
+                str = '<span style="animation-delay:' + delay + 'ms; -moz-animation-delay:' + delay +
+                    'ms; -webkit-animation-delay:' + delay + 'ms; ">' + letter[index] + '</span>';
+                randLetter[index] = str;
+            } else
+                randLetter[index] = letter[index];
+            delay += 30;
+        }
+        randLetter = randLetter.join("");
+        $this.innerHTML = randLetter;
+    }
+}
+
+function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+// slider 
+$('.slider').slick({
+    dots: false,
+    infinite: false,
+    speed: 300,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: true
+            }
+        },
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+    ]
 });
 </script>

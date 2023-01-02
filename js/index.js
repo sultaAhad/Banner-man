@@ -1,6 +1,6 @@
 // preloader
 $(window).on("load", function () {
-	$(".preloader").fadeOut(1000);
+	$(".preloader").fadeOut(500);
 });
 /**
  * Scrolls to an element with header offset
@@ -12,3 +12,7 @@ const scrollto = (el) => {
 		behavior: "smooth",
 	});
 };
+
+$(document).ready(function () {
+	$(window).scrollTop(0);
+});
