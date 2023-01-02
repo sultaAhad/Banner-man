@@ -1,4 +1,4 @@
-/* header css */
+/* header start css */
 .main-top-navbar {
 	background: #08a9e6;
 	height: 54px;
@@ -255,8 +255,9 @@ h6.account {
 .menu-item.hide-item {
 	transform: scale(0);
 }
+/* header start End */
 
-/* header css */
+/* header mobile css */
 
 .container1 {
 	cursor: pointer;
@@ -370,7 +371,9 @@ nav .close1:hover div::before,
 nav .close1:hover div::after {
 	background: #f75414;
 }
+/* header mobile css */
 
+/* Responsive start */
 @media (max-width: 1024px) {
 	h1 {
 		font-size: 25px;
@@ -397,3 +400,224 @@ nav .close1:hover div::after {
 		left: -57%;
 	}
 }
+/* Responsive End */
+
+/* Banner css start */
+.userbox {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	flex-wrap: wrap;
+	max-width: 50%;
+	position: relative;
+}
+.user-circle {
+	display: flex;
+	justify-content: start;
+	align-items: start;
+
+	border-radius: 50px;
+	overflow: hidden;
+
+	margin-left: -8px;
+	position: absolute;
+	margin-bottom: 10px;
+}
+.user-circle:nth-child(2) {
+	left: 25px;
+	z-index: 1;
+	top: -32px;
+}
+.user-circle:nth-child(3) {
+	left: 48px;
+	z-index: 2;
+}
+.user-circle:nth-child(4) {
+	left: 73px;
+	z-index: 3;
+}
+.user-circle:nth-child(5) {
+	left: 73px;
+	z-index: 3;
+	width: 32px;
+	height: 32px;
+	border: 1px solid #ffffff;
+	font-size: 14px;
+	font-weight: 600;
+	color: #fff;
+	text-align: center;
+	background: #ff8c00;
+}
+.user-circle:nth-child(5) {
+	left: 106px;
+	z-index: 3;
+	width: 37px;
+	height: 37px;
+	border: 2px solid #081a55;
+	font-size: 12px;
+	font-size: 14px;
+	color: #081a55;
+	text-align: center;
+	background: #fff;
+	top: -26px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: "Brinnan-Bold";
+}
+/* Banner css start */
+
+/* footer start here */
+.about-footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-left: 30px;
+}
+
+.all-about-footer {
+	padding-top: 20px;
+}
+.about-footer ul {
+	margin: 0px -37px;
+}
+
+.footer a {
+	font-family: "Open Sans", sans-serif;
+}
+
+.footer-content {
+	margin-left: 35px;
+	margin-top: 20px;
+}
+
+.footer ul li a {
+	display: block;
+	color: #bcbcbc;
+	margin-top: 15px;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.contact-us ul {
+	margin: 0px -37px;
+}
+
+.footer ul li a {
+	display: block;
+	color: #081a55;
+	font-size: 16px;
+	margin-top: 15px;
+	font-family: "sofiapro-light";
+}
+.subscribe {
+	padding: 0px 20px;
+}
+footer h5 {
+	color: #081a55;
+	font-size: 22px;
+	text-transform: capitalize;
+	font-family: "Brinnan-Bold";
+}
+.social-footer h5 {
+	letter-spacing: 8px;
+}
+.footer-wrapper {
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	margin-top: 40px;
+}
+footer {
+	background-color: transparent;
+	border-top: 1px solid #b0c3d7;
+}
+.term-condition {
+	margin-top: 20px;
+}
+footer p {
+	color: #081a55;
+	font-size: 15px;
+	margin-top: 20px;
+	font-weight: 400;
+	font-family: "Poppins";
+	font-family: "sofiapro-light";
+	padding-right: 80px;
+}
+
+.footer-text p {
+	margin-top: -29px;
+	margin-bottom: 57px;
+}
+
+.footer h4 {
+	color: #ffffff;
+	margin-top: 38px;
+	font-size: 20px;
+	margin-left: -15px;
+	font-family: "Poppins";
+}
+
+.footer-container {
+	padding-top: 40px;
+}
+
+.social-footer {
+	padding: 0px 0px 25px 0px;
+	width: 80%;
+}
+
+.footer-text {
+	margin-top: 38px;
+	margin-left: -30px;
+}
+
+.footer-border {
+	margin-left: 49px;
+}
+
+.footer-logo h5 {
+	color: #ffffff;
+}
+.footer-iconics ul {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	margin-top: 20px;
+	margin-left: 0px;
+}
+.footer-iconics ul li {
+	margin: 0 20px 0px 0px;
+	width: 29px;
+	height: 29px;
+	background: #081a55;
+	border-radius: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.footer-iconics ul li i {
+	color: #fff;
+}
+.footer-wrapper ul li {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+}
+.footer-wrapper ul li img {
+	margin-right: 10px;
+	margin-top: 10px;
+}
+.footer-all-right {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	border-top: 1px solid #94b9d4;
+	padding-top: 20px;
+}
+.footer-all-right h6 {
+	font-family: "Poppins-Medium";
+	font-size: 14px;
+	color: #081a55;
+}
+/* footer start End */

@@ -24,10 +24,12 @@
                     <h1>Banner-Man
                     </h1>
                 </div>
-                <div class="image-zindex">
-                    <img src="img/banner-pic.png" class="img-fluid" alt="">
-                    <img src="img/banner-pic.png" class="img-fluid" alt="">
-                    <img src="img/banner-pic.png" class="img-fluid" alt="">
+                <div class="userbox">
+                    <span class="user-circle"><img src="img/banner-pic1.png" class="img-fluid" alt=""></span>
+                    <span class="user-circle"> <img src="img/banner-pic.png" class="img-fluid" alt=""></span>
+                    <span class="user-circle"><img src="img/banner-pic1.png" class="img-fluid" alt=""></span>
+                    <span class="user-circle"><img src="img/banner-pic2.png" class="img-fluid" alt=""></span>
+                    <span class="user-circle">20+</span>
                 </div>
             </div>
             <div class="col-lg-6"></div>
