@@ -24,6 +24,11 @@
                     <h1>Banner-Man
                     </h1>
                 </div>
+                <div class="image-zindex">
+                    <img src="img/banner-pic.png" class="img-fluid" alt="">
+                    <img src="img/banner-pic.png" class="img-fluid" alt="">
+                    <img src="img/banner-pic.png" class="img-fluid" alt="">
+                </div>
             </div>
             <div class="col-lg-6"></div>
         </div>
