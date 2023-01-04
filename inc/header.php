@@ -70,7 +70,7 @@
                             <li class="normal-nav-items"><a class="menu link" href="aboutus.php">About Us</a></li>
                             <li class="normal-nav-items"><a class="menu link" href="#">Customizable Products</a>
                             </li>
-                            <li class="normal-nav-items"><a class="menu link" href="#">Contact Us</a></li>
+                            <li class="normal-nav-items"><a class="menu link" href="contactus.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>

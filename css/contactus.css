@@ -1,0 +1,114 @@
+.contact-sec{
+    padding-top:50px;
+    padding-bottom: 100px;
+}
+.side-box-contact {
+    background-color: #081A55;
+    padding: 20px 0;
+    height: 100%;
+}
+
+.side-box-contact h2 {
+    color: #FFFFFF;
+}
+
+.side-contactheading.main_heading h2 {
+    font-size: 26px;
+}
+
+.office-hr h2 {
+    font-size: 13px;
+}
+
+.side-box-contact p {
+    color: #FFFFFF;
+    font-family: "Poppins-Light";
+    margin-bottom: 0;
+    font-size: 13px;
+}
+
+.side-box-contact span {
+    color: #FFFFFF;
+    font-family: "Poppins-Light";
+}
+
+.place-num-loc {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+}
+
+.contact-box {
+    padding-top: 100px;
+    /* display: flex; */
+    /* gap: 70px; */
+}
+
+.all-address-info {
+    padding: 10px 30px;
+    border-bottom: 1px solid #65B3FF;
+}
+
+.office-hr {
+    padding: 20px 30px;
+    border-bottom: 1px solid #65B3FF;
+}
+
+.office-info.main_heading {
+    padding: 7px 0;
+}
+
+.side-contactheading.main_heading {
+    padding: 0 30px;
+}
+
+label {
+    font-family: "Poppins-Regular";
+}
+
+label sup {
+    color: #399DFF;
+    font-size: 15px;
+    top: -1px;
+}
+
+textarea#exampleFormControlTextarea1 {
+    resize: none;
+    height: 131px;
+}
+
+.form-control {
+    background-color: #F3F3F3 !important;
+    border: 1px solid #C3CAD9 !important;
+    border-radius: 0;
+}
+
+.contact-form .btn {
+    font-family: "Poppins-Light";
+    border-radius: 26px;
+    width: 138px;
+    font-size: 13px;
+    padding: 8px 0;
+    background-color: #0080FF;
+}
+.form-control::placeholder{
+    color: #CDD4D8;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.place-num-loc h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.office-info.main_heading p {
+    color: #FFFFFF;
+}
+select.form-select {
+    background-color: #F3F3F3 !important;
+    border: 1px solid #C3CAD9 !important;
+    color: #798388;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    opacity: 4 !important;
+}

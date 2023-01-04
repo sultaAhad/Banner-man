@@ -800,7 +800,52 @@ section.serach-sec {
 	padding: 20px 0 120px 0;
 }
 /* Banner css start */
+/* newsletter start here */
+section.newsletter-sec {
+    padding: 117px 0;
+}
+.newsletter-heading h2 {
+    font-size: 35px;
+    color: white;
+    line-height: unset;
+    margin-bottom: 0;
+}
 
+.newsletter-heading span {
+    font-family: "Brinnan-Bold";
+}
+
+.newsletter-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 61px;
+    background: #0F256E;
+    border-radius: 9px;
+}
+
+.newletter-info p {
+    font-size: 14px;
+    color: wheat;
+    margin: 0;
+}
+
+.subscribe-newletter button {
+    background: #08A9E6;
+    color: white;
+    width: 113px;
+}
+.subscribe-newletter .btn-outline-secondary:hover {
+	background: #08A9E6;
+    color: white;
+    border-color: #0F256E;
+}
+.subscribe-newletter input.form-control {
+    width: 70%;
+	padding: 10px;
+}
+
+/* newsletter end here */
 /* footer start here */
 .about-footer {
 	display: flex;
