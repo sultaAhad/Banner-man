@@ -2,6 +2,13 @@
     padding-top:50px;
     padding-bottom: 100px;
 }
+.contacthead.main_heading {
+    padding-bottom: 50px;
+}
+.contacthead.main_heading h2 {
+    font-size: 47px;
+    color: #081A55;
+}
 .side-box-contact {
     background-color: #081A55;
     padding: 20px 0;
@@ -35,7 +42,8 @@
 .place-num-loc {
     display: flex;
     align-items: baseline;
-    gap: 8px;
+    gap: 9px;
+    padding: 10px 0;
 }
 
 .contact-box {
@@ -45,13 +53,12 @@
 }
 
 .all-address-info {
-    padding: 10px 30px;
-    border-bottom: 1px solid #65B3FF;
+    padding: 29px 30px 47px 30px;
+    /* border-bottom: 1px solid #65B3FF; */
 }
 
 .office-hr {
-    padding: 20px 30px;
-    border-bottom: 1px solid #65B3FF;
+    padding: 30px 30px 20px 30px;
 }
 
 .office-info.main_heading {
@@ -83,19 +90,24 @@ textarea#exampleFormControlTextarea1 {
     border-radius: 0;
 }
 
-.contact-form .btn {
-    font-family: "Poppins-Light";
-    border-radius: 26px;
-    width: 138px;
+.contact-submit-btn {
+    text-align: right;
+}
+
+.contact-submit-btn .btn {
+    background: #08A9E6;
+    border-radius: 6px;
+    border-color: transparent;
+    width: 169px;
     font-size: 13px;
     padding: 8px 0;
-    background-color: #0080FF;
+    font-family: "Poppins-Light";
 }
 .form-control::placeholder{
     color: #CDD4D8;
     font-size: 12px;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
+    font-family: "Poppins-Regular";
+    text-transform: lowercase;
 }
 .place-num-loc h2 {
     font-family: 'Poppins', sans-serif;
@@ -111,4 +123,16 @@ select.form-select {
     font-size: 12px;
     font-family: 'Montserrat', sans-serif;
     opacity: 4 !important;
+}
+.contact-form .main_heading h2{
+    font-size: 30px;
+}
+.contact-form {
+    background-color: #E5F3FA;
+    padding: 42px 30px;
+    border: 1px solid #707070;
+    height: 100%;
+}
+section.newsletter-sec {
+    padding: 0 0 89px 0 !important;
 }
