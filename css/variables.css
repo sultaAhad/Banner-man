@@ -22,6 +22,10 @@
 	src: url(../fonts/Poppins-Regular.ttf);
 	font-family: "Poppins-Regular";
 }
+@font-face {
+	src: url(../fonts/Poppins-Light.ttf);
+	font-family: "Poppins-Light";
+}
 
 @font-face {
 	src: url(../fonts/Brinnan-Regular.otf);
@@ -40,6 +44,15 @@
 @font-face {
 	src: url(../fonts/Brinnan-Black.otf);
 	font-family: "Brinnan Black";
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html {
+	overflow-x: hidden;
+	scroll-behavior: smooth;
 }
 body {
 	margin: 0;
@@ -93,7 +106,7 @@ h6 {
 }
 
 p {
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 400;
 	font-family: "poppins";
 }
@@ -393,4 +406,17 @@ ul {
 	100% {
 		box-shadow: none;
 	}
+}
+.scrollTop {
+	position: fixed;
+	right: 10%;
+	bottom: 10px;
+	background-color: #f75414;
+	padding: 20px;
+	opacity: 0;
+	transition: all 0.4s ease-in-out 0s;
+}
+.scrollTop a {
+	font-size: 18px;
+	color: #fff;
 }

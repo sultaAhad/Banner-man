@@ -59,8 +59,7 @@
         <div class="all-nav">
             <div class="row">
                 <div class="col-lg-3">
-                    <div class="for-logo" data-aos="fade-right" data-aos-anchor="#example-anchor" data-aos-offset="200"
-                        data-aos-duration="500">
+                    <div class="for-logo" data-aos="fade-right" data-aos-duration="3000">
                         <li><a href="index.php"><img src="img/logo.png" alt=""></a></li>
                     </div>
                 </div>

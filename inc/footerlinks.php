@@ -107,7 +107,7 @@ $(document).ready(function() {
         $('#search').show()
     })
 })
-
+// gsap responsive header
 const open = document.querySelector('.container1');
 const close = document.querySelector('.close1');
 var tl = gsap.timeline({
@@ -141,4 +141,193 @@ open.addEventListener('click', () => {
 close.addEventListener('click', () => {
     tl.reverse();
 });
+// parallax img
+document.addEventListener("mousemove", parallax);
+
+function parallax(e) {
+    this.querySelectorAll('.layer').forEach(layer => {
+        const speed = layer.getAttribute('data-speed')
+
+        const x = (window.innerWidth - e.pageX * speed) / 100
+        const y = (window.innerHeight - e.pageY * speed) / 100
+
+        layer.style.transform = `translateX(${x}px) translateY(${y}px)`
+    })
+}
+// banner main heading
+window.onload = function() {
+    animateRandom();
+};
+
+function animateRandom() {
+    var a = document.getElementsByClassName('random');
+    for (var i = 0; i < a.length; i++) {
+        var $this = a[i];
+        var letter = $this.innerHTML;
+        letter = letter.trim();
+        var delay = 70;
+        var delayArray = new Array;
+        var randLetter = new Array;
+        for (j = 0; j < letter.length; j++) {
+            while (1) {
+                var random = getRandomInt(0, (letter.length - 1));
+                if (delayArray.indexOf(random) == -1)
+                    break;
+            }
+            delayArray[j] = random;
+        }
+        for (l = 0; l < delayArray.length; l++) {
+            var str = '';
+            var index = delayArray[l];
+            if (letter[index] != ' ') {
+                str = '<span style="animation-delay:' + delay + 'ms; -moz-animation-delay:' + delay +
+                    'ms; -webkit-animation-delay:' + delay + 'ms; ">' + letter[index] + '</span>';
+                randLetter[index] = str;
+            } else
+                randLetter[index] = letter[index];
+            delay += 30;
+        }
+        randLetter = randLetter.join("");
+        $this.innerHTML = randLetter;
+    }
+}
+
+function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+// slider 
+$('.slider').slick({
+    dots: false,
+    infinite: false,
+    speed: 300,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: true
+            }
+        },
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+    ]
+});
+$('.slidermacho').slick({
+    dots: false,
+    infinite: false,
+    speed: 600,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: true
+            }
+        },
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+    ]
+})
+// BY KAREN GRIGORYAN
+
+$(document).ready(function() {
+    /******************************
+        BOTTOM SCROLL TOP BUTTON
+     ******************************/
+
+    // declare variable
+    var scrollTop = $(".scrollTop");
+
+    $(window).scroll(function() {
+        // declare variable
+        var topPos = $(this).scrollTop();
+
+        // if user scrolls down - show scroll to top button
+        if (topPos > 100) {
+            $(scrollTop).css("opacity", "1");
+
+        } else {
+            $(scrollTop).css("opacity", "0");
+        }
+
+    }); // scroll END
+
+    //Click event to scroll to top
+    $(scrollTop).click(function() {
+        $('html, body').animate({
+            scrollTop: 0
+        }, 800);
+        return false;
+
+    }); // click() scroll top EMD
+
+    /*************************************
+      LEFT MENU SMOOTH SCROLL ANIMATION
+     *************************************/
+    // declare variable
+    var h1 = $("#h1").position();
+    var h2 = $("#h2").position();
+    var h3 = $("#h3").position();
+
+    $('.link1').click(function() {
+        $('html, body').animate({
+            scrollTop: h1.top
+        }, 500);
+        return false;
+
+    }); // left menu link2 click() scroll END
+
+    $('.link2').click(function() {
+        $('html, body').animate({
+            scrollTop: h2.top
+        }, 500);
+        return false;
+
+    }); // left menu link2 click() scroll END
+
+    $('.link3').click(function() {
+        $('html, body').animate({
+            scrollTop: h3.top
+        }, 500);
+        return false;
+
+    }); // left menu link3 click() scroll END
+
+}); // ready() END
 </script>
