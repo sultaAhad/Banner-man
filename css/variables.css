@@ -126,6 +126,12 @@ li {
 ul {
 	padding: 0;
 }
+.main_heading h2{
+    font-family: "Brinnan-Regular";
+}
+.main_heading span{
+	font-family: "Brinnan-Bold" !important;
+}
 /*preloader*/
 
 .preloader {
