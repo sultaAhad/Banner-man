@@ -1,0 +1,79 @@
+section.tabs-design-sec {
+	padding: 110px 0;
+}
+.nav-tabs-design ul li .nav-link {
+	background: #e4f3fa;
+	height: 120px;
+	width: 170px;
+	border: 1px solid #d4e0e5;
+	border-radius: 0;
+}
+.nav-tabs-design ul li .nav-link.active {
+	color: #fff;
+	background-color: #e4f3fa;
+}
+.deisgn h5 {
+	color: #081a55;
+	font-size: 16px;
+	font-family: "Brinnan-Bold";
+}
+.nav-tabs-design ul li .second-links {
+	border-radius: 10px 0px 0px 10px;
+}
+.nav-tabs-design ul li .second-links1 {
+	border-radius: 0px 10px 10px 0px;
+}
+li.nav-item.nav-second {
+	display: none;
+}
+.inside-wrapper {
+	display: flex;
+	flex-direction: column;
+}
+.nav-tabs-design ul li .second-links2 {
+	background: transparent;
+	height: 100px;
+	width: 100%;
+	border: none;
+	border-radius: 0;
+	text-align: start;
+	padding: 0;
+	border-bottom: 1px solid #dcdcdc;
+}
+.deisgn1 {
+	display: flex;
+	align-items: center;
+}
+.deisgn1 img {
+	margin-right: 16px;
+}
+.deisgn1 h5 {
+	color: #081a55;
+	font-size: 20px;
+	font-family: "Brinnan-Bold";
+}
+.deisgn1 p {
+	color: #767b7d;
+	font-size: 16px;
+	font-family: "Poppins-Medium";
+}
+.tab-headind-main h4 {
+	font-family: "Montserrat-SemiBold";
+	font-size: 30px;
+	color: #081a55;
+}
+.tab-headind-main p {
+	font-family: "Montserrat-Regular";
+	font-size: 16px;
+	color: #081a55;
+}
+div#pills-hidden {
+	background: #eef7fb;
+	border-radius: 20px;
+	padding: 50px 40px;
+}
+.flag-img {
+	border-left: 1px solid #dcdcdc;
+	padding-left: 60px;
+	height: 116%;
+}

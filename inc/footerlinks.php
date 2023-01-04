@@ -54,7 +54,7 @@ const menuItem = document.querySelectorAll(".normal-nav-items .menu");
 const menuLength = menuItem.length;
 for (let i = 0; i < menuLength; i++) {
     if (menuItem[i].href === CurrentLocation) {
-        menuItem[i].className = "active";
+        menuItem[i].id = "active";
     }
 }
 </script>
@@ -330,4 +330,33 @@ $(document).ready(function() {
     }); // left menu link3 click() scroll END
 
 }); // ready() END
+// Show the first tab and hide the rest
+$(document).ready(function() {
+    //Enable Tooltips
+    var tooltipTriggerList = [].slice.call(
+        document.querySelectorAll('[data-bs-toggle="tooltip"]')
+    );
+    var tooltipList = tooltipTriggerList.map(function(tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl);
+    });
+
+    //Advance Tabs
+    $(".next").click(function() {
+        const nextTabLinkEl = $(".nav-tabs .active")
+            .closest("li")
+            .next("li")
+            .find("a")[0];
+        const nextTab = new bootstrap.Tab(nextTabLinkEl);
+        nextTab.show();
+    });
+
+    $(".previous").click(function() {
+        const prevTabLinkEl = $(".tab-pane .active")
+            .closest("li")
+            .prev("li")
+            .find("a")[0];
+        const prevTab = new bootstrap.Tab(prevTabLinkEl);
+        prevTab.show();
+    });
+});
 </script>
