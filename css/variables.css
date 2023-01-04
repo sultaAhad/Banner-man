@@ -406,6 +406,7 @@ ul {
 	100% {
 		box-shadow: none;
 	}
+	/* scroll bottom to top css */
 }
 .scrollTop {
 	position: fixed;
