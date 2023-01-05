@@ -66,7 +66,7 @@
                 <div class="col-lg-6">
                     <div class="navbar-items ml-auto">
                         <ul class="all-normal-navs">
-                            <li class="normal-nav-items"><a class="menu link " href="index.php">Home</a></li>
+                            <li class="normal-nav-items"><a class="menu link  " href="index.php">Home</a></li>
                             <li class="normal-nav-items"><a class="menu link" href="aboutus.php">About Us</a></li>
                             <li class="normal-nav-items"><a class="menu link" href="#">Customizable Products</a>
                             </li>
