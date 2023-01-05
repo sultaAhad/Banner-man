@@ -1,0 +1,20 @@
+.all-economy-heading h2 {
+    font-size: 50px;
+    margin: 0;
+    /* line-height: 3rem; */
+}
+
+.side-heading h2 {
+    font-size: 17px;
+    margin: 0;
+    /* line-height: 22px; */
+}
+
+.all-paper-heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+section.paper-economy {
+    padding: 120px 0;
+}
