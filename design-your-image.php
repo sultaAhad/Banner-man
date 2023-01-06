@@ -198,6 +198,20 @@
                                             <div class="col-lg-12">
                                                 <div class="col-ting">
                                                     <div class="tab-headind-main">
+                                                        <h4>Add an Image To Your Design</h4>
+                                                        <p>Browse our clip art catalog or upload your own design</p>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="pills-contact" role="tabpanel"
+                                        aria-labelledby="pills-contact-tab">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="col-ting">
+                                                    <div class="tab-headind-main">
                                                         <h4>Add Clipart To Your Design</h4>
                                                         <p>Browse our clip art catalog or upload your own design</p>
                                                         <table class="table-fill">
@@ -238,9 +252,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="pills-contact" role="tabpanel"
-                                        aria-labelledby="pills-contact-tab">
-                                        Add Clipart</div>
                                     <div class="tab-pane fade" id="pills-background" role="tabpanel"
                                         aria-labelledby="pills-background-tab">Add Background</div>
                                     <div class="tab-pane fade" id="pills-final" role="tabpanel"
