@@ -362,4 +362,67 @@ $(document).ready(function() {
         prevTab.show();
     });
 });
+// upload image
+$(document).ready(function() {
+    $('#image').change(function() {
+        var a = $('#image').val().toString().split('\\');
+        $('#fakeInput').val(a[a.length - 1]);
+        $("#frames").html('');
+        for (var i = 0; i < $(this)[0].files.length; i++) {
+            $("#frames").append('<img src="' + window.URL.createObjectURL(this.files[i]) +
+                '" width="100px" height="100px"/>');
+        }
+    });
+});
+
+function bootstrapTabControl() {
+    var i, items = $('.nav-link'),
+        pane = $('.tab-pane');
+    // next
+    $('.nexttab').on('click', function() {
+        for (i = 0; i < items.length; i++) {
+            if ($(items[i]).hasClass('active') == true) {
+                break;
+            }
+        }
+        if (i < items.length - 1) {
+            // for tab
+            $(items[i]).removeClass('active');
+            $(items[i + 1]).addClass('active');
+            // for pane
+            $(pane[i]).removeClass('show active');
+            $(pane[i + 1]).addClass('show active');
+        }
+
+    });
+    // Prev
+    $('.prevtab').on('click', function() {
+        for (i = 0; i < items.length; i++) {
+            if ($(items[i]).hasClass('active') == true) {
+                break;
+            }
+        }
+        if (i != 0) {
+            // for tab
+            $(items[i]).removeClass('active');
+            $(items[i - 1]).addClass('active');
+            // for pane
+            $(pane[i]).removeClass('show active');
+            $(pane[i - 1]).addClass('show active');
+        }
+    });
+}
+bootstrapTabControl();
+// upload input
+$('#fakeInput').change(function() {
+    var a = $('#fakeInput').val().toString().split('\\');
+    $('#fakeInput').val(a[a.length - 1]);
+});
+// add active
+$(document).ready(function() {
+    $(".tab").click(function() {
+        $(".tab").removeClass("active");
+        $(".tab").addClass("active");
+    });
+});
 </script>
