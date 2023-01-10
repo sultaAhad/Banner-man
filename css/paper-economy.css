@@ -18,3 +18,171 @@
 section.paper-economy {
     padding: 120px 0;
 }
+/* step-sec start here */
+.all-box-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 26px 13px;
+}
+
+.info-side h2 {
+    font-size: 24px;
+    line-height: 1;
+}
+
+.step-heading-box h3 {
+    font-size: 15px;
+    color: white;
+    margin: 0;
+}
+
+.step-heading-box {
+    background: #081A55;
+    padding: 11px 10px;
+    width: 299px;
+    border-bottom-right-radius: 9px;
+}
+
+.info-side p {
+    margin: 0;
+    color: #081A55;
+    font-family: "Poppins-Regular";
+}
+
+.step-one-box {
+    background: #EFF8FC;
+    border: 1px solid #081a5530;
+    margin: 19px 0;
+}
+.all-select-side {
+    display: flex;
+    gap: 23px;
+    justify-content: center;
+}
+/* .all-select-side select.form-select {
+    width: 200px;
+} */
+.qty-select {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 0;
+    text-align: center;
+}
+.qty-select select.form-select {
+    width: 94%;
+}
+.step-btn {
+    text-align: right;
+    width: 96%;
+    padding: 10px 0;
+}
+
+.step-btn .btn {
+    background: #08A9E6;
+    border: 0;
+    font-size: 13px;
+    border-radius: 6px;
+    font-family: "Poppins-Light";
+}
+.steptwo-btn .btn {
+    width: 128px;
+    background: #08A9E6;
+    border: 0;
+    font-size: 13px;
+    border-radius: 6px;
+    font-family: "Poppins-Light";
+}
+.steptwo-btn{
+    text-align: center;
+    padding: 10px 0;
+}
+.steptwo .all-box-content {
+    padding: 39px 23px;
+    align-items: baseline;
+}
+.upload-box label {
+    border: 1px dashed #08a9e66e !important;
+    padding: 29px 56px !important;
+    border-width: 3px !important;
+    width: 100%;
+    text-align: center;
+    background: transparent;
+    border-radius: 4px;
+    color: #31313182;
+}
+.upload-box {
+    padding: 17px 0;
+}
+.last-step{
+    text-align: right;
+}
+.option-heading h2 {
+    font-size: 23px;
+}
+
+.option .btn {
+    background: #08A9E6;
+    font-size: 13px;
+    border: 0;
+}
+
+.option-side {
+    padding: 10px 0;
+}
+/* step-sec end here */
+/* experience-sec start here */
+.misson-box {
+    padding: 5px 0 0 30px;
+    background: #081A55;
+    border-radius: 16px;
+    position: relative;
+}
+.misson-box h2 {
+    color: white;
+    font-size: 40px;
+    line-height: unset;
+    margin: 0;
+}
+
+.misson-box span {
+    font-family: "Brinnan-Bold" !important;
+}
+
+.mission-heading-content h6 {
+    line-height: unset;
+    margin: 0;
+}
+
+.mission-heading-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mission-info p {
+    color: white;
+    font-size: 15px;
+    margin: 0;
+}
+.banner-small-headings h6 {
+    font-size: 15px;
+}
+.experience-man{
+    text-align: left;
+}
+.mission-img {
+    text-align: right;
+    position: absolute;
+    bottom: 0;
+}
+
+.banner-small-headings {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.steptwo-btn.experience-man .btn {
+    width: 186px;
+}
+section.experience-sec {
+    padding: 100px 0;
+}
+/* experience-sec end here */
