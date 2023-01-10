@@ -162,48 +162,70 @@
 <!--************ team-sec start here *********** -->
 <section class="team-sec">
     <div class="container">
-        <div class="col-md-4">
-            <div class="banner-small-heading">
-                <h6>Your Superhero For Banners And Signs</h6>
-            </div>
-            <div class="main_heading">
-                <h2>Our <span>Team</span>
-                </h2>
-            </div>
-            <div class="superhero-text">
-                <p>Ornare arcu dui vivamus arcu felis bibendum ut tristique.
-                    Elementum facilisis leo vel fringilla est ullamcorper.
-                    Sed augue lacus viverra vitae congue. Sed adipiscing diam
-                </p>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="banner-small-heading">
+                    <h6>Your Superhero For Banners And Signs</h6>
+                </div>
+                <div class="main_heading">
+                    <h2>Our <span>Team</span>
+                    </h2>
+                </div>
+                <div class="superhero-text">
+                    <p>Ornare arcu dui vivamus arcu felis bibendum ut tristique.
+                        Elementum facilisis leo vel fringilla est ullamcorper.
+                        Sed augue lacus viverra vitae congue. Sed adipiscing diam
+                    </p>
+                </div>
             </div>
         </div>
-        <div class="meet-our-team">
-            <div class="person_one">
-                <img src="img/person1.png" alt="" class="img-fluid">
-                <div class="teammate-name">
-                    <h5>John Doe Mark</h5>
-                    <p>General Manager</p>
+        <div class="meet-our-team ">
+            <div class="box">
+                <div class="imgBx">
+                    <img src="img/person1.png" alt="" class="img-fluid">
+                </div>
+                <div class="content">
+                    <div>
+                        <h2>John Doe Mark</h2>
+                        <p>General Manager
+                        </p>
+                    </div>
                 </div>
             </div>
-            <div class="person_one">
-                <img src="img/person2.png" alt="" class="img-fluid">
-                <div class="teammate-name">
-                    <h5>John Doe Mark</h5>
-                    <p>General Manager</p>
+            <div class="box">
+                <div class="imgBx">
+                    <img src="img/person2.png" alt="" class="img-fluid">
+                </div>
+                <div class="content">
+                    <div>
+                        <h2>John Doe Mark</h2>
+                        <p>General Manager
+                        </p>
+                    </div>
                 </div>
             </div>
-            <div class="person_one">
-                <img src="img/person3.png" alt="" class="img-fluid">
-                <div class="teammate-name">
-                    <h5>John Doe Mark</h5>
-                    <p>General Manager</p>
+            <div class="box">
+                <div class="imgBx">
+                    <img src="img/person3.png" alt="" class="img-fluid">
+                </div>
+                <div class="content">
+                    <div>
+                        <h2>John Doe Mark</h2>
+                        <p>General Manager
+                        </p>
+                    </div>
                 </div>
             </div>
-            <div class="person_one">
-                <img src="img/person4.png" alt="" class="img-fluid">
-                <div class="teammate-name">
-                    <h5>John Doe Mark</h5>
-                    <p>General Manager</p>
+            <div class="box">
+                <div class="imgBx">
+                    <img src="img/person4.png" alt="" class="img-fluid">
+                </div>
+                <div class="content">
+                    <div>
+                        <h2>John Doe Mark</h2>
+                        <p>General Manager
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>

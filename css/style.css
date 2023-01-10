@@ -172,6 +172,9 @@ h6.account {
 	align-items: center;
 	justify-content: center;
 	overflow: hidden;
+	width: 150%;
+	position: absolute;
+	left: -650px;
 }
 .img-marque-wrapper {
 	position: relative;

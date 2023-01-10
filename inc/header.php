@@ -24,15 +24,15 @@
                             <a class="close"><i class="fa fa-times"></i></a>
                         </li>
                         <li>
-                          <a href="login.php">
-                          <div class="user">
-                                <i class="fa-regular fa-user"></i>
-                                <div class="signin">
-                                    <h6 class="sign-in-header">Sign In</h6>
-                                    <h6 class="account">Account</h6>
+                            <a href="login.php">
+                                <div class="user">
+                                    <i class="fa-regular fa-user"></i>
+                                    <div class="signin">
+                                        <h6 class="sign-in-header">Sign In</h6>
+                                        <h6 class="account">Account</h6>
+                                    </div>
                                 </div>
-                            </div>
-                          </a>
+                            </a>
                         </li>
                         <li>
                             <div class="heart">
@@ -70,7 +70,8 @@
                         <ul class="all-normal-navs">
                             <li class="normal-nav-items"><a class="menu link  " href="index.php">Home</a></li>
                             <li class="normal-nav-items"><a class="menu link" href="aboutus.php">About Us</a></li>
-                            <li class="normal-nav-items"><a class="menu link" href="customizable-products.php">Customizable Products</a>
+                            <li class="normal-nav-items"><a class="menu link"
+                                    href="customizable-products.php">Customizable Products</a>
                             </li>
                             <li class="normal-nav-items"><a class="menu link" href="contactus.php">Contact Us</a></li>
                         </ul>
