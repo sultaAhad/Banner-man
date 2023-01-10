@@ -65,6 +65,10 @@
 	src: url(../fonts/Montserrat-SemiBold.ttf);
 	font-family: "Montserrat-SemiBold";
 }
+@font-face {
+	src: url(../fonts/Roboto-Bold.ttf);
+	font-family: "Roboto-Bold";
+}
 * {
 	margin: 0;
 	padding: 0;

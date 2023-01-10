@@ -198,9 +198,137 @@
                                             <div class="col-lg-12">
                                                 <div class="col-ting">
                                                     <div class="tab-headind-main">
-                                                        <h4>Add an Image To Your Design</h4>
-                                                        <p>Browse our clip art catalog or upload your own design</p>
+                                                        <form>
+                                                            <div class="multi-slider">
+                                                                <div class="mb-3">
+                                                                    <input type="text" class="form-control"
+                                                                        id="exampleInputEmail1"
+                                                                        aria-describedby="emailHelp"
+                                                                        placeholder="Enter Your Text Here..">
+                                                                </div>
+                                                            </div>
+                                                            <div class="select-wrapper">
+                                                                <label for="">
+                                                                    <h6>Font</h6>
+                                                                    <div class="select-wrapper1">
+                                                                        <select class="form-select"
+                                                                            aria-label="Default select example">
+                                                                            <option selected>ROBOTO BOLD</option>
+                                                                            <option value="1">One</option>
+                                                                            <option value="2">Two</option>
+                                                                            <option value="3">Three</option>
+                                                                        </select>
+                                                                    </div>
+                                                                </label>
+                                                                <div class="color-picker">
+                                                                    <label for="color-picker-wrapper">
+                                                                        <h6>Color</h6>
+                                                                        <img src="img/color-picker.png"
+                                                                            id="color-picker-wrapper" class="img-fluid"
+                                                                            alt="">
+                                                                    </label>
+                                                                </div>
+                                                                <div class="color-picker">
+                                                                    <label for="color-picker-wrapper">
+                                                                        <h6>Stroke</h6>
+                                                                        <img src="img/color-picker.png"
+                                                                            id="color-picker-wrapper" class="img-fluid"
+                                                                            alt="">
+                                                                    </label>
+                                                                </div>
+                                                                <div class="color-picker">
+                                                                    <label for="color-picker-wrapper">
+                                                                        <h6>Shadow</h6>
+                                                                        <img src="img/color-picker1.png"
+                                                                            id="color-picker-wrapper" class="img-fluid"
+                                                                            alt="">
+                                                                    </label>
+                                                                </div>
+                                                            </div>
+                                                            <div class="select-wrapper2">
+                                                                <label for="">
+                                                                    <h6>Layer Order</h6>
+                                                                    <a class="btn" href=""><i
+                                                                            class="fa-solid fa-angles-up"></i>
+                                                                        <span>Bring Forward</span> </a>
+                                                                    <a class="btn" href=""><i
+                                                                            class="fa-solid fa-angles-down"></i>
+                                                                        <span>Bring Forward</span> </a>
+                                                                </label>
+                                                                <label for="">
+                                                                    <h6>Positions</h6>
+                                                                    <a class="btn" href=""><i
+                                                                            class="fa-solid fa-angles-up"></i>
+                                                                        <span>Bring Forward</span> </a>
+                                                                </label>
+                                                                <div class="justify">
+                                                                    <button><img src="img/justify.png" alt=""></button>
+                                                                    <button><img src="img/justify1.png" alt=""></button>
+                                                                    <button><img src="img/justify2.png" alt=""></button>
+                                                                </div>
 
+                                                            </div>
+                                                            <div class="range-wrapper">
+                                                                <label for="range">
+                                                                    <h6> Size</h6>
+                                                                    <Input class="range" type="range" name "" value="0"
+                                                                        min="1" max="100"
+                                                                        onChange="rangeSlide(this.value)"
+                                                                        onmousemove="rangeSlide(this.value)"></Input>
+                                                                    <span id="rangeValue">0</span>
+                                                                </label>
+                                                            </div>
+                                                            <div class="range-wrapper">
+                                                                <label for="range">
+                                                                    <h6> Spacing </h6>
+                                                                    <Input class="range1 range" type="range" name ""
+                                                                        value="0" min="1" max="100"
+                                                                        onChange="rangeSlide1(this.value)"
+                                                                        onmousemove="rangeSlide1(this.value)"></Input>
+                                                                    <span id="rangeValue1">0</span>
+                                                                </label>
+                                                            </div>
+                                                            <div class="range-wrapper">
+                                                                <label for="range">
+                                                                    <h6> Rotate </h6>
+                                                                    <Input class="range2 range" type="range" name ""
+                                                                        value="0" min="1" max="100"
+                                                                        onChange="rangeSlide(this.value)"
+                                                                        onmousemove="rangeSlide2(this.value)"></Input>
+                                                                    <span id="rangeValue2">0</span>
+                                                                </label>
+                                                            </div>
+                                                            <div class="range-wrapper">
+                                                                <label for="range">
+                                                                    <h6> Mirror </h6>
+                                                                    <Input class="range3 range" type="range" name ""
+                                                                        value="0" min="1" max="100"
+                                                                        onChange="rangeSlide(this.value)"
+                                                                        onmousemove="rangeSlide3(this.value)"></Input>
+                                                                    <span id="rangeValue3">0</span>
+                                                                </label>
+                                                            </div>
+                                                            <div class="range-wrapper">
+                                                                <label for="range">
+                                                                    <h6> Stretch </h6>
+                                                                    <Input class="range4 range" type="range" name ""
+                                                                        value="0" min="1" max="100"
+                                                                        onChange="rangeSlide(this.value)"
+                                                                        onmousemove="rangeSlide4(this.value)"></Input>
+                                                                    <span id="rangeValue4">0</span>
+                                                                </label>
+                                                            </div>
+                                                            <div class="range-wrapper">
+                                                                <label for="range">
+                                                                    <h6> Arc </h6>
+                                                                    <Input class="range5 range" type="range" name ""
+                                                                        value="0" min="1" max="100"
+                                                                        onChange="rangeSlide(this.value)"
+                                                                        onmousemove="rangeSlide5(this.value)"></Input>
+                                                                    <span id="rangeValue5">0</span>
+                                                                </label>
+                                                            </div>
+                                                        </form>
                                                     </div>
                                                 </div>
                                             </div>
@@ -253,11 +381,120 @@
                                         </div>
                                     </div>
                                     <div class="tab-pane fade" id="pills-background" role="tabpanel"
-                                        aria-labelledby="pills-background-tab">Add Background</div>
+                                        aria-labelledby="pills-background-tab">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="color-handler">
+                                                    <div class="tab-headind-main">
+                                                        <h4>Backgrounds</h4>
+                                                    </div>
+                                                    <form>
+                                                        <div class="color-picker-plus-color">
+                                                            <div class="select-wrapper">
+                                                                <div class="color-picker color-picker12">
+                                                                    <label for="color-picker-wrapper">
+                                                                        <h6>Color</h6>
+                                                                        <img src="img/color-picker.png"
+                                                                            id="color-picker-wrapper" class="img-fluid"
+                                                                            alt="">
+                                                                    </label>
+                                                                </div>
+                                                            </div>
+                                                            <div class="color-many-color">
+                                                                <div class="bGButton">
+                                                                    <button class="red"></button>
+                                                                    <button class="orange"></button>
+                                                                    <button class="yellow"></button>
+                                                                    <button class="green"></button>
+                                                                    <button class="blue"></button>
+                                                                    <button class="purple"></button>
+                                                                    <button class="grey"></button>
+                                                                    <button class="white"></button>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </form>
+                                                </div>
+                                                <div class="main-wrapper">
+                                                    <div class="color-wrapper">
+                                                        <img src="img/color1.png" class="img-fluid" alt="">
+                                                        <img src="img/color2.png" class="img-fluid" alt="">
+                                                        <img src="img/color3.png" class="img-fluid" alt="">
+                                                        <img src="img/color4.png" class="img-fluid" alt="">
+                                                        <img src="img/color5.png" class="img-fluid" alt="">
+                                                        <img src="img/color6.png" class="img-fluid" alt="">
+                                                        <img src="img/color7.png" class="img-fluid" alt="">
+                                                        <img src="img/color8.png" class="img-fluid" alt="">
+                                                        <img src="img/color9.png" class="img-fluid" alt="">
+                                                        <img src="img/color10.png" class="img-fluid" alt="">
+                                                        <img src="img/color11.png" class="img-fluid" alt="">
+                                                        <img src="img/color12.png" class="img-fluid" alt="">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <div class="tab-pane fade" id="pills-final" role="tabpanel"
                                         aria-labelledby="final-tab">
-                                        Add
-                                        Backgroundasdasdasdasdasdasdasdasdasd
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="col-ting">
+                                                    <div class="tab-headind-main">
+                                                        <h4>Banner Preview</h4>
+                                                        <p>cu felis bibendum ut tristique. Elementum facilisis leo vel
+                                                            fringilla est ullamcorper. Sed augue lacus viverra vitae
+                                                            congue. Sed adipiscin</p>
+                                                        <div class="Banner-Preview">
+                                                            <div class="art-wrapper">
+                                                                <h6>Clip Art</h6>
+                                                                <h4>Birthday</h4>
+                                                            </div>
+                                                            <div class="art-wrapper">
+                                                                <h6>Font Size</h6>
+                                                                <h4>24 PT</h4>
+                                                            </div>
+                                                            <div class="art-wrapper">
+                                                                <h6>Font Type</h6>
+                                                                <h4>Montesarat</h4>
+                                                            </div>
+                                                        </div>
+                                                        <div class="Banner-Preview">
+                                                            <div class="art-wrapper">
+                                                                <h6>Mirror</h6>
+                                                                <h4>36</h4>
+                                                            </div>
+                                                            <div class="art-wrapper">
+                                                                <h6>Stretch</h6>
+                                                                <h4>465</h4>
+                                                            </div>
+                                                            <div class="art-wrapper">
+                                                                <h6>Arc</h6>
+                                                                <h4>489</h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <ul class="nav nav-pills flexwrapper mb-3" id="pills-tab"
+                                                    role="tablist">
+                                                    <li class="nav-item " role="presentation">
+                                                        <button class="nav-link-final" id="pills-profile-tab"
+                                                            data-bs-toggle="pill" data-bs-target="#pills-profile"
+                                                            type="button" role="tab" aria-controls="pills-profile"
+                                                            aria-selected="false">
+                                                            <div class="deisgn">
+                                                                <h5>Add Text <span><i
+                                                                            class="fa-solid fa-arrow-right"></i></span>
+                                                                </h5>
+                                                            </div>
+                                                        </button>
+                                                    </li>
+                                                    <li>
+                                                        <button class="nav-link-final">Add To Cart <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
