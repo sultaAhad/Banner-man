@@ -1,0 +1,40 @@
+.terms-heading h2 {
+    font-size: 44px;
+}
+
+.terms-heading h5 {
+    font-size: 20px;
+}
+
+section.margin-terms {
+    padding: 100px 0;
+}
+/* .terms-heading h2 {
+    font-family: "poppins";
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 35px;
+}
+
+.terms-heading h2 span {
+    font-family: "poppins";
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 25px;
+} */
+
+/* .terms-heading h5 {
+
+    font-family: "poppins";
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 25px;
+} */
+
+.para-heading {
+    font-family: "poppins";
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 25px;
+
+}

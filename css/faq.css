@@ -1,0 +1,178 @@
+section.faqs-sec {
+	padding-bottom: 100px;
+	padding-top: 80px;
+}
+.faq-card h2 .accordion-button {
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: #F6FBFE  !important;
+    padding: 0 10px;
+    border: 0;
+    font-size: 16px;
+}
+.faq-card {
+	border: 0;
+	border-radius: 0;
+}
+/* .faq-box {
+	border: 1px solid #68482a;
+	padding: 10px 23px;
+} */
+.faq-card {
+	/* border-bottom: 1px solid #68482a !important; */
+	/* border-top: 1px solid #E8E8E8 !important; */
+	margin: 10px 0;
+	position: relative;
+}
+.last-faq {
+	border-bottom: 0 !important;
+}
+.faq-accordions {
+	display: flex;
+	justify-content: center;
+}
+
+.faq-heading {
+    width: 100%;
+}
+.faq-heading h2 {
+    font-size: 40px;
+}
+section.faqs-sec .btn-link:hover {
+	text-decoration: none !important;
+}
+
+section.faqs-sec .card-header {
+	border-bottom: none !important;
+	padding: 0;
+}
+
+section.faqs-sec .card.faq-card {
+	margin-bottom: 3px;
+}
+
+section.faqs-sec .card-body {
+	padding: 0px 13px;
+}
+.accordion-body {
+    background: #EFF8FC !important;
+}
+/* section.faqs-sec button.btn.btn-link.faq[aria-expanded="true"]::before {
+    content: "\f106";
+    font-family: "fontawesome";
+    color: #FFFFFF;
+    margin-right: 20px;
+}
+
+section.faqs-sec button.btn.btn-link.faq[aria-expanded="false"]::before {
+    content: "\f107";
+    font-family: "fontawesome";
+    color: #FFFFFF;
+    margin-right: 20px;
+} */
+
+.card-body {
+	color: #ffffff;
+	font-size: 15px;
+	font-family: "Roboto-Medium";
+}
+
+.faq-card .heading {
+	padding: 7px 0;
+}
+
+.main_heading.text-center {
+	padding-bottom: 13px;
+	margin-bottom: 42px;
+}
+.fa-heading {
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+section.newsletter-sec {
+	padding-top: 86px;
+}
+
+section.faqs-sec .card.faq-card {
+	margin-bottom: 3px;
+}
+
+section.faqs-sec .card-body {
+	padding: 0px 13px;
+}
+
+section.faqs-sec .accordion-button[aria-expanded="true"]::before {
+    content: "\f068";
+    font-family: "fontawesome";
+    color: white;
+    position: absolute;
+    left: 0;
+    height: 100%;
+    background: #08A9E6;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section.faqs-sec .accordion-button[aria-expanded="false"]::before {
+	content: "\f067 ";
+	font-family: "fontawesome";
+    color: white;
+	/* margin-right: 20px; */
+	position: absolute;
+	left: 0;
+    height: 100%;
+    background: #081A55;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.accordion-body p {
+	font-family: "Poppins-Light";
+	color: #060606;
+}
+
+.accordion-button::after {
+	content: unset !important;
+}
+.accordion-button:focus {
+	z-index: 3;
+	border-color: transparent !important;
+	outline: 0;
+	box-shadow: unset !important;
+}
+.faq1 {
+    margin-left: 47px;
+    padding: 14px 10px;
+}
+@media (max-width: 590px) {
+	.faq-card h5 .faq {
+		font-size: 7px;
+	}
+
+	.faq-card .heading {
+		padding: 0;
+		overflow: hidden;
+		border-radius: 0;
+	}
+
+	div#accordion {
+		width: 100%;
+	}
+
+	.card-body {
+		font-size: 8px;
+	}
+
+	.reserve-btn {
+		width: 53%;
+	}
+
+	h2 {
+		font-size: 34px;
+	}
+}

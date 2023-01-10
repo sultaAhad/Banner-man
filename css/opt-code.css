@@ -1,0 +1,114 @@
+.main_heading h2 {
+    font-family: "Brinnan-Regular";
+    color: #081a55;
+    font-size: 34px;
+}
+.forgot-heading h2{
+    font-family: "Poppins-Regular";
+}
+.userInput {
+    display: flex;
+    /* justify-content: space-between; */
+    width: 100%;
+    gap: 17px;
+    padding-top: 11px;
+}
+
+input {
+    height: 43px;
+    width: 62px;
+    border: none;
+    /* border-bottom: 1px solid #8A8A8A; */
+    text-align: center;
+    background: white;
+    border-radius: 0;
+}
+
+.user-time {
+    padding: 20px 0;
+    text-align: center;
+}
+.register-wrapper {
+    padding: 42px 41px 38px 31px;
+    height: 100%;
+}
+
+.welcome-reg.main_heading span {
+    color: #F75414;
+}
+.sign-member-form {
+    padding-top: 23px;
+}
+.register h2 {
+    text-transform: uppercase;
+}
+.welcome-reg.main_heading {
+    padding: 10px 0;
+}
+
+.welcome-reg.main_heading h2 {
+    font-size: 26px;
+    margin: 0;
+}
+
+.member-log span {
+    color: #000000;
+    font-family: "Poppins-Light";
+}
+
+.member-log a {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.member-log {
+    padding-bottom: 20px;
+}
+
+.info-btn .btn {
+    width: 100%;
+    border-radius: 34px;
+    font-size: 12px;
+    padding: 9px 0;
+}
+
+.info-btn {
+    padding-top: 7px;
+}
+
+input.form-control {
+    border-radius: 0 !important;
+    background-color: #F3F3F3;
+    border: 1px solid #C3CAD9 !important;
+}
+
+section.register-sec {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.form-control::placeholder{
+    color: #CDD4D8;
+    font-size: 12px;
+    font-family: "Poppins-Light";
+}
+
+
+
+.info-one {
+    margin: 10px 0;
+}
+.info-btn2 .btn {
+    width: 100%;
+    border-radius: 34px;
+    font-size: 13px;
+    padding: 10px 0;
+}
+.info-btn2 {
+    padding-top: 22px;
+}
+.info-btn2 .btn {
+    background: #08A9E6;
+    border: 0;
+    border-radius: 7px;
+}

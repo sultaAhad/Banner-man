@@ -186,3 +186,134 @@ section.experience-sec {
     padding: 100px 0;
 }
 /* experience-sec end here */
+/* modal */
+.modal-content {
+    padding: 10px 30px;
+}
+
+.modal-headere h2 {
+    color: #081a55;
+}
+
+.modal-headere h5 {
+    color: #08A9E6;
+    font-size: 16px;
+    margin: 0;
+    line-height: 1;
+}
+/* stars */
+/* body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+	background-color: #dbedef;
+}
+
+.container {
+	display: inline-flex;
+	justify-content: center;
+} */
+
+.stars{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row-reverse;
+    justify-content: center;
+    /* height: 100vh; */
+}
+
+.stars__star-icon{
+    stroke:#EFCE4A;
+    stroke-width: 2px;
+    fill: transparent;
+    transition: .1s all;
+}
+
+.stars__star {
+    width: 18px;
+    height: 20px;
+    position: relative;
+    cursor: pointer;
+    margin: 4px;
+}
+.stars__checkbox{
+    position: absolute;
+    top: -9999px;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.stars__star:hover > .stars__star-icon{
+    fill: #EFCE4A;
+}
+
+.stars__star:hover ~ .stars__star > .stars__star-icon {
+    fill: #EFCE4A;
+}
+
+.stars__checkbox:checked + .stars__star > .stars__star-icon {
+    fill: #EFCE4A;
+}
+
+.stars__checkbox:checked ~ .stars__star > .stars__star-icon {
+    fill: #EFCE4A;
+}
+.rating-review-star {
+    display: flex;
+    align-items: baseline;
+}
+
+.rating-review-star h5 {
+    font-size: 20px;
+    margin: 0;
+}
+/* star end here */
+.review-submit{
+    text-align: left;
+}
+.modal-dialog {
+    max-width: 864px !important;
+}
+.client-review-box {
+    background-color: #081a55;
+    padding: 17px 21px;
+    border: 1px solid #7070707a;
+    border-radius: 13px;
+    margin: 10px 0;
+}
+.client.main_heading h2 {
+    /* text-transform: uppercase; */
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.client-info-reviw.main_heading p {
+    color: white;
+    font-size: 10px;
+    margin-bottom: 0;
+}
+
+.review-box {
+    overflow-x: hidden;
+    height: 381px;
+    width: 100%;
+    overflow-y: scroll;
+    padding: 0 20px;
+}
+
+.review-box::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  .review-box::-webkit-scrollbar-track {
+    background: #DBDBDB;        /* color of the tracking area */
+  }
+  
+  .review-box::-webkit-scrollbar-thumb {
+    background-color: #08A9E6;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid #DBDBDB;  /* creates padding around scroll thumb */
+  }
