@@ -25,10 +25,10 @@
                     <h5>Explore
                     </h5>
                     <ul>
-                        <li><a href="join-our-programm.php">Home</a></li>
-                        <li><a href="benefits-of-purchasing-insurance.php">About Us
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="aboutus.php">About Us
                             </a></li>
-                        <li><a href="about-us.php">Customizable Products</a></li>
+                        <li><a href="customizable-products.php">Customizable Products</a></li>
                     </ul>
                 </div>
             </div>
@@ -36,11 +36,11 @@
                 <div class="footer-wrapper">
                     <h5>Legal</h5>
                     <ul>
-                        <li><a href="privacy-policy.php">FAQ
+                        <li><a href="faq.php">FAQ
                             </a></li>
-                        <li><a href="terms-conditions.php">Privacy Policy</a></li>
-                        <li><a href="accessibility-policy.php">Terms & Condition</a></li>
-                        <li><a href="pet-policy.php">Shipping & Return</a></li>
+                        <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                        <li><a href="terms-condition.php">Terms & Condition</a></li>
+                        <li><a href="shipping-return.php">Shipping & Return</a></li>
                     </ul>
                 </div>
             </div>
@@ -48,11 +48,11 @@
                 <div class="footer-wrapper">
                     <h5>contact us</h5>
                     <ul>
-                        <li><img src="img/phone.png" class="img-fluid" alt=""><a href="about-us.php">(800) 0123-456-789
+                        <li><img src="img/phone.png" class="img-fluid" alt=""><a href="contactus.php">(800) 0123-456-789
                             </a></li>
-                        <li><img src="img/anvalope.png" class="img-fluid" alt=""><a href="terms-conditions.php">Email:
+                        <li><img src="img/anvalope.png" class="img-fluid" alt=""><a href="contactus.php">Email:
                                 Example@Example.Com</a></li>
-                        <li><img src="img/map.png" class="img-fluid" alt=""><a href="events.php">Lorem Ipsum Is Simply
+                        <li><img src="img/map.png" class="img-fluid" alt=""><a href="contactus.php">Lorem Ipsum Is Simply
                                 Dummy
                                 Text.</a></li>
                     </ul>
