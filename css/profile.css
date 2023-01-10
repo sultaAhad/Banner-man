@@ -1,28 +1,158 @@
+section.profile-sec {
+	padding: 90px 0;
+}
 section.profile-sec .nav-tabs .nav-link.active {
-	font-size: 25px;
-	font-family: "bizantheum";
+	font-family: "Brinnan-Bold";
 	color: #ffffff;
 	background-color: var(--first-color);
-	padding: 10px 42px;
-	border-radius: 0;
+	padding: 10px 22px;
+	border-radius: 10px 0px 0px 0px;
 	transition: 1s all ease;
+	background: #08a9e6;
+	width: 171px;
+	text-align: center;
 }
 section.profile-sec .nav-tabs {
-	border-bottom: 1px solid #b1b1b1;
+	border-bottom: 1px solid #dce2e5;
 	position: relative;
+	text-align: end;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: end;
 }
 section.profile-sec .nav-tabs .nav-link {
-	color: #878787;
-	padding: 10px 30px;
+	color: #081a55;
+	padding: 10px 22px;
 	border: none;
-	font-size: 25px;
-	font-family: "bizantheum";
+	font-size: 16px;
+	font-family: "Brinnan-Bold";
 	padding: 10px 30px;
 	border-radius: 0;
 	margin: 0;
+	background-color: #def1f9;
+	border-top: 1px solid #dce2e5;
+	border-left: 1px solid #dce2e5;
+	border-right: 1px solid #dce2e5;
+	width: 171px;
+}
+#profile-tab[aria-selected="true"] {
+	border-radius: 0px;
+}
+#contact-tab[aria-selected="true"] {
+	border-radius: 0px;
+}
+#Payment-tab[aria-selected="true"] {
+	border-radius: 0px 10px 0 0;
+}
+.upload-img {
+	position: relative;
+	text-align: center;
+	top: -59px;
+	width: 70%;
+	margin: 0;
+	right: -40px;
+}
+.main-profile-wrapper {
+	/* background: #e3f2f9; */
+	/* background: rgb(242,244,255); */
+	/* background: radial-gradient(circle, rgba(242,244,255,1) 57%, rgba(218,238,248,1) 93%); */
+	background: rgb(242, 244, 255);
+	background: radial-gradient(
+		circle,
+		rgba(242, 244, 255, 1) 72%,
+		rgba(218, 238, 248, 1) 100%
+	);
+}
+.btn-profile {
+	background: #08a9e6;
+	border: 0;
+	padding: 10px 50px;
+	margin-right: 10px;
+	margin-top: 0px;
+	border-radius: 4px;
+	font-size: 16px;
+	color: #fff;
+}
+.btn-profile1 {
+	padding: 10px 37px;
+}
+.upload-btn-wrapper h4 {
+	font-family: "Brinnan-Bold";
+	font-size: 25px;
+	color: #081a55;
+	text-transform: uppercase;
+}
+.first-name h5 {
+	font-family: "Poppins-Bold";
+	font-size: 16px;
+	color: #081a55;
+}
+.first-name h6 {
+	font-family: "Poppins-Regular";
+	font-size: 15px;
+	color: #081a55;
+}
+.password h5 {
+	font-family: "Poppins-Bold";
+	font-size: 16px;
+	color: #081a55;
+}
+.password h6 {
+	font-family: "Poppins-Regular";
+	font-size: 15px;
+	color: #081a55;
+	line-height: 0.8;
+}
+.password h6 span a {
+	font-family: "Poppins-Medium";
+	font-size: 15px;
+	color: #08a9e6;
+	margin-left: 10px;
+}
+.upload-btn-wrapper {
+	text-align: center;
+}
+.upload-btn-wrapper p {
+	font-family: "poppins-regular";
+	font-size: 15px;
+	color: #000000;
+}
+.upload-btn-wrapper span {
+	font-family: "Brinnan-Regular";
+	font-size: 25px;
+	color: #081a55;
+}
+.profile-icon i {
+	background: #08a9e6;
+	height: 22px;
+	width: 22px;
+	border-radius: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 12px;
+	color: #fff;
+	border: 1px solid #fff;
+}
+.profile-icon {
+	position: absolute;
+	top: 15px;
+	right: 31px;
+}
+.btn-profile i {
+	margin-left: 10px;
+}
+#Payment-tab {
+	border-radius: 0 10px 0px 0px;
+}
+#home-tab {
+	border-radius: 10px 0 0 0;
+}
+li.nav-item {
+	text-align: center;
 }
 section.profile-sec .nav-tabs .nav-link:hover {
-	border: none;
 	margin: 0;
 }
 li.nav-item1 {
@@ -43,7 +173,12 @@ li.nav-item1 a .btn {
 }
 .edit {
 	/* float: right; */
-	text-align: end;
+	/* text-align: end; */
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	margin-top: 40px;
+	margin-right: 30px;
 }
 .btn1 {
 	padding: 7px 12px;
@@ -80,7 +215,7 @@ li.nav-item1 a .btn {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	margin: 30px 0;
+	margin: 60px 0px 0px 0px;
 }
 .top-wrapper {
 	margin-top: 0px;
@@ -102,10 +237,6 @@ li.nav-item1 a .btn {
 	font-weight: 400;
 	font-size: 14px;
 	color: #5e5e5e;
-}
-.bottomborder {
-	border-bottom: 1px solid #b1b1b1;
-	padding-bottom: 100px;
 }
 .field-wrapper1 {
 	float: left;
