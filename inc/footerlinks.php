@@ -9,7 +9,7 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
     integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
 </script>
-</script>
+
 <!-- boostrap js -->
 
 <!-- index bootstrap js -->
@@ -425,6 +425,68 @@ $(document).ready(function() {
         $(".tab").addClass("active");
     });
 });
+</script>
+<!-- qtybox start here -->
+<script>
+function increaseValue(button, limit) {
+    const numberInput = button.parentElement.querySelector('.number');
+    var value = parseInt(numberInput.innerHTML, 10);
+    if (isNaN(value)) value = 0;
+    if (limit && value >= limit) return;
+    numberInput.innerHTML = value + 1;
+}
+
+
+function decreaseValue(button) {
+    const numberInput = button.parentElement.querySelector('.number');
+    var value = parseInt(numberInput.innerHTML, 10);
+    if (isNaN(value)) value = 0;
+    if (value < 1) return;
+    numberInput.innerHTML = value - 1;
+}
+</script>
+<!-- qtybox start here -->
+<script>
+function increaseValue(button, limit) {
+    const numberInput = button.parentElement.querySelector('.number');
+    var value = parseInt(numberInput.innerHTML, 10);
+    if (isNaN(value)) value = 0;
+    if (limit && value >= limit) return;
+    numberInput.innerHTML = value + 1;
+}
+
+
+
+// Prev
+$('.prevtab').on('click', function() {
+    for (i = 0; i < items.length; i++) {
+        if ($(items[i]).hasClass('active') == true) {
+            break;
+        }
+    }
+    if (i != 0) {
+        // for tab
+        $(items[i]).removeClass('active');
+        $(items[i - 1]).addClass('active');
+        // for pane
+        $(pane[i]).removeClass('show active');
+        $(pane[i - 1]).addClass('show active');
+    }
+});
+}
+bootstrapTabControl();
+// upload input
+$('#fakeInput').change(function() {
+    var a = $('#fakeInput').val().toString().split('\\');
+    $('#fakeInput').val(a[a.length - 1]);
+});
+// add active
+$(document).ready(function() {
+    $(".tab").click(function() {
+        $(".tab").removeClass("active");
+        $(".tab").addClass("active");
+    });
+});
 // range
 function rangeSlide(value) {
     document.getElementById('rangeValue').innerHTML = value;
@@ -451,3 +513,9 @@ function rangeSlide5(value) {
 }
 // color background
 </script>
+function decreaseValue(button) {
+const numberInput = button.parentElement.querySelector('.number');
+var value = parseInt(numberInput.innerHTML, 10);
+if (isNaN(value)) value = 0;
+if (value < 1) return; numberInput.innerHTML=value - 1; } </script>
+    <!-- qtybox end here -->

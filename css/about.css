@@ -78,6 +78,9 @@ section.mission-vission-sec {
     font-size: 15px;
     margin: 0;
 }
+.banner-small-headings h6 {
+    font-size: 15px;
+}
 /* mission-vission-sec end here */
 /* about sec start here */
 .about-content {

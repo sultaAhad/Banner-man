@@ -74,7 +74,7 @@
             <div class="col-md-6">
                 <div class="misson-box">
                     <div class="mission-heading-content">
-                        <div class="banner-small-heading">
+                        <div class="banner-small-headings">
                             <h6>Your Superhero For Banners And Signs</h6>
                             <h2>Our <span>Mission</span></h2>
                         </div>
@@ -96,7 +96,7 @@
             <div class="col-md-6">
                 <div class="misson-box">
                     <div class="mission-heading-content">
-                        <div class="banner-small-heading">
+                        <div class="banner-small-headings">
                             <h6>Your Superhero For Banners And Signs</h6>
                             <h2>Our <span>Vision</span></h2>
                         </div>
