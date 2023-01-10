@@ -473,7 +473,7 @@ $('.prevtab').on('click', function() {
         $(pane[i - 1]).addClass('show active');
     }
 });
-}
+
 bootstrapTabControl();
 // upload input
 $('#fakeInput').change(function() {
@@ -513,9 +513,14 @@ function rangeSlide5(value) {
 }
 // color background
 </script>
+<script>
 function decreaseValue(button) {
-const numberInput = button.parentElement.querySelector('.number');
-var value = parseInt(numberInput.innerHTML, 10);
+    const numberInput = button.parentElement.querySelector('.number');
+    var vaML = value - 1;
+}
+lue = parseInt(numberInput.innerHTML, 10);
 if (isNaN(value)) value = 0;
-if (value < 1) return; numberInput.innerHTML=value - 1; } </script>
-    <!-- qtybox end here -->
+if (value < 1) return;
+numberInput.innerHT
+</script>
+<!-- qtybox end here -->
