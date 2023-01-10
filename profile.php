@@ -98,8 +98,13 @@
                                                                 <h5>
                                                                     Password
                                                                 </h5>
-                                                                <h6>************ <span> <a href="">Change Password</a>
-                                                                    </span></h6>
+                                                                <div class="change-password">
+                                                                    <h6> ************
+                                                                    </h6>
+                                                                    <a class="change-btn-wrapper"
+                                                                        href="javascript:void(0)">Change
+                                                                        Password</a>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                         <div class=" field-wrapper">
@@ -133,48 +138,48 @@
                                             <div class="bottomborder">
                                                 <form action="">
                                                     <div class="row">
-                                                        <div class="col-lg-8">
+                                                        <div class="col-lg-10">
                                                             <div class="row">
                                                                 <div class="col-lg-6">
                                                                     <div class="inputWithIcon">
-                                                                        <label for="form-wrapper">First Name
-                                                                            <input type="text" id="form-wrapper"
-                                                                                placeholder="Write name here..">
-                                                                        </label>
+                                                                        <label for="form-wrapper">First Name </label>
+                                                                        <input type="text" id="form-wrapper"
+                                                                            placeholder="Write name here..">
+
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-6">
                                                                     <div class="inputWithIcon">
-                                                                        <label for="form-wrapper">Last Name
-                                                                            <input type="text" id="form-wrapper"
-                                                                                placeholder="Write name here..">
-                                                                        </label>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="row">
-                                                                <div class="col-lg-6">
-                                                                    <div class="inputWithIcon">
-                                                                        <label for="form-wrapper">Email Address
-                                                                            <input type="email" id="form-wrapper"
-                                                                                placeholder="Write email here..">
-                                                                        </label>
-                                                                    </div>
-                                                                    <div class="col-lg-6">
-                                                                        <div class="inputWithIcon">
-                                                                            <label for="form-wrapper">Phone Number
-                                                                                <input type="phone" id="form-wrapper"
-                                                                                    placeholder="Write number here...">
-                                                                            </label>
-                                                                        </div>
+                                                                        <label for="form-wrapper">Last Name </label>
+                                                                        <input type="text" id="form-wrapper"
+                                                                            placeholder="Write name here..">
+
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="row">
-                                                                <div class="col-lg-12">
+                                                                <div class="col-lg-6">
+                                                                    <div class="inputWithIcon">
+                                                                        <label for="form-wrapper">Email Address </label>
+                                                                        <input type="email" id="form-wrapper"
+                                                                            placeholder="Write email here..">
+
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-lg-6">
+                                                                    <div class="inputWithIcon">
+                                                                        <label for="form-wrapper">Phone Number</label>
+                                                                        <input type="phone" id="form-wrapper"
+                                                                            placeholder="Write number here...">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-lg-10">
                                                                     <div class="edit edit-top">
                                                                         <a class="btn-profile btn-profile1" id="button"
-                                                                            href="javascript:void(0)"> Edit
+                                                                            href="javascript:void(0)">
+                                                                            Edit
                                                                             Profile
                                                                             <i class="fa-solid fa-arrow-right"></i>
                                                                         </a>
@@ -185,52 +190,69 @@
                                                     </div>
                                                 </form>
                                             </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="row hidden-btn">
+                                <div class="col-lg-12">
+                                    <form action="">
+                                        <div class="main-wrapper-input1 main-wrapper-input11">
                                             <div class="row">
                                                 <div class="col-lg-12">
-                                                    <div class="edit edit-top">
-                                                        <a href="javascript:void(0)">
-                                                            <button class="btn1">Save</button>
-                                                        </a>
+                                                    <div class="edit">
+                                                        <div class="upload-btn-wrapper profilr-page-wrapper">
+                                                            <h4> <span> My</span> Profile</h4>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="row">
-                                                <div class="col-lg-12">
-                                                    <h4 class="change-p-heading">Change Password</h4>
-                                                </div>
-                                            </div>
-                                            <div class="row">
-                                                <div class="col-lg-4">
-                                                    <div class="inputWithIcon top-margin">
-                                                        <input type="password" placeholder="Enter Your Current Password"
-                                                            name="password" id="password4">
-                                                        <img src="./img/key.webp" class="img-fluid" alt="">
-                                                        <i class="fa fa-eye icon-wrapper" aria-hidden="true"
-                                                            id="icon4"></i>
+                                            <div class="bottomborder">
+                                                <form action="">
+                                                    <div class="row">
+                                                        <div class="col-lg-10">
+                                                            <div class="row">
+                                                                <div class="col-lg-6">
+                                                                    <div class="inputWithIcon">
+                                                                        <label for="form-wrapper">Current Password
+                                                                        </label>
+                                                                        <input type="text" id="form-wrapper"
+                                                                            placeholder="************">
+
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-lg-6">
+                                                                    <div class="inputWithIcon">
+                                                                        <label for="form-wrapper">New Password
+                                                                        </label>
+                                                                        <input type="password" id="form-wrapper"
+                                                                            placeholder="************">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-lg-6">
+                                                                    <div class="inputWithIcon">
+                                                                        <label for="form-wrapper">Confirm New
+                                                                            Password</label>
+                                                                        <input type="password" id="form-wrapper"
+                                                                            placeholder="Write email here..">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-lg-10">
+                                                                    <div class="edit edit-top">
+                                                                        <a class="btn-profile btn-profile1" id="button"
+                                                                            href="javascript:void(0)">
+                                                                            Add New Address
+                                                                        </a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                     </div>
-                                                </div>
-                                            </div>
-                                            <div class="row">
-                                                <div class="col-lg-4">
-                                                    <div class="inputWithIcon">
-                                                        <input type="password" placeholder="Enter Your New Password"
-                                                            name="password" id="password5">
-                                                        <img src="./img/key.webp" class="img-fluid" alt="">
-                                                        <i class="fa fa-eye icon-wrapper" aria-hidden="true"
-                                                            id="icon5"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="row">
-                                                <div class="col-lg-4">
-                                                    <div class="inputWithIcon">
-                                                        <input type="password" placeholder="Re-Enter Your New Password"
-                                                            name="password" id="password6">
-                                                        <img src="./img/key.webp" class="img-fluid" alt="">
-                                                        <i class="fa fa-eye icon-wrapper" aria-hidden="true"
-                                                            id="icon6"></i>
-                                                    </div>
-                                                </div>
+                                                </form>
                                             </div>
                                         </div>
                                     </form>
@@ -238,78 +260,178 @@
                             </div>
                         </div>
                         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="multi-wrapper fitter-street">
+                                        <div class="address-wrapper">
+                                            <ul>
+                                                <li class='active'>
+                                                    <div class="address-default phases-text">
+                                                        <a class='active' href="javascript:void(0)">Default</a>
+                                                    </div>
+                                                    <div class="address-name">
+                                                        <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                                        <div class="john-heading">
+                                                            <h5>John Doe</h5>
+                                                            <h6>4806 Fittro Street hughes, <br>
+                                                                AR 72348 </h6>
+                                                            <h6> 4806 Fittro Street hughes </h6>
+                                                            <h4> <span> Phone: </span> +123456789</h4>
+                                                        </div>
+                                                        <i class="fa-solid fa-trash-can"></i>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="address-default phases-text">
+                                                        <a href="javascript:void(0)">Default</a>
+                                                    </div>
+                                                    <div class="address-name">
+                                                        <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                                        <div class="john-heading">
+                                                            <h5>John Doe</h5>
+                                                            <h6>4806 Fittro Street hughes, <br>
+                                                                AR 72348 </h6>
+                                                            <h6> 4806 Fittro Street hughes </h6>
+                                                            <h4> <span> Phone: </span> +123456789</h4>
+                                                        </div>
+                                                        <i class="fa-solid fa-trash-can"></i>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="address-default phases-text">
+                                                        <a href="javascript:void(0)">Default</a>
+                                                    </div>
+                                                    <div class="address-name">
+                                                        <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                                        <div class="john-heading">
+                                                            <h5>John Doe</h5>
+                                                            <h6>4806 Fittro Street hughes, <br>
+                                                                AR 72348 </h6>
+                                                            <h6> 4806 Fittro Street hughes </h6>
+                                                            <h4> <span> Phone: </span> +123456789</h4>
+                                                        </div>
+                                                        <i class="fa-solid fa-trash-can"></i>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="address-default phases-text">
+                                                        <a href="javascript:void(0)">Default</a>
+                                                    </div>
+                                                    <div class="address-name">
+                                                        <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                                        <div class="john-heading">
+                                                            <h5>John Doe</h5>
+                                                            <h6>4806 Fittro Street hughes, <br>
+                                                                AR 72348 </h6>
+                                                            <h6> 4806 Fittro Street hughes </h6>
+                                                            <h4> <span> Phone: </span> +123456789</h4>
+                                                        </div>
+                                                        <i class="fa-solid fa-trash-can"></i>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="address-default phases-text">
+                                                        <a href="javascript:void(0)">Default</a>
+                                                    </div>
+                                                    <div class="address-name">
+                                                        <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                                        <div class="john-heading">
+                                                            <h5>John Doe</h5>
+                                                            <h6>4806 Fittro Street hughes, <br>
+                                                                AR 72348 </h6>
+                                                            <h6> 4806 Fittro Street hughes </h6>
+                                                            <h4> <span> Phone: </span> +123456789</h4>
+                                                        </div>
+                                                        <i class="fa-solid fa-trash-can"></i>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="address-default phases-text">
+                                                        <a href="javascript:void(0)">Default</a>
+                                                    </div>
+                                                    <div class="address-name">
+                                                        <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                                        <div class="john-heading">
+                                                            <h5>John Doe</h5>
+                                                            <h6>4806 Fittro Street hughes, <br>
+                                                                AR 72348 </h6>
+                                                            <h6> 4806 Fittro Street hughes </h6>
+                                                            <h4> <span> Phone: </span> +123456789</h4>
+                                                        </div>
+                                                        <i class="fa-solid fa-trash-can"></i>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-10">
+                                    <div class="edit edit-top-wrapper1">
+                                        <a class="btn-profile btn-profile1" id="button" href="javascript:void(0)">
+                                            Add New Address
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
                             <div class="table-wrapper" id="delivery">
                                 <div class="row">
-                                    <div class="col-lg-12 ">
-                                        <div class="table-wrapper main-wrapper">
+                                    <div class="col-lg-10">
+                                        <div class="table-wrapper ">
                                             <table class="table">
                                                 <thead>
                                                     <tr>
                                                         <th>OrderNo</th>
                                                         <th>Order Date</th>
                                                         <th>Status</th>
-                                                        <th>Payment Status</th>
                                                         <th>Total</th>
                                                         <th></th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr>
-                                                        <td scope="row">#2108484315459
+                                                        <td scope="row">#1084598423154
                                                         </td>
-                                                        <td>04-12-22</td>
+                                                        <td>04-12-21</td>
                                                         <td>Confirm</td>
-                                                        <td class="pais-color"> Paid <span> <img
-                                                                    src="./img/tablearrow.webp" class="img-fluid"
-                                                                    alt=""></span>
-                                                        </td>
                                                         <td>$590.00</td>
-                                                        <td><img src="./img/device.webp" class="img-fluid" alt=""></i>
+                                                        <td><a class="view-detail" href="">view Details</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td scope="row">#2108484315459
+                                                        <td scope="row">#1084598423154
                                                         </td>
-                                                        <td>04-12-22</td>
+                                                        <td>04-12-21</td>
                                                         <td>Confirm</td>
-                                                        <td class="pais-color"> Paid <span> <img
-                                                                    src="./img/tablearrow.webp" class="img-fluid"
-                                                                    alt=""></span>
-                                                        </td>
                                                         <td>$590.00</td>
-                                                        <td><img src="./img/device.webp" class="img-fluid" alt=""></i>
+                                                        <td><a class="view-detail" href="">view Details</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td scope="row">#2108484315459
+                                                        <td scope="row">#1084598423154
                                                         </td>
-                                                        <td>04-12-22</td>
+                                                        <td>04-12-21</td>
                                                         <td>Confirm</td>
-                                                        <td class="pais-color"> Paid <span> <img
-                                                                    src="./img/tablearrow.webp" class="img-fluid"
-                                                                    alt=""></span>
-                                                        </td>
                                                         <td>$590.00</td>
-                                                        <td><img src="./img/device.webp" class="img-fluid" alt=""></i>
+                                                        <td><a class="view-detail" href="">view Details</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td scope="row">#2108484315459
+                                                        <td scope="row">#1084598423154
                                                         </td>
-                                                        <td>04-12-22</td>
+                                                        <td>04-12-21</td>
                                                         <td>Confirm</td>
-                                                        <td class="pais-color"> Paid <span> <img
-                                                                    src="./img/tablearrow.webp" class="img-fluid"
-                                                                    alt=""></span>
-                                                        </td>
                                                         <td>$590.00</td>
-                                                        <td><img src="./img/device.webp" class="img-fluid" alt=""></i>
+                                                        <td><a class="view-detail" href="">view Details</a>
                                                         </td>
                                                     </tr>
                                                 </tbody>
                                             </table>
                                             <div class="pagination">
-                                                <nav aria-label="Page navigation example">
+                                                <navbar aria-label="Page navigation example">
                                                     <ul class="pagination">
                                                         <li class="page-item">
                                                             <a class="page-link prev  pagelink-second" href="#"
@@ -339,330 +461,122 @@
                                                             </a>
                                                         </li>
                                                     </ul>
-                                                </nav>
+                                                </navbar>
                                             </div>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                            <div class=table-wrapper1>
-                                <div class="row">
-                                    <div class="col-lg-12 ">
-                                        <div class="table-wrapper main-wrapper">
-                                            <table class="table">
-                                                <thead>
-                                                    <tr>
-                                                        <th></th>
-                                                        <th>Items</th>
-                                                        <th>Product Name</th>
-                                                        <th>Unit Price</th>
-                                                        <th>Stock Status</th>
-                                                        <th>Action</th>
-                                                    </tr>
-                                                </thead>
-                                                <tbody>
-                                                    <tr>
-                                                        <td><i class="fa fa-times" aria-hidden="true"></i>
-                                                        </td>
-                                                        <td><span> <img src="./img/racipe.webp" class="img-fluid"
-                                                                    alt=""></span></td>
-
-                                                        <td>Sweet Treats</td>
-                                                        <td class="pais-color1"> $20
-                                                        </td>
-                                                        <td>In-Stock</td>
-                                                        <td>
-                                                            <div class="edit1 edit-top1">
-                                                                <a href="javascript:void(0)">
-                                                                    <button class="btn1">Add To Cart</button>
-                                                                </a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td><i class="fa fa-times" aria-hidden="true"></i>
-                                                        </td>
-                                                        <td><span> <img src="./img/racipe1.webp" class="img-fluid"
-                                                                    alt=""></span></td>
-
-                                                        <td>Sweet Treats</td>
-                                                        <td class="pais-color1"> $20
-                                                        </td>
-                                                        <td>In-Stock</td>
-                                                        <td>
-                                                            <div class="edit1 edit-top1">
-                                                                <a href="javascript:void(0)">
-                                                                    <button class="btn1">Add To Cart</button>
-                                                                </a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td><i class="fa fa-times" aria-hidden="true"></i>
-                                                        </td>
-                                                        <td><span> <img src="./img/racipe2.webp" class="img-fluid"
-                                                                    alt=""></span></td>
-
-                                                        <td>Sweet Treats</td>
-                                                        <td class="pais-color1"> $20
-                                                        </td>
-                                                        <td>In-Stock</td>
-                                                        <td>
-                                                            <div class="edit1 edit-top1">
-                                                                <a href="javascript:void(0)">
-                                                                    <button class="btn1">Add To Cart</button>
-                                                                </a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                            <div class="pagination">
-                                                <nav aria-label="Page navigation example">
-                                                    <ul class="pagination">
-                                                        <li class="page-item">
-                                                            <a class="page-link prev  pagelink-second" href="#"
-                                                                aria-label="Previous">
-                                                                <span aria-hidden="true"><i
-                                                                        class="fa fa-angle-double-left"
-                                                                        aria-hidden="true"></i>
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class="page-item pageNumber active"><a class="page-link "
-                                                                href="#">1</a>
-                                                        </li>
-                                                        <li class="page-item pageNumber"><a class="page-link"
-                                                                href="#">2</a>
-                                                        </li>
-                                                        <li class="page-item pageNumber"><a class="page-link"
-                                                                href="#">3</a>
-                                                        </li>
-                                                        <li class="page-item pageNumber">
-                                                            <a class="page-link next pagelink-second" href="#"
-                                                                aria-label="Next">
-                                                                <span aria-hidden="true"><i
-                                                                        class="fa fa-angle-double-right"
-                                                                        aria-hidden="true"></i>
-                                                                </span>
-
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </nav>
-                                            </div>
-                                        </div>
-
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="Payment" role="tabpanel" aria-labelledby="Payment-tab">
-                            <div class="row">
-                                <div class="col-lg-11">
-                                    <div class="radio-wrapper">
-                                        <h4 class="detail">Payment Details</h4>
-                                        <div class="single_address">
-                                            <input type="radio" id="address1" class="cutom_radio_btn" checked=""
-                                                name="address_select">
-                                            <label for="address1">
-                                                <div class="address_start">
-                                                    <div class="detail_information_information">
-                                                        <div class="row m-0">
-                                                            <div class="col-lg-1 col-sm-1 col-1">
-                                                                <div class="custom_check_box">
-                                                                    <div class="for_the_label">
-                                                                        <span></span><span class="custom_radio"></span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-lg-9 col-sm-9 col-9">
-                                                                <div class="main-row">
-                                                                    <div class="img-wrapper">
-                                                                        <img src="./img/visa.webp" class="img-fluid"
-                                                                            alt="">
-                                                                    </div>
-                                                                    <div class="the_row">
-                                                                        <span class="question">My Personal Card</span>
-                                                                        <span class="answer">**********1239</span>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="radiocheck"></div>
-                                                            </div>
-                                                            <div class="col-lg-2 col-sm-2 col-2 p-0">
-                                                                <div class="btn-raio-main">
-                                                                    <div class="delete">
-                                                                        <i class="fa fa-trash" aria-hidden="true"></i>
-                                                                    </div>
-                                                                    <button class="btn-radio"><a
-                                                                            href="">Default</a></button>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </label>
-                                            <div class="single_address">
-                                                <input type="radio" id="address2" class="cutom_radio_btn"
-                                                    name="address_select">
-                                                <label for="address2">
-                                                    <div class="address_start">
-                                                        <div class="detail_information_information">
-                                                            <div class="row m-0">
-                                                                <div class="col-lg-1 col-sm-1 col-1">
-                                                                    <div class="custom_check_box">
-                                                                        <div class="for_the_label">
-                                                                            <span></span><span
-                                                                                class="custom_radio"></span>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="col-lg-9 col-sm-9 col-9">
-                                                                    <div class="main-row">
-                                                                        <div class="img-wrapper">
-                                                                            <img src="./img/visa.webp" class="img-fluid"
-                                                                                alt="">
-                                                                        </div>
-                                                                        <div class="the_row">
-                                                                            <span class="question">My Personal
-                                                                                Card</span>
-                                                                            <span class="answer">**********1239</span>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="radiocheck"></div>
-                                                                </div>
-                                                                <div class="col-lg-2 col-sm-2 col-2 p-0">
-                                                                    <div class="btn-raio-main">
-                                                                        <div class="delete">
-                                                                            <i class="fa fa-trash"
-                                                                                aria-hidden="true"></i>
-                                                                        </div>
-                                                                        <button class="btn-radio"><a
-                                                                                href="">Default</a></button>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </label>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-lg-12">
-                                                <div class="form-group12">
-                                                    <input type="checkbox" class="checkbox" id="html">
-                                                    <label for="html">Add New Card</label>
-                                                </div>
-                                                <div class="form-group check-wrapper">
-                                                    <div class="form-tabs adderess-form ">
-                                                        <form action="">
-                                                            <div class="row align-items-start">
-                                                                <div class="col-lg-10">
-                                                                    <h4>payment page</h4>
-                                                                    <div class="row">
-                                                                        <div class="col-lg-12">
-                                                                            <div class="form-group1">
-                                                                                <label
-                                                                                    for="formGroupExampleInput">Name</label>
-                                                                                <div class="inputWithIcon1">
-                                                                                    <input type="name"
-                                                                                        class="form-control"
-                                                                                        id="formGroupExampleInput"
-                                                                                        placeholder="Name">
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="row">
-                                                                        <div class="col-lg-12">
-                                                                            <div class="form-group1">
-                                                                                <label
-                                                                                    for="formGroupExampleInput">Cradit
-                                                                                    Card Number</label>
-                                                                                <div
-                                                                                    class="inputWithIcon1 icon-padding">
-                                                                                    <input type="number"
-                                                                                        placeholder="Zip Code">
-                                                                                    <img src="./img/visacard.webp"
-                                                                                        class="img-fluid" alt="">
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="row">
-                                                                        <div class="col-lg-6">
-                                                                            <div class="form-group1">
-                                                                                <label
-                                                                                    for="exampleFormControlSelect1">Expiration
-                                                                                    Month</label>
-                                                                                <div class="box">
-                                                                                    <select>
-                                                                                        <option>MM/YY</option>
-                                                                                        <option>MM/YY</option>
-                                                                                        <option>MM/YY</option>
-                                                                                        <option>MM/YY</option>
-                                                                                        <option>MM/YY</option>
-                                                                                    </select>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="col-lg-6">
-                                                                            <div class="form-group1">
-                                                                                <label
-                                                                                    for="formGroupExampleInput">CVV</label>
-                                                                                <div
-                                                                                    class="inputWithIcon1 img-wrapper1">
-                                                                                    <input type="number"
-                                                                                        placeholder="CVV">
-                                                                                    <img src="./img/craditcard.webp"
-                                                                                        class="img-fluid" alt="">
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="row">
-                                                                        <div class="col-lg-6">
-                                                                            <div class="form-group1">
-                                                                                <label
-                                                                                    for="exampleFormControlSelect1">Country</label>
-                                                                                <div class="box">
-                                                                                    <select>
-                                                                                        <option>United state</option>
-                                                                                        <option>United state</option>
-                                                                                        <option>United state</option>
-                                                                                        <option>United state</option>
-                                                                                        <option>United state</option>
-                                                                                    </select>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="col-lg-6">
-                                                                            <div class="form-group1">
-                                                                                <label
-                                                                                    for="formGroupExampleInput">ZIP</label>
-                                                                                <div class="inputWithIcon1">
-                                                                                    <input type="text"
-                                                                                        class="form-control"
-                                                                                        id="formGroupExampleInput"
-                                                                                        placeholder="ZIP Code">
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="row">
-                                                                        <div class="col-lg-12">
-                                                                            <a href="">
-                                                                                <button class="btn13">ADD
-                                                                                    Card</button></a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </form>
-                                                    </div>
-                                                </div>
+                            <div class="table-wrapper" id="delivery">
+                                <div class="row">
+                                    <div class="col-lg-10">
+                                        <div class="table-wrapper ">
+                                            <table class="table">
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>Product Name</th>
+                                                        <th>Price</th>
+                                                        <th></th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td scope="row"><img src="img/table-wrapper.png"
+                                                                class="img-fluid" alt="">
+                                                        </td>
+                                                        <td>
+                                                            <h6 class="papper-heading">Paper Economy</h6>
+                                                            <h6 class="inch-table"> <span> HxW (inches) </span> 24
+                                                                x 60 </h6>
+                                                        </td>
+                                                        <td>
+                                                            <h6 class="inch-table"> <span> USD </span> 24.00 </h6>
+                                                        </td>
+                                                        <td><i class="fa-solid fa-trash-can"></i>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td scope="row"><img src="img/table-wrapper.png"
+                                                                class="img-fluid" alt="">
+                                                        </td>
+                                                        <td>
+                                                            <h6 class="papper-heading">Paper Economy</h6>
+                                                            <h6 class="inch-table"> <span> HxW (inches) </span> 24
+                                                                x 60 </h6>
+                                                        </td>
+                                                        <td>
+                                                            <h6 class="inch-table"> <span> USD </span> 24.00 </h6>
+                                                        </td>
+                                                        <td><i class="fa-solid fa-trash-can"></i>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td scope="row"><img src="img/table-wrapper.png"
+                                                                class="img-fluid" alt="">
+                                                        </td>
+                                                        <td>
+                                                            <h6 class="papper-heading">Paper Economy</h6>
+                                                            <h6 class="inch-table"> <span> HxW (inches) </span> 24
+                                                                x 60 </h6>
+                                                        </td>
+                                                        <td>
+                                                            <h6 class="inch-table"> <span> USD </span> 24.00 </h6>
+                                                        </td>
+                                                        <td><i class="fa-solid fa-trash-can"></i>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td scope="row"><img src="img/table-wrapper.png"
+                                                                class="img-fluid" alt="">
+                                                        </td>
+                                                        <td>
+                                                            <h6 class="papper-heading">Paper Economy</h6>
+                                                            <h6 class="inch-table"> <span> HxW (inches) </span> 24
+                                                                x 60 </h6>
+                                                        </td>
+                                                        <td>
+                                                            <h6 class="inch-table"> <span> USD </span> 24.00 </h6>
+                                                        </td>
+                                                        <td><i class="fa-solid fa-trash-can"></i>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <div class="pagination">
+                                                <navbar aria-label="Page navigation example">
+                                                    <ul class="pagination">
+                                                        <li class="page-item">
+                                                            <a class="page-link prev  pagelink-second" href="#"
+                                                                aria-label="Previous">
+                                                                <span aria-hidden="true"><i
+                                                                        class="fa fa-angle-double-left"
+                                                                        aria-hidden="true"></i>
+                                                                </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="page-item pageNumber active"><a class="page-link "
+                                                                href="#">1</a>
+                                                        </li>
+                                                        <li class="page-item pageNumber"><a class="page-link"
+                                                                href="#">2</a>
+                                                        </li>
+                                                        <li class="page-item pageNumber"><a class="page-link"
+                                                                href="#">3</a>
+                                                        </li>
+                                                        <li class="page-item pageNumber">
+                                                            <a class="page-link next pagelink-second" href="#"
+                                                                aria-label="Next">
+                                                                <span aria-hidden="true"><i
+                                                                        class="fa fa-angle-double-right"
+                                                                        aria-hidden="true"></i>
+                                                                </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </navbar>
                                             </div>
                                         </div>
                                     </div>

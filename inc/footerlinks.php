@@ -511,7 +511,25 @@ function rangeSlide4(value) {
 function rangeSlide5(value) {
     document.getElementById('rangeValue5').innerHTML = value;
 }
-// color background
+// profile page display block
+$(".btn-profile1").click(function() {
+    $(".main-wrapper").css("display", "none");
+    $(".main-wrapper-input").css("display", "block");
+});
+$(".change-btn-wrapper").click(function() {
+    $(".main-wrapper").css("display", "none");
+    $(".main-wrapper-input11").css("display", "block");
+
+});
+$('.multi-wrapper ul li').on('click', function(e) {
+    e.preventDefault();
+    $('.multi-wrapper ul li.active').removeClass('active');
+    $(this).addClass('active');
+
+    $(".phases-text > .active").removeClass('active');
+    $(".phases-text a").eq($(this).index()).addClass('active')
+
+});
 </script>
 <script>
 function decreaseValue(button) {
