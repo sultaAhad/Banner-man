@@ -24,13 +24,15 @@
                             <a class="close"><i class="fa fa-times"></i></a>
                         </li>
                         <li>
-                            <div class="user">
+                          <a href="login.php">
+                          <div class="user">
                                 <i class="fa-regular fa-user"></i>
                                 <div class="signin">
                                     <h6 class="sign-in-header">Sign In</h6>
                                     <h6 class="account">Account</h6>
                                 </div>
                             </div>
+                          </a>
                         </li>
                         <li>
                             <div class="heart">
