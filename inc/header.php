@@ -35,16 +35,20 @@
                             </a>
                         </li>
                         <li>
-                            <div class="heart">
-                                <i class="fa-regular fa-heart"></i>
-                                <h6>0</h6>
-                            </div>
+                            <a href="profile.php">
+                                <div class="heart">
+                                    <i class="fa-regular fa-heart"></i>
+                                    <h6>0</h6>
+                                </div>
+                            </a>
                         </li>
                         <li>
-                            <div class="heart">
-                                <i class="fa-solid fa-cart-shopping"></i>
-                                <h6>0</h6>
-                            </div>
+                            <a href="view-cart.php">
+                                <div class="heart">
+                                    <i class="fa-solid fa-cart-shopping"></i>
+                                    <h6>0</h6>
+                                </div>
+                            </a>
                         </li>
                         <li>
                             <div class="total">

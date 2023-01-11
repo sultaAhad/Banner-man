@@ -1,164 +1,157 @@
 /* contact us css start here */
-.contact-sec{
-    padding-top:50px;
-    padding-bottom: 100px;
+.contact-sec {
+	padding-top: 50px;
+	padding-bottom: 100px;
 }
 .contacthead.main_heading {
-    padding-bottom: 50px;
+	padding-bottom: 50px;
 }
 .contacthead.main_heading h2 {
-    font-size: 47px;
-    color: #081A55;
+	font-size: 47px;
+	color: #081a55;
 }
 .side-box-contact {
-    background-color: #081A55;
-    padding: 20px 0;
-    height: 100%;
+	background-color: #081a55;
+	padding: 20px 0;
+	height: 100%;
 }
 
 .side-box-contact h2 {
-    color: #FFFFFF;
+	color: #ffffff;
 }
 
 .side-contactheading.main_heading h2 {
-    font-size: 26px;
+	font-size: 26px;
 }
 
 .office-hr h2 {
-    font-size: 13px;
+	font-size: 13px;
 }
 
 .side-box-contact p {
-    color: #FFFFFF;
-    font-family: "Poppins-Light";
-    margin-bottom: 0;
-    font-size: 13px;
+	color: #ffffff;
+	font-family: "Poppins-Light";
+	margin-bottom: 0;
+	font-size: 13px;
 }
 
 .side-box-contact span {
-    color: #FFFFFF;
-    font-family: "Poppins-Light";
+	color: #ffffff;
+	font-family: "Poppins-Light";
 }
 
 .place-num-loc {
-    display: flex;
-    align-items: baseline;
-    gap: 9px;
-    padding: 10px 0;
+	display: flex;
+	align-items: baseline;
+	gap: 9px;
+	padding: 10px 0;
 }
 
 .contact-box {
-    padding-top: 100px;
-    /* display: flex; */
-    /* gap: 70px; */
+	padding-top: 100px;
+	/* display: flex; */
+	/* gap: 70px; */
 }
 
 .all-address-info {
-    padding: 29px 30px 47px 30px;
-    /* border-bottom: 1px solid #65B3FF; */
+	padding: 29px 30px 47px 30px;
+	/* border-bottom: 1px solid #65B3FF; */
 }
 
 .office-hr {
-    padding: 30px 30px 20px 30px;
+	padding: 30px 30px 20px 30px;
 }
 
 .office-info.main_heading {
-    padding: 7px 0;
+	padding: 7px 0;
 }
 
 .side-contactheading.main_heading {
-    padding: 0 30px;
+	padding: 0 30px;
 }
 
 label {
-    font-family: "Poppins-Regular";
+	font-family: "Poppins-Regular";
 }
 
 label sup {
-    color: #399DFF;
-    font-size: 15px;
-    top: -1px;
+	color: #399dff;
+	font-size: 15px;
+	top: -1px;
 }
 
 textarea#exampleFormControlTextarea1 {
-    resize: none;
-    height: 131px;
+	resize: none;
+	height: 131px;
 }
 
 .form-control {
-    background-color: #F3F3F3 !important;
-    border: 1px solid #C3CAD9 !important;
-    border-radius: 0;
+	background-color: #f3f3f3 !important;
+	border: 1px solid #c3cad9 !important;
+	border-radius: 0;
 }
 
 .contact-submit-btn {
-    text-align: right;
+	text-align: right;
 }
 
 .contact-submit-btn .btn {
-    background: #08A9E6;
-    border-radius: 6px;
-    border-color: transparent;
-    width: 169px;
-    font-size: 13px;
-    padding: 8px 0;
-    font-family: "Poppins-Light";
+	background: #08a9e6;
+	border-radius: 6px;
+	border-color: transparent;
+	width: 169px;
+	font-size: 13px;
+	padding: 8px 0;
+	font-family: "Poppins-Light";
 }
-.form-control::placeholder{
-    color: #CDD4D8;
-    font-size: 12px;
-    font-family: "Poppins-Regular";
-    text-transform: lowercase;
+.form-control::placeholder {
+	color: #cdd4d8;
+	font-size: 12px;
+	font-family: "Poppins-Regular";
+	text-transform: lowercase;
 }
 .place-num-loc h2 {
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
+	font-family: "Poppins", sans-serif;
+	font-weight: 700;
 }
 .office-info.main_heading p {
-    color: #FFFFFF;
+	color: #ffffff;
 }
 select.form-select {
-    background-color: #F3F3F3 !important;
-    border: 1px solid #C3CAD9 !important;
-    color: #798388;
-    font-size: 12px;
-    font-family: 'Montserrat', sans-serif;
-    opacity: 4 !important;
+	background-color: #f3f3f3;
+	border: 1px solid #c3cad9;
+	color: #798388;
+	font-size: 12px;
+	font-family: "Montserrat", sans-serif;
+	opacity: 4 !important;
 }
-.contact-form .main_heading h2{
-    font-size: 30px;
+.contact-form .main_heading h2 {
+	font-size: 30px;
 }
 .contact-form {
-    background-color: #E5F3FA;
-    padding: 42px 30px;
-    border: 1px solid #707070;
-    height: 100%;
+	background-color: #e5f3fa;
+	padding: 42px 30px;
+	border: 1px solid #707070;
+	height: 100%;
 }
 section.newsletter-sec {
-    padding: 0 0 89px 0 !important;
+	padding: 0 0 89px 0 !important;
 }
 /* contact us css end here */
 /* hireadesugner page css start here */
-.upload-box label {
-    border: 1px dashed #0000002e;
-    padding: 15px 30px;
-    border-width: 3px;
-    background: white;
-    border-radius: 4px;
-}
 
 .upload-box svg {
-    margin-right: 10px;
+	margin-right: 10px;
 }
 .hire-side-img {
-    position: absolute;
-    top: -24px;
-    right: -40px;
+	position: absolute;
+	top: -24px;
+	right: -40px;
 }
-.hire-box{
-    position: relative;
+.hire-box {
+	position: relative;
 }
 .upload-box span {
-    font-size: 13px;
+	font-size: 13px;
 }
 /* hireadesugner page css end here */

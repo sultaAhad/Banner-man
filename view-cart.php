@@ -8,9 +8,7 @@
             <div class="main_heading">
                 <h6>Your Superhero For Banners And Signs</h6>
                 <h2>View <span> Cart</span></h2>
-
             </div>
-
         </div>
         <div class="cart-box">
             <div class="cart-top-heading">

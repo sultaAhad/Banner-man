@@ -56,8 +56,11 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="super-man-img">
-                    <img src="img/superhero-banner.png" alt="" class="img-fluid">
+                <div class="main-banner-img " data-aos="fade-left" data-aos-anchor="#example-anchor"
+                    data-aos-offset="700" data-aos-duration="2000">
+                    <figure>
+                        <img src="img/banner-man-net.png" class=" img-fluid layer" data-speed="-5" alt="">
+                    </figure>
                 </div>
             </div>
         </div>
@@ -185,8 +188,8 @@
                     <img src="img/person1.png" alt="" class="img-fluid">
                 </div>
                 <div class="content">
-                    <div>
-                        <h2>John Doe Mark</h2>
+                    <div class="hover-name">
+                        <h2>John Doe <span> Mark </span></h2>
                         <p>General Manager
                         </p>
                     </div>
@@ -197,8 +200,8 @@
                     <img src="img/person2.png" alt="" class="img-fluid">
                 </div>
                 <div class="content">
-                    <div>
-                        <h2>John Doe Mark</h2>
+                    <div class="hover-name">
+                        <h2>John Doe <span> Mark </span></h2>
                         <p>General Manager
                         </p>
                     </div>
@@ -209,8 +212,8 @@
                     <img src="img/person3.png" alt="" class="img-fluid">
                 </div>
                 <div class="content">
-                    <div>
-                        <h2>John Doe Mark</h2>
+                    <div class="hover-name">
+                        <h2>John Doe <span> Mark </span></h2>
                         <p>General Manager
                         </p>
                     </div>
@@ -221,8 +224,8 @@
                     <img src="img/person4.png" alt="" class="img-fluid">
                 </div>
                 <div class="content">
-                    <div>
-                        <h2>John Doe Mark</h2>
+                    <div class="hover-name">
+                        <h2>John Doe <span> Mark </span></h2>
                         <p>General Manager
                         </p>
                     </div>

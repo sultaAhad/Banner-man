@@ -639,6 +639,11 @@ section.Banner-main {
 	content: "\f054";
 	font-family: "FontAwesome";
 }
+.banners-category .slick-arrow:hover {
+	color: #081a55;
+	outline: none;
+	background: #081a55;
+}
 .product h6 {
 	margin: 0;
 }
@@ -812,8 +817,8 @@ section.newsletter-sec {
 	color: white;
 	line-height: unset;
 	margin-bottom: 0;
+	line-height: 1;
 }
-
 .newsletter-heading span {
 	font-family: "Brinnan-Bold";
 }
@@ -822,21 +827,21 @@ section.newsletter-sec {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 20px 61px;
+	padding: 25px 61px;
 	background: #0f256e;
 	border-radius: 9px;
 }
-
 .newletter-info p {
-	font-size: 14px;
-	color: wheat;
+	font-size: 16px;
+	color: #fff;
 	margin: 0;
 }
-
 .subscribe-newletter button {
 	background: #08a9e6;
 	color: white;
-	width: 113px;
+	width: 123px;
+	border: none;
+	border-radius: 5px;
 }
 .subscribe-newletter .btn-outline-secondary:hover {
 	background: #08a9e6;
@@ -845,9 +850,8 @@ section.newsletter-sec {
 }
 .subscribe-newletter input.form-control {
 	width: 70%;
-	padding: 10px;
+	padding: 13px 19px;
 }
-
 /* newsletter end here */
 /* footer start here */
 .about-footer {

@@ -40,6 +40,7 @@ section.superhero-sec {
 
 .superhero-text p {
 	font-size: 14px !important;
+	font-family: "poppins-Regular";
 }
 /* superhero-sec end here */
 /* mission-vission-sec start here */
@@ -68,11 +69,14 @@ section.mission-vission-sec {
 }
 
 .misson-box {
-	padding: 25px 30px;
+	padding: 35px 50px;
 	background: #081a55;
 	border-radius: 16px;
+	height: 100%;
 }
-
+.superhero-text {
+	margin-bottom: 60px;
+}
 .mission-info p {
 	color: white;
 	font-size: 15px;
@@ -88,13 +92,6 @@ section.mission-vission-sec {
 }
 /* about sec end here */
 /* team sec start here */
-.meet-our-team {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
-	padding: 30px 0px;
-}
 
 .person_one {
 	width: 25%;
@@ -135,9 +132,9 @@ section.team-sec {
 }
 .meet-our-team {
 	position: relative;
-	width: 1160px;
+	/* width: 1160px; */
 	display: flex;
-	justify-content: center;
+	justify-content: start;
 	flex-wrap: wrap;
 	transform-style: preserve-3d;
 	perspective: 500px;
@@ -145,14 +142,14 @@ section.team-sec {
 }
 .meet-our-team .box {
 	position: relative;
-	width: 275px;
-	height: 275px;
+	width: 305px;
+	height: 327px;
 	/* background: #000; */
 	transition: 0.5s;
 	transform-style: preserve-3d;
 	overflow: hidden;
 	margin-right: 15px;
-	margin-top: 45px;
+	/* margin-top: 45px; */
 }
 .meet-our-team:hover .box {
 	transform: rotateY(25deg);
@@ -161,31 +158,34 @@ section.team-sec {
 	transform: rotateY(-25deg);
 }
 .meet-our-team .box:hover {
-	transform: rotateY(0deg) scale(1.25);
+	transform: rotateY(0deg) scale(1.15);
 	z-index: 1;
 }
 .meet-our-team .box .imgBx {
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 100%;
+	width: 92%;
+	overflow: hidden;
 	height: 100%;
 }
 .meet-our-team .box .imgBx:before {
 	content: "";
 	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	background: linear-gradient(180deg, #08a9e6, rgba(0, 0, 0, 0));
+	top: 5px;
+	left: 2px;
+	width: 99%;
+	height: 99%;
+	background: linear-gradient(180deg, #000000, rgba(0, 0, 0, 0));
 	z-index: 1;
 	opacity: 0;
 	transition: 0.5s;
 	mix-blend-mode: multiply;
+	border-radius: 9px;
+	overflow: hidden;
 }
 .meet-our-team .box:hover .imgBx:before {
-	opacity: 1;
+	opacity: 0.3;
 }
 .meet-our-team .box .imgBx img {
 	position: absolute;
@@ -208,13 +208,23 @@ section.team-sec {
 	box-sizing: border-box;
 }
 .meet-our-team .box .content h2 {
-	color: #fff;
+	color: #08a9e6;
 	transition: 0.5s;
 	text-transform: uppercase;
 	margin-bottom: 5px;
-	font-size: 20px;
+	font-size: 25px;
 	transform: translateY(200px);
 	transition-delay: 0.3s;
+	text-align: center;
+	font-family: "Brinnan-Regular";
+	margin: 0;
+	padding-top: 10px;
+}
+.meet-our-team .box .content h2 {
+	color: #08a9e6;
+	text-transform: uppercase;
+	font-size: 25px;
+	font-family: "Brinnan-Bold";
 }
 .meet-our-team .box:hover .content h2 {
 	transform: translateY(0px);
@@ -225,8 +235,25 @@ section.team-sec {
 	font-size: 14px;
 	transform: translateY(200px);
 	transition-delay: 0.4s;
+	text-align: center;
+	font-family: "poppins-Medium";
 }
 .meet-our-team .box:hover .content p {
 	transform: translateY(0px);
+}
+.hover-name {
+	width: 92%;
+	height: 70px;
+	background: #0f256e;
+	position: absolute;
+	bottom: 9px;
+	left: 0;
+	border-radius: 0px 0px 10px 10px;
+	opacity: 0;
+	transition: 0.5s;
+}
+.meet-our-team .box:hover .content .hover-name {
+	opacity: 1;
+	transition: 0.5s;
 }
 /* team sec end here */
