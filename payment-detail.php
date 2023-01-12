@@ -1,6 +1,7 @@
 <?php include 'inc/app.php'; ?>
+
 <link rel="stylesheet" href="css/payment-detail.css">
-<!--  Start Here -->
+
 <!-- start here -->
 
 <section class="checkout">
@@ -87,19 +88,24 @@
                                             </div>
                                         </div>
                                         <div class="col-md-12">
-                                <div class="form-check">
-                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                    <label class="form-check-label" for="exampleCheck1">Save Shipping Details</label>
-                                </div>
-                            </div>
+                                            <div class="form-check">
+                                                <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1">Save Shipping
+                                                    Details</label>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="payment-detail">
                                     <div class="saved-payment-method">
                                         <div class="add-new-method">
                                             <div class="form-group">
-                                                <label class="form-check-label" for="exampleCheck1">Add New Payment</label>
-                                                <input type="number" class="form-control __web-inspector-hide-shortcut__" id="exampleFormControlInput1" placeholder="Card Number &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   mm/yy cvc ">
+                                                <label class="form-check-label" for="exampleCheck1">Add New
+                                                    Payment</label>
+                                                <input type="number"
+                                                    class="form-control __web-inspector-hide-shortcut__"
+                                                    id="exampleFormControlInput1"
+                                                    placeholder="Card Number &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;    mm/yy cvc ">
                                             </div>
                                             <div class="sub-this">
                                                 <button type="submit" class="btn btn-primary mb-3">Add Card</button>
@@ -250,8 +256,8 @@
                                     <h5>Promo Code</h5>
                                     <p>If you have a promo code, please apply it below.</p>
                                     <div class="promocode">
-                                    <div class="col-auto">
-                                            <input type="promocode" class="form-control" id="inputcode2" >
+                                        <div class="col-auto">
+                                            <input type="promocode" class="form-control" id="inputcode2">
                                         </div>
                                         <div class="col-auto">
                                             <button type="submit" class="btn btn-primary mb-3">Apply Code</button>
@@ -277,7 +283,7 @@
                             </div>
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="cart-img">
                     <img src="img/border.png" alt="" class="img-fluid">

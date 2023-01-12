@@ -436,8 +436,7 @@
                                                         <li class="page-item">
                                                             <a class="page-link prev  pagelink-second" href="#"
                                                                 aria-label="Previous">
-                                                                <span aria-hidden="true"><i
-                                                                        class="fa fa-angle-double-left"
+                                                                <span aria-hidden="true"><i class="fa fa-angle-left"
                                                                         aria-hidden="true"></i>
                                                                 </span>
                                                             </a>
@@ -454,8 +453,7 @@
                                                         <li class="page-item pageNumber">
                                                             <a class="page-link next pagelink-second" href="#"
                                                                 aria-label="Next">
-                                                                <span aria-hidden="true"><i
-                                                                        class="fa fa-angle-double-right"
+                                                                <span aria-hidden="true"><i class="fa fa-angle-right"
                                                                         aria-hidden="true"></i>
                                                                 </span>
                                                             </a>
@@ -551,8 +549,7 @@
                                                         <li class="page-item">
                                                             <a class="page-link prev  pagelink-second" href="#"
                                                                 aria-label="Previous">
-                                                                <span aria-hidden="true"><i
-                                                                        class="fa fa-angle-double-left"
+                                                                <span aria-hidden="true"><i class="fa fa-angle-left"
                                                                         aria-hidden="true"></i>
                                                                 </span>
                                                             </a>
@@ -569,8 +566,7 @@
                                                         <li class="page-item pageNumber">
                                                             <a class="page-link next pagelink-second" href="#"
                                                                 aria-label="Next">
-                                                                <span aria-hidden="true"><i
-                                                                        class="fa fa-angle-double-right"
+                                                                <span aria-hidden="true"><i class="fa fa-angle-right"
                                                                         aria-hidden="true"></i>
                                                                 </span>
                                                             </a>

@@ -44,8 +44,8 @@
                                     </div>
                                     <div class="product-size">
                                         <div class="main_heading">
-                                            <h2> H (inches) <span>24 to 60</span></h2>
-                                            <h2> W (inches) <span>24 to 36</span></h2>
+                                            <h2> H (inches) <span class="number24">24 to 60</span></h2>
+                                            <h2> W (inches) <span class="number24">24 to 36</span></h2>
                                         </div>
                                     </div>
                                     <div class="qty-box">
@@ -60,12 +60,12 @@
                                     </div>
                                     <div class="totalprice">
                                         <h5>Subtotal </h5>
-                                        <h2><span>: USD 24.00</span></h2>
+                                        <h2><span class="number24">: USD 24.00</span></h2>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="order-two">
+                        <div class="order-one">
                             <div class="del-icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="9.2" height="12.265"
                                     viewBox="0 0 9.2 12.265">
@@ -92,8 +92,8 @@
                                     </div>
                                     <div class="product-size">
                                         <div class="main_heading">
-                                            <h2> H (inches) <span>24 to 60</span></h2>
-                                            <h2> W (inches) <span>24 to 36</span></h2>
+                                            <h2> H (inches) <span class="number24">24 to 60</span></h2>
+                                            <h2> W (inches) <span class="number24">24 to 36</span></h2>
                                         </div>
                                     </div>
                                     <div class="qty-box">
@@ -108,7 +108,7 @@
                                     </div>
                                     <div class="totalprice">
                                         <h5>Subtotal </h5>
-                                        <h2><span>: USD 24.00</span></h2>
+                                        <h2><span class="number24">: USD 24.00</span></h2>
                                     </div>
                                 </div>
                             </div>
@@ -124,11 +124,11 @@
                             <div class="shipping-rates">
                                 <div class="totalprice">
                                     <h5>Shipping </h5>
-                                    <h2><span>: USD 24.00</span></h2>
+                                    <h2><span class="number24">: USD 24.00</span></h2>
                                 </div>
                                 <div class="totalprice">
                                     <h5>Subtotal </h5>
-                                    <h2><span>: USD 24.00</span></h2>
+                                    <h2><span class="number24">: USD 24.00</span></h2>
                                 </div>
                             </div>
                             <div class="taxes-duty">

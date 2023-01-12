@@ -11,6 +11,7 @@
 }
 .order-information {
 	padding: 30px 52px;
+	margin-bottom: 100px;
 }
 .cart-top-heading h5 {
 	font-size: 17px;
@@ -29,8 +30,8 @@
 
 .order-name h2 {
 	font-size: 27px;
+	font-family: "Brinnan-Bold";
 }
-
 .product-size h2 {
 	font-size: 15px;
 }
@@ -61,18 +62,23 @@
 	background: #08a9e6;
 	padding: 7px;
 	width: 38px;
+	position: absolute;
+	top: 0;
+	left: 0;
 	text-align: center;
 }
-
 .order-one {
 	background: #ffffff;
+	padding: 50px 45px;
+	position: relative;
+	margin: 30px 0;
 }
 .order-two {
 	background: #ffffff;
 	margin: 20px 0;
 }
 .order-summary {
-	padding: 0 35px;
+	padding: 29px 123px;
 }
 .summary-btn {
 	display: flex;
@@ -80,20 +86,20 @@
 }
 
 .taxes-duty {
-	padding-top: 31px;
+	padding-top: 101px;
 }
-
 .order-summary-heading h2 {
 	font-size: 32px;
+	margin-bottom: 28px;
 }
 
 .taxes-duty p {
 	color: #000000;
-	font-family: "Poppins", sans-serif;
+	font-family: "Poppins-Regular";
 	font-weight: 500;
+	font-size: 13px;
 	font-style: italic;
 }
-
 .qty-box {
 	padding: 13px 0;
 }
@@ -156,7 +162,11 @@
 	background: white;
 	font-family: calibri;
 }
-
+span.number24 {
+	font-family: "poppins-Bold";
+	font-size: 16px;
+	color: #081a55;
+}
 .quantity-field .number::selection {
 	background: none;
 }

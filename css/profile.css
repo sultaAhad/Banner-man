@@ -545,20 +545,19 @@ table.table {
 	justify-content: start;
 }
 .pagination li.page-item {
-	margin: 0px 8px;
+	margin: 0px 0px;
 }
-
 .pagination .page-link {
 	position: relative;
 	display: block;
 	padding: 11px 19px;
 	margin-left: -1px;
 	line-height: 1.25;
-	color: #aaaaaa;
-	background-color: #fff;
-	border: 1px solid #dee2e6;
+	color: #6d6d6d;
+	background-color: transparent;
+	border: 1px solid transparent;
 	border-radius: 6px;
-	box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+	/* box-shadow: 0 3px 10px rgb(0 0 0 / 0.2); */
 	font-size: 22px;
 	font-family: "poppins";
 	font-weight: 500;
@@ -569,11 +568,11 @@ table.table {
 }
 
 .page-item:first-child .page-link {
-	padding: 11px 26px !important;
+	padding: 11px 15px !important;
 	border-radius: 6px !important;
 }
 .page-item:last-child .page-link {
-	padding: 11px 26px !important;
+	padding: 11px 4px !important;
 	border-radius: 6px !important;
 }
 a.page-link.pagelink-second span i {
@@ -588,7 +587,9 @@ a.page-link.active {
 .page-item.active .page-link {
 	background-color: #08a9e6;
 	color: #fff !important;
-	padding: 11px 21px !important;
+	padding: 8px 17px !important;
+	border: none;
+	border-radius: 2px;
 }
 .papper-heading {
 	font-size: 20px;

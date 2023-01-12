@@ -132,7 +132,7 @@ h6 {
 p {
 	font-size: 14px;
 	font-weight: 400;
-	font-family: "poppins";
+	font-family: "poppins-Regular";
 }
 a {
 	cursor: pointer;
@@ -157,7 +157,7 @@ ul {
 	color: #081a55;
 }
 .main_heading span {
-	font-family: "Brinnan-Bold" !important;
+	font-family: "Brinnan-Bold";
 }
 /* ::-webkit-scrollbar */
 body::-webkit-scrollbar-track {

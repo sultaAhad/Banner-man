@@ -33,7 +33,7 @@
 
 /* Thank You Css Start Here */
 .thankyou-sec {
-	padding: 220px 0;
+	padding: 170px 0 110px 0;
 }
 .thankyou-sec .head {
 	text-align: center;
@@ -69,13 +69,15 @@
 	border: 1px solid #707070b3;
 	padding: 40px 40px;
 	position: relative;
+	background: #eef7fb;
 }
 .thankyou-sec .order-detail h5 {
 	font-size: 20px;
-	color: #262626;
+	color: #081a55;
 	padding-bottom: 5px;
-	font-family: "Montserrat";
+	font-family: "poppins-Bold";
 	font-weight: 700;
+	margin-top: 0px;
 }
 .thankyou-sec .order-detail ul {
 	margin-bottom: 0;
@@ -88,22 +90,23 @@
 .thankyou-sec .order-detail ul li span.property {
 	font-size: 18px;
 	color: #244638;
-	font-weight: 400;
-	font-family: poppinregular;
+	/* font-weight: 400; */
+	font-family: "poppins-Regular";
 }
 .thankyou-sec .order-detail ul li span.value {
 	font-size: 18px;
-	color: #000000;
-	font-weight: 400;
-	font-family: poppinregular;
+	color: #244638;
+	/* font-weight: 400; */
+	font-family: "poppins-Regular";
 }
 .thankyou-sec .order-detail .shipment-address {
 	padding-bottom: 20px;
-	margin-top: 12px;
+	margin-top: 40px;
 	/* border-bottom: 1px solid #707070b3; */
 }
 .thankyou-sec .order-detail .payment-detail {
 	padding: 30px 0;
+	border-top: 1px solid #c5c5c5;
 }
 .thankyou-sec .order-detail ul.payment-total li {
 	display: flex;
@@ -134,13 +137,13 @@
 	font-size: 18px;
 	color: #000000;
 	font-weight: 400;
-	font-family: poppinregular;
+	font-family: "poppins-Regular";
 }
 .thankyou-sec .order-detail ul.payment-total li span.property {
 	font-size: 18px;
-	color: #000000;
-	font-weight: 400;
-	font-family: poppinregular;
+	color: #081a55;
+	/* font-weight: 400; */
+	font-family: "poppins-Regular";
 }
 .thankyou-sec .order-detail ul.payment-total li span.value {
 	color: #000;

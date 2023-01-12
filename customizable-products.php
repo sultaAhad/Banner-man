@@ -1,4 +1,5 @@
 <?php include 'inc/app.php'; ?>
+
 <link rel="stylesheet" href="css/customizable-products.css">
 <link rel="stylesheet" href="css/variables.css">
 <!--  Start Here -->

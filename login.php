@@ -1,5 +1,6 @@
-<link rel="stylesheet" href="css/login.css">
 <?php include 'inc/app.php'; ?>
+
+<link rel="stylesheet" href="css/login.css">
 
 <!-- start here -->
 <section class="register-sec">

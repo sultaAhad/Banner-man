@@ -1,5 +1,7 @@
-<link rel="stylesheet" href="css/terms-condition.css">
 <?php include 'inc/app.php' ?>
+
+<link rel="stylesheet" href="css/terms-condition.css">
+
 <section class="margin-privacy">
     <div class="container">
         <div class="row">
