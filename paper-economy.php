@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="economy-imgbox">
-                    <img src="img/paper-economybanner.png" alt="" class="img-fluid">
+                    <img src="img/paper-economybanner.webp" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-6">
@@ -182,7 +182,7 @@
                             <h2>Option 01:
                                 <span>Upload Banner</span>
                             </h2>
-                            <p>Upload the banners (PNG, JPG, GIF, BMP, TIF and PDF)</p>
+                            <p>Upload the banners (webp, JPG, GIF, BMP, TIF and PDF)</p>
                             <div class="upload-box">
                                 <label for="abc">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="25.679" height="25.679"
@@ -199,7 +199,7 @@
                                         <label class="button" for="fileElem">Select some files</label> -->
                             </div>
                             <div class="steptwo-btn last-step">
-                                <button type="button" class="btn btn-primary">Checkout
+                                <button type="button" class="btn btn-primary" onclick="window.location.href = 'view-cart.php';">Checkout
                                     <svg xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
                                         viewBox="0 0 9.115 7.588">
                                         <path id="Path_72" data-name="Path 72"
@@ -264,7 +264,7 @@
         <div class="row">
             <div class="col-md-5">
                 <div class="digotal-imgbox">
-                    <img src="img/main-walcome-img.png" alt="" class="img-fluid">
+                    <img src="img/main-walcome-img.webp" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-7">
@@ -275,7 +275,7 @@
                                 <h2>How Was Your Experience?</h2>
                                 <!-- </div> -->
                                 <!-- <div class="mission-img">
-                            <img src="img/experience-man.png" alt="" class="img-fluid">
+                            <img src="img/experience-man.webp" alt="" class="img-fluid">
                         </div>
                     </div> -->
                                 <div class="mission-info">
@@ -789,11 +789,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="modal-footer">
+                                            <!-- <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary"
                                                     data-bs-dismiss="modal">Close</button>
                                                 <button type="button" class="btn btn-primary">Save changes</button>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -801,7 +801,7 @@
                         </div>
                         <div class="col-md-3">
                             <div class="mission-img">
-                                <img src="img/experience-man.png" alt="" class="img-fluid">
+                                <img src="img/experience-man.webp" alt="" class="img-fluid">
                             </div>
                         </div>
                     </div>

@@ -68,7 +68,7 @@
             </div>
             <div class="col-md-6">
                 <div class="register-img">
-                    <img src="img/login-man.png" alt="" class="img-fluid">
+                    <img src="img/login-man.webp" alt="" class="img-fluid">
                 </div>
             </div>
         </div>

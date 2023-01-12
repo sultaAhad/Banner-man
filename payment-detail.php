@@ -116,7 +116,7 @@
                                             <div class="products ">
                                                 <div class="abt-product">
                                                     <div class="img-box">
-                                                        <figure><img src="img/product1.png" alt="123">
+                                                        <figure><img src="img/product1.webp" alt="123">
                                                         </figure>
                                                     </div>
                                                     <div class="pro-dtl">
@@ -135,7 +135,7 @@
                                             <div class="products ">
                                                 <div class="abt-product">
                                                     <div class="img-box">
-                                                        <figure><img src="img/product2.png" alt="123">
+                                                        <figure><img src="img/product2.webp" alt="123">
                                                         </figure>
                                                     </div>
                                                     <div class="pro-dtl">
@@ -153,7 +153,7 @@
                                             <div class="products ">
                                                 <div class="abt-product">
                                                     <div class="img-box">
-                                                        <figure><img src="img/product3.png" alt="123">
+                                                        <figure><img src="img/product3.webp" alt="123">
                                                         </figure>
                                                     </div>
                                                     <div class="pro-dtl">
@@ -171,7 +171,7 @@
                                             <div class="products ">
                                                 <div class="abt-product">
                                                     <div class="img-box">
-                                                        <figure><img src="img/product1.png" alt="123">
+                                                        <figure><img src="img/product1.webp" alt="123">
                                                         </figure>
                                                     </div>
                                                     <div class="pro-dtl">
@@ -190,7 +190,7 @@
                                             <div class="products ">
                                                 <div class="abt-product">
                                                     <div class="img-box">
-                                                        <figure><img src="img/product2.png" alt="123">
+                                                        <figure><img src="img/product2.webp" alt="123">
                                                         </figure>
                                                     </div>
                                                     <div class="pro-dtl">
@@ -208,7 +208,7 @@
                                             <div class="products ">
                                                 <div class="abt-product">
                                                     <div class="img-box">
-                                                        <figure><img src="img/product3.png" alt="123">
+                                                        <figure><img src="img/product3.webp" alt="123">
                                                         </figure>
                                                     </div>
                                                     <div class="pro-dtl">
@@ -280,7 +280,7 @@
                     
                 </div>
                 <div class="cart-img">
-                    <img src="img/border.png" alt="" class="img-fluid">
+                    <img src="img/border.webp" alt="" class="img-fluid">
                 </div>
             </div>
         </form>

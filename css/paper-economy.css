@@ -4,9 +4,9 @@
 	/* line-height: 3rem; */
 }
 .all-paper-heading {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
 }
 .side-heading h2 {
 	font-size: 17px;
@@ -24,10 +24,10 @@
 	color: #535272;
 }
 .all-box-content {
-    display: flex;
-    justify-content: space-between;
-    padding: 26px 13px;
-    flex-wrap: wrap;
+	display: flex;
+	justify-content: space-between;
+	padding: 26px 13px;
+	flex-wrap: wrap;
 }
 section.paper-economy {
 	padding: 120px 0;
@@ -358,4 +358,95 @@ section.experience-sec {
 	background-color: #08a9e6; /* color of the scroll thumb */
 	border-radius: 20px; /* roundness of the scroll thumb */
 	border: 3px solid #dbdbdb; /* creates padding around scroll thumb */
+}
+@media (max-width: 1024px) {
+	.all-paper-content p {
+		font-size: 11px;
+	}
+
+	.economy-imgbox {
+		width: 100%;
+	}
+	.misson-box h2 {
+		font-size: 23px;
+	}
+	.mission-info p {
+		font-size: 10px;
+	}
+	.steptwo-btn .btn {
+		width: 123px !important;
+		font-size: 10px;
+		padding: 9px 10px;
+	}
+}
+@media (max-width: 768px) {
+
+	.steptwo .all-box-content {
+		padding: 42px 26px;
+		align-items: end;
+	}
+	.selct-on label {
+		font-size: 11px;
+	}
+	.all-economy-heading h2 {
+		font-size: 39px;
+	}
+	.banner-small-heading h6 {
+		font-size: 15px;
+		margin: 0;
+		line-height: 10px;
+	}
+
+	.all-paper-content p {
+		font-size: 10px !important;
+		margin: 0;
+	}
+
+	.side-heading .main_heading {
+		display: flex;
+	}
+	.steptwo-btn .btn {
+		width: 123px !important;
+		font-size: 9px;
+		padding: 6px 10px;
+	}
+	.mission-info p {
+		font-size: 9px;
+	}
+	.misson-box h2 {
+		font-size: 18px;
+	}
+}
+@media (max-width: 580px) {
+	.misson-box {
+		padding: 4px 0px 0 20px;
+		position: relative;
+	}
+	.mission-info p {
+		font-size: 9px !important;
+	}
+	.misson-box h2 {
+		font-size: 18px !important;
+	}
+	.steptwo-btn .btn {
+		width: 123px !important;
+		font-size: 9px !important;
+		padding: 6px 10px !important;
+	}
+	.mission-img {
+		position: unset !important;
+		width: 100%;
+		height: 100%;
+	}
+	.mission-img img {
+		width: 100%;
+		height: 100%;
+	}
+	section.experience-sec {
+		padding: 50px 0;
+	}
+	.economy-imgbox {
+		margin-right: 20px;
+		margin-bottom: 20px;
+	}
 }

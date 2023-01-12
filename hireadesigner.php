@@ -18,7 +18,7 @@
                 <div class="col-md-3 p-0">
                     <div class="side-box-contact">
                         <div class="side-box-img">
-                            <img src="img/printingimg.png" alt="" class="img-fluid">
+                            <img src="img/printingimg.webp" alt="" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                             </form>
                         </div>
                         <div class="hire-side-img">
-                            <img src="img/border.png" alt="" class="img-fluid">
+                            <img src="img/border.webp" alt="" class="img-fluid">
                         </div>
                     </div>
                 </div>

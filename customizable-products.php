@@ -65,7 +65,7 @@
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
-                                                <img src="img/flag-white.png" class="img-fluid" alt="">
+                                                <img src="img/flag-white.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -77,7 +77,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                                <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -89,7 +89,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                                <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -101,7 +101,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                                <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -132,7 +132,7 @@
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
-                                                <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                                <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -144,7 +144,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/flag-white.png" class="img-fluid" alt="">
+                                                <img src="img/flag-white.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -156,7 +156,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                                <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -168,7 +168,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                                <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -199,7 +199,7 @@
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
-                                                <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                                <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -211,7 +211,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/flag-white.png" class="img-fluid" alt="">
+                                                <img src="img/flag-white.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -223,7 +223,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                                <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -235,7 +235,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                                <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -266,7 +266,7 @@
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
-                                                <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                                <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -278,7 +278,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                                <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -290,7 +290,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/flag-white.png" class="img-fluid" alt="">
+                                                <img src="img/flag-white.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -302,7 +302,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                                <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -333,7 +333,7 @@
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
-                                                <img src="img/sliderbanner1.png" class="img-fluid" alt="">
+                                                <img src="img/sliderbanner1.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -345,7 +345,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                                <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -357,7 +357,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/flag-white.png" class="img-fluid" alt="">
+                                                <img src="img/flag-white.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -369,74 +369,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/slide-banner1.png" class="img-fluid" alt="">
-                                                <div class="add-this">
-                                                    <a href="paper-economy.php">
-                                                        <div class="favorite">
-                                                            <span>Add To Favourate <i
-                                                                    class="fa-solid fa-arrow-right"></i>
-                                                            </span>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3">
-                                <div class="banners-category banners-category1">
-                                    <div class="card-slider">
-                                        <div class="card-wrapper">
-                                            <div class="paper-heading paper-photo">
-                                                <h5> <span> Glossy Photo Paper</span>
-                                                </h5>
-                                            </div>
-                                            <div class="extra-info">
-                                                <h5>H <span>24 IN to 60 IN</span></h5>
-                                                <h5>W <span>24 IN to 36 IN</span></h5>
-                                            </div>
-                                        </div>
-                                        <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
-                                            data-aos-duration="2000">
-                                            <div class="img-wrapper">
-                                                <img src="img/biilboardslider.png" class="img-fluid" alt="">
-                                                <div class="add-this">
-                                                    <a href="paper-economy.php">
-                                                        <div class="favorite">
-                                                            <span>Add To Favourate <i
-                                                                    class="fa-solid fa-arrow-right"></i>
-                                                            </span>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="img-wrapper">
-                                                <img src="img/redlagslider.png" class="img-fluid" alt="">
-                                                <div class="add-this">
-                                                    <a href="paper-economy.php">
-                                                        <div class="favorite">
-                                                            <span>Add To Favourate <i
-                                                                    class="fa-solid fa-arrow-right"></i>
-                                                            </span>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="img-wrapper">
-                                                <img src="img/flag-white.png" class="img-fluid" alt="">
-                                                <div class="add-this">
-                                                    <a href="paper-economy.php">
-                                                        <div class="favorite">
-                                                            <span>Add To Favourate <i
-                                                                    class="fa-solid fa-arrow-right"></i>
-                                                            </span>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="img-wrapper">
-                                                <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                                <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -467,7 +400,7 @@
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
-                                                <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                                <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -479,7 +412,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                                <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -491,7 +424,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/flag-white.png" class="img-fluid" alt="">
+                                                <img src="img/flag-white.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -503,7 +436,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                                <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -534,7 +467,7 @@
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
-                                                <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                                <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -546,7 +479,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                                <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -558,7 +491,7 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/flag-white.png" class="img-fluid" alt="">
+                                                <img src="img/flag-white.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -570,7 +503,74 @@
                                                 </div>
                                             </div>
                                             <div class="img-wrapper">
-                                                <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                                <img src="img/slide-banner1.webp" class="img-fluid" alt="">
+                                                <div class="add-this">
+                                                    <a href="paper-economy.php">
+                                                        <div class="favorite">
+                                                            <span>Add To Favourate <i
+                                                                    class="fa-solid fa-arrow-right"></i>
+                                                            </span>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3">
+                                <div class="banners-category banners-category1">
+                                    <div class="card-slider">
+                                        <div class="card-wrapper">
+                                            <div class="paper-heading paper-photo">
+                                                <h5> <span> Glossy Photo Paper</span>
+                                                </h5>
+                                            </div>
+                                            <div class="extra-info">
+                                                <h5>H <span>24 IN to 60 IN</span></h5>
+                                                <h5>W <span>24 IN to 36 IN</span></h5>
+                                            </div>
+                                        </div>
+                                        <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
+                                            data-aos-duration="2000">
+                                            <div class="img-wrapper">
+                                                <img src="img/biilboardslider.webp" class="img-fluid" alt="">
+                                                <div class="add-this">
+                                                    <a href="paper-economy.php">
+                                                        <div class="favorite">
+                                                            <span>Add To Favourate <i
+                                                                    class="fa-solid fa-arrow-right"></i>
+                                                            </span>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="img-wrapper">
+                                                <img src="img/redlagslider.webp" class="img-fluid" alt="">
+                                                <div class="add-this">
+                                                    <a href="paper-economy.php">
+                                                        <div class="favorite">
+                                                            <span>Add To Favourate <i
+                                                                    class="fa-solid fa-arrow-right"></i>
+                                                            </span>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="img-wrapper">
+                                                <img src="img/flag-white.webp" class="img-fluid" alt="">
+                                                <div class="add-this">
+                                                    <a href="paper-economy.php">
+                                                        <div class="favorite">
+                                                            <span>Add To Favourate <i
+                                                                    class="fa-solid fa-arrow-right"></i>
+                                                            </span>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="img-wrapper">
+                                                <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                                 <div class="add-this">
                                                     <a href="paper-economy.php">
                                                         <div class="favorite">
@@ -614,7 +614,7 @@
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
-                                            <img src="img/flag-white.png" class="img-fluid" alt="">
+                                            <img src="img/flag-white.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -625,7 +625,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                            <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -636,7 +636,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                            <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -647,7 +647,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                            <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -677,7 +677,7 @@
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
-                                            <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                            <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -688,7 +688,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/flag-white.png" class="img-fluid" alt="">
+                                            <img src="img/flag-white.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -699,7 +699,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                            <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -710,7 +710,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                            <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -740,7 +740,7 @@
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
-                                            <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                            <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -751,7 +751,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/flag-white.png" class="img-fluid" alt="">
+                                            <img src="img/flag-white.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -762,7 +762,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                            <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -773,7 +773,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                            <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -803,7 +803,7 @@
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
-                                            <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                            <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -814,7 +814,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                            <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -825,7 +825,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/flag-white.png" class="img-fluid" alt="">
+                                            <img src="img/flag-white.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -836,7 +836,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                            <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -878,7 +878,7 @@
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
-                                            <img src="img/flag-white.png" class="img-fluid" alt="">
+                                            <img src="img/flag-white.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -889,7 +889,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                            <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -900,7 +900,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                            <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -911,7 +911,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                            <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -942,7 +942,7 @@
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
-                                            <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                            <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -953,7 +953,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/flag-white.png" class="img-fluid" alt="">
+                                            <img src="img/flag-white.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -964,7 +964,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                            <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -975,7 +975,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                            <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -1005,7 +1005,7 @@
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
-                                            <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                            <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -1016,7 +1016,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/flag-white.png" class="img-fluid" alt="">
+                                            <img src="img/flag-white.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -1027,7 +1027,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                            <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -1038,7 +1038,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                            <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -1079,7 +1079,7 @@
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
-                                            <img src="img/flag-white.png" class="img-fluid" alt="">
+                                            <img src="img/flag-white.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -1090,7 +1090,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/slide-banner1.png" class="img-fluid" alt="">
+                                            <img src="img/slide-banner1.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -1101,7 +1101,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/redlagslider.png" class="img-fluid" alt="">
+                                            <img src="img/redlagslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">
@@ -1112,7 +1112,7 @@
                                             </div>
                                         </div>
                                         <div class="img-wrapper">
-                                            <img src="img/biilboardslider.png" class="img-fluid" alt="">
+                                            <img src="img/biilboardslider.webp" class="img-fluid" alt="">
                                             <div class="add-this">
                                                 <a href="paper-economy.php">
                                                     <div class="favorite">

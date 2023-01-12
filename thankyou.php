@@ -57,7 +57,7 @@
                     </div>
                     <!-- <a class="btn" href="product-page.php" >Continue Shopping</a> -->
                     <div class="cart-img">
-                    <img src="img/border.png" alt="" class="img-fluid">
+                    <img src="img/border.webp" alt="" class="img-fluid">
                 </div>
                 </div>
                 <div class="col-lg-3 col-md-2">
