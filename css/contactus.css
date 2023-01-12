@@ -155,3 +155,9 @@ section.newsletter-sec {
 	font-size: 13px;
 }
 /* hireadesugner page css end here */
+@media (max-width: 590px) {
+	label {
+		font-size: 11px !important;
+	}
+	
+}

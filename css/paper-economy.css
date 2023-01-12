@@ -3,7 +3,11 @@
 	margin: 0;
 	/* line-height: 3rem; */
 }
-
+.all-paper-heading {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
 .side-heading h2 {
 	font-size: 17px;
 	margin: 0;
@@ -19,11 +23,11 @@
 	font-family: "poppins-SemiBold";
 	color: #535272;
 }
-.all-paper-heading {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	margin-bottom: 10px;
+.all-box-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 26px 13px;
+    flex-wrap: wrap;
 }
 section.paper-economy {
 	padding: 120px 0;
