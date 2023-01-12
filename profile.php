@@ -36,7 +36,7 @@
             <div class="row">
                 <div class="col-lg-3">
                     <div class="upload-img">
-                        <img src="./img/profile.png" class="img-fluid" alt="">
+                        <img src="./img/profile.webp" class="img-fluid" alt="">
                         <div class="profile-icon">
                             <i class="fa-solid fa-pen-to-square"></i>
                         </div>
@@ -482,7 +482,7 @@
                                                 </thead>
                                                 <tbody>
                                                     <tr>
-                                                        <td scope="row"><img src="img/table-wrapper.png"
+                                                        <td scope="row"><img src="img/table-wrapper.webp"
                                                                 class="img-fluid" alt="">
                                                         </td>
                                                         <td>
@@ -497,7 +497,7 @@
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td scope="row"><img src="img/table-wrapper.png"
+                                                        <td scope="row"><img src="img/table-wrapper.webp"
                                                                 class="img-fluid" alt="">
                                                         </td>
                                                         <td>
@@ -512,7 +512,7 @@
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td scope="row"><img src="img/table-wrapper.png"
+                                                        <td scope="row"><img src="img/table-wrapper.webp"
                                                                 class="img-fluid" alt="">
                                                         </td>
                                                         <td>
@@ -527,7 +527,7 @@
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td scope="row"><img src="img/table-wrapper.png"
+                                                        <td scope="row"><img src="img/table-wrapper.webp"
                                                                 class="img-fluid" alt="">
                                                         </td>
                                                         <td>

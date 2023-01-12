@@ -66,7 +66,7 @@
             <div class="row">
                 <div class="col-lg-3">
                     <div class="for-logo" data-aos="fade-right" data-aos-duration="3000">
-                        <li><a href="index.php"><img src="img/logo.png" alt=""></a></li>
+                        <li><a href="index.php"><img src="img/logo.webp" alt=""></a></li>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -97,7 +97,7 @@
                         </div>
                         <div class="headingbillboard">
                             <h5>Overnight Shipping Available </h5>
-                            <img src="img/billboard.png" class="img-fluid" alt="">
+                            <img src="img/billboard.webp" class="img-fluid" alt="">
                         </div>
                     </div>
                 </div>

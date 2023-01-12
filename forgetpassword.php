@@ -49,7 +49,7 @@
                 <div class="main-banner-img " data-aos="fade-left" data-aos-anchor="#example-anchor"
                     data-aos-offset="700" data-aos-duration="2000">
                     <figure>
-                        <img src="img/banner-man-net.png" class=" img-fluid layer" data-speed="-5" alt="">
+                        <img src="img/banner-man-net.webp" class=" img-fluid layer" data-speed="-5" alt="">
                     </figure>
                 </div>
             </div>

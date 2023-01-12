@@ -38,7 +38,7 @@
                 <div class="advertising-box">
                     <div class="advertising-box1">
                         <div class="advertise-img">
-                            <img src="img/advertising.png" alt="" class="img-fluid">
+                            <img src="img/advertising.webp" alt="" class="img-fluid">
                         </div>
                         <div class="advertise-info">
                             <h5>Lorem ipsum.</h5>
@@ -47,7 +47,7 @@
                     </div>
                     <div class="advertising-box1">
                         <div class="advertise-img">
-                            <img src="img/flag.png" alt="" class="img-fluid">
+                            <img src="img/flag.webp" alt="" class="img-fluid">
                         </div>
                         <div class="advertise-info">
                             <h5>Lorem ipsum.</h5>
@@ -60,7 +60,7 @@
                 <div class="main-banner-img " data-aos="fade-left" data-aos-anchor="#example-anchor"
                     data-aos-offset="700" data-aos-duration="2000">
                     <figure>
-                        <img src="img/banner-man-net.png" class=" img-fluid layer" data-speed="-5" alt="">
+                        <img src="img/banner-man-net.webp" class=" img-fluid layer" data-speed="-5" alt="">
                     </figure>
                 </div>
             </div>
@@ -83,7 +83,7 @@
                             <h2>Our <span>Mission</span></h2>
                         </div>
                         <div class="mission-img">
-                            <img src="img/target.png" alt="" class="img-fluid">
+                            <img src="img/target.webp" alt="" class="img-fluid">
                         </div>
                     </div>
                     <div class="mission-info">
@@ -105,7 +105,7 @@
                             <h2>Our <span>Vision</span></h2>
                         </div>
                         <div class="mission-img">
-                            <img src="img/start-up.png" alt="" class="img-fluid">
+                            <img src="img/start-up.webp" alt="" class="img-fluid">
                         </div>
                     </div>
                     <div class="mission-info">
@@ -131,7 +131,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="digital-imgbox">
-                    <img src="img/digital-flag.png" alt="" class="img-fluid">
+                    <img src="img/digital-flag.webp" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-6">
@@ -186,7 +186,7 @@
         <div class="meet-our-team ">
             <div class="box">
                 <div class="imgBx">
-                    <img src="img/person1.png" alt="" class="img-fluid">
+                    <img src="img/person1.webp" alt="" class="img-fluid">
                 </div>
                 <div class="content">
                     <div class="hover-name">
@@ -198,7 +198,7 @@
             </div>
             <div class="box">
                 <div class="imgBx">
-                    <img src="img/person2.png" alt="" class="img-fluid">
+                    <img src="img/person2.webp" alt="" class="img-fluid">
                 </div>
                 <div class="content">
                     <div class="hover-name">
@@ -210,7 +210,7 @@
             </div>
             <div class="box">
                 <div class="imgBx">
-                    <img src="img/person3.png" alt="" class="img-fluid">
+                    <img src="img/person3.webp" alt="" class="img-fluid">
                 </div>
                 <div class="content">
                     <div class="hover-name">
@@ -222,7 +222,7 @@
             </div>
             <div class="box">
                 <div class="imgBx">
-                    <img src="img/person4.png" alt="" class="img-fluid">
+                    <img src="img/person4.webp" alt="" class="img-fluid">
                 </div>
                 <div class="content">
                     <div class="hover-name">

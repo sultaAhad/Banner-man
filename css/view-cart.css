@@ -205,3 +205,12 @@ span.number24 {
 		padding: 0px 0px;
 	}
 }
+@media (max-width: 768px) {
+	.order-info {
+		display: flex;
+		align-items: center;
+		gap: 40px;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+}

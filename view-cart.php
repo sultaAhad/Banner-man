@@ -146,7 +146,7 @@
                     </div>
                 </div>
                 <div class="cart-img">
-                    <img src="img/border.png" alt="" class="img-fluid">
+                    <img src="img/border.webp" alt="" class="img-fluid">
                 </div>
             </div>
         </div>

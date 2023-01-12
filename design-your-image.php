@@ -19,7 +19,7 @@
                                 data-bs-target="#pills-hidden" type="button" role="tab" aria-controls="pills-hidden"
                                 aria-selected="true">
                                 <div class="deisgn">
-                                    <img src="img/design-img.png" class="img-fluid" alt="">
+                                    <img src="img/design-img.webp" class="img-fluid" alt="">
                                     <h5>Add Images</h5>
                                 </div>
                             </button>
@@ -29,7 +29,7 @@
                                 data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home"
                                 aria-selected="true">
                                 <div class="deisgn">
-                                    <img src="img/design-img.png" class="img-fluid" alt="">
+                                    <img src="img/design-img.webp" class="img-fluid" alt="">
                                     <h5>Add Images</h5>
                                 </div>
                             </button>
@@ -39,7 +39,7 @@
                                 data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile"
                                 aria-selected="false">
                                 <div class="deisgn">
-                                    <img src="img/design-img1.png" class="img-fluid" alt="">
+                                    <img src="img/design-img1.webp" class="img-fluid" alt="">
                                     <h5>Add Text</h5>
                                 </div>
                             </button>
@@ -49,7 +49,7 @@
                                 data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact"
                                 aria-selected="false">
                                 <div class="deisgn">
-                                    <img src="img/design-img2.png" class="img-fluid" alt="">
+                                    <img src="img/design-img2.webp" class="img-fluid" alt="">
                                     <h5>Add Clipart</h5>
                                 </div>
                             </button>
@@ -59,7 +59,7 @@
                                 data-bs-target="#pills-background" type="button" role="tab"
                                 aria-controls="pills-background" aria-selected="false">
                                 <div class="deisgn">
-                                    <img src="img/design-img3.png" class="img-fluid" alt="">
+                                    <img src="img/design-img3.webp" class="img-fluid" alt="">
                                     <h5>Add Background</h5>
                                 </div>
                             </button>
@@ -69,7 +69,7 @@
                                 data-bs-target="#pills-final" type="button" role="tab" aria-controls="pills-final"
                                 aria-selected="false">
                                 <div class="deisgn">
-                                    <img src="img/design-img3.png" class="img-fluid" alt="">
+                                    <img src="img/design-img3.webp" class="img-fluid" alt="">
                                     <h5>Add Background</h5>
                                 </div>
                             </button>
@@ -95,7 +95,7 @@
                                                             data-bs-target="#pills-home" type="button" role="tab"
                                                             aria-controls="pills-home" aria-selected="true">
                                                             <div class="deisgn1">
-                                                                <img src="img/design-img.png" class="img-fluid" alt="">
+                                                                <img src="img/design-img.webp" class="img-fluid" alt="">
                                                                 <div class="image">
                                                                     <h5>Add Images</h5>
                                                                     <p>Choose from ours or upload your own</p>
@@ -109,7 +109,7 @@
                                                             type="button" role="tab" aria-controls="pills-profile"
                                                             aria-selected="false">
                                                             <div class="deisgn1">
-                                                                <img src="img/design-img1.png" class="img-fluid" alt="">
+                                                                <img src="img/design-img1.webp" class="img-fluid" alt="">
                                                                 <div class="image">
                                                                     <h5>Add Text</h5>
                                                                     <p>Choose from over 50 different fonts</p>
@@ -123,7 +123,7 @@
                                                             type="button" role="tab" aria-controls="pills-contact"
                                                             aria-selected="false">
                                                             <div class="deisgn1">
-                                                                <img src="img/design-img2.png" class="img-fluid" alt="">
+                                                                <img src="img/design-img2.webp" class="img-fluid" alt="">
                                                                 <div class="image">
                                                                     <h5>Add Clipart</h5>
                                                                     <p>Start your design from a template</p>
@@ -137,7 +137,7 @@
                                                             data-bs-target="#pills-background" type="button" role="tab"
                                                             aria-controls="pills-background" aria-selected="false">
                                                             <div class="deisgn1">
-                                                                <img src="img/design-img3.png" class="img-fluid" alt="">
+                                                                <img src="img/design-img3.webp" class="img-fluid" alt="">
                                                                 <div class="image">
                                                                     <h5>Add Background</h5>
                                                                     <p>Start your design from a template</p>
@@ -163,7 +163,7 @@
                                                                 <input type="file" id="image" name="image[]" multiple
                                                                     style="display:none" visbility="hidden" />
                                                                 <div class="deisgn1">
-                                                                    <img src="img/design-img4.png" class="img-fluid"
+                                                                    <img src="img/design-img4.webp" class="img-fluid"
                                                                         alt="">
                                                                     <div class="image">
                                                                         <h5>Add Images</h5>
@@ -223,7 +223,7 @@
                                                                 <div class="color-picker">
                                                                     <label for="color-picker-wrapper">
                                                                         <h6>Color</h6>
-                                                                        <img src="img/color-picker.png"
+                                                                        <img src="img/color-picker.webp"
                                                                             id="color-picker-wrapper" class="img-fluid"
                                                                             alt="">
                                                                     </label>
@@ -231,7 +231,7 @@
                                                                 <div class="color-picker">
                                                                     <label for="color-picker-wrapper">
                                                                         <h6>Stroke</h6>
-                                                                        <img src="img/color-picker.png"
+                                                                        <img src="img/color-picker.webp"
                                                                             id="color-picker-wrapper" class="img-fluid"
                                                                             alt="">
                                                                     </label>
@@ -239,7 +239,7 @@
                                                                 <div class="color-picker">
                                                                     <label for="color-picker-wrapper">
                                                                         <h6>Shadow</h6>
-                                                                        <img src="img/color-picker1.png"
+                                                                        <img src="img/color-picker1.webp"
                                                                             id="color-picker-wrapper" class="img-fluid"
                                                                             alt="">
                                                                     </label>
@@ -262,9 +262,9 @@
                                                                         <span>Bring Forward</span> </a>
                                                                 </label>
                                                                 <div class="justify">
-                                                                    <button><img src="img/justify.png" alt=""></button>
-                                                                    <button><img src="img/justify1.png" alt=""></button>
-                                                                    <button><img src="img/justify2.png" alt=""></button>
+                                                                    <button><img src="img/justify.webp" alt=""></button>
+                                                                    <button><img src="img/justify1.webp" alt=""></button>
+                                                                    <button><img src="img/justify2.webp" alt=""></button>
                                                                 </div>
 
                                                             </div>
@@ -394,7 +394,7 @@
                                                                 <div class="color-picker color-picker12">
                                                                     <label for="color-picker-wrapper">
                                                                         <h6>Color</h6>
-                                                                        <img src="img/color-picker.png"
+                                                                        <img src="img/color-picker.webp"
                                                                             id="color-picker-wrapper" class="img-fluid"
                                                                             alt="">
                                                                     </label>
@@ -417,18 +417,18 @@
                                                 </div>
                                                 <div class="main-wrapper">
                                                     <div class="color-wrapper">
-                                                        <img src="img/color1.png" class="img-fluid" alt="">
-                                                        <img src="img/color2.png" class="img-fluid" alt="">
-                                                        <img src="img/color3.png" class="img-fluid" alt="">
-                                                        <img src="img/color4.png" class="img-fluid" alt="">
-                                                        <img src="img/color5.png" class="img-fluid" alt="">
-                                                        <img src="img/color6.png" class="img-fluid" alt="">
-                                                        <img src="img/color7.png" class="img-fluid" alt="">
-                                                        <img src="img/color8.png" class="img-fluid" alt="">
-                                                        <img src="img/color9.png" class="img-fluid" alt="">
-                                                        <img src="img/color10.png" class="img-fluid" alt="">
-                                                        <img src="img/color11.png" class="img-fluid" alt="">
-                                                        <img src="img/color12.png" class="img-fluid" alt="">
+                                                        <img src="img/color1.webp" class="img-fluid" alt="">
+                                                        <img src="img/color2.webp" class="img-fluid" alt="">
+                                                        <img src="img/color3.webp" class="img-fluid" alt="">
+                                                        <img src="img/color4.webp" class="img-fluid" alt="">
+                                                        <img src="img/color5.webp" class="img-fluid" alt="">
+                                                        <img src="img/color6.webp" class="img-fluid" alt="">
+                                                        <img src="img/color7.webp" class="img-fluid" alt="">
+                                                        <img src="img/color8.webp" class="img-fluid" alt="">
+                                                        <img src="img/color9.webp" class="img-fluid" alt="">
+                                                        <img src="img/color10.webp" class="img-fluid" alt="">
+                                                        <img src="img/color11.webp" class="img-fluid" alt="">
+                                                        <img src="img/color12.webp" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                             </div>
@@ -500,7 +500,7 @@
                             </div>
                             <div class="col-lg-7">
                                 <div class="flag-img">
-                                    <img src="img/main-walcome-img.png" class="img-fluid" alt="">
+                                    <img src="img/main-walcome-img.webp" class="img-fluid" alt="">
                                     <div class="nex-prev-btn">
                                         <button class="prevtab btn btn-success">Prev <span><i
                                                     class="fa-solid fa-arrow-right"></i></span></button>
