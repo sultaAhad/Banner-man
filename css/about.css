@@ -256,3 +256,19 @@ section.team-sec {
 	transition: 0.5s;
 }
 /* team sec end here */
+/* responsive start */
+@media (max-width: 1400px) {
+	.main_heading h2 {
+		font-size: 51px !important;
+	}
+	.mission-info p {
+		font-size: 13px;
+	}
+	.meet-our-team .box {
+		width: 255px;
+	}
+	.about-content {
+		padding-top: 79px;
+	}
+}
+/* responsive end */

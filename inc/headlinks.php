@@ -7,7 +7,7 @@
 <!-- title Banner-man -->
 
 <!-- Logo Banner-man -->
-<link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
+<link rel="shortcut icon" href="img/logo.webp" type="image/x-icon">
 <!-- Logo Banner-man -->
 
 <!-- Bootstrap CSS -->

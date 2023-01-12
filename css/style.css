@@ -1028,6 +1028,58 @@ footer p {
 }
 /* footer start End */
 /* Responsive start */
+@media (max-width: 1440px) {
+	.navbar-items ul li a {
+		font-size: 16px;
+	}
+	.left-to-right {
+		width: 158%;
+	}
+	.headingbillboard {
+		top: -91px;
+	}
+	.headingbillboard h5 {
+		font-size: 17px;
+	}
+	.banner-small-heading h6 {
+		font-size: 12px;
+	}
+	.banner-small-heading img {
+		margin-right: 0;
+	}
+	.banner-heading h2 {
+		font-size: 50px;
+	}
+	.banner-large-heading h1 {
+		font-size: 60px;
+	}
+	.indoor-banner-main h5 {
+		font-size: 23px;
+	}
+	.btn {
+		font-size: 13px;
+	}
+	.indoor-button h6 {
+		font-size: 13px;
+	}
+	section.Banner-main {
+		padding: 140px 0 90px;
+	}
+	h4 {
+		font-size: 45px;
+	}
+	img.img-fluid.macho-man {
+		position: absolute;
+		top: -51px;
+		left: 131px;
+	}
+	.people-para p {
+		font-size: 11px;
+	}
+	section.newsletter-sec {
+		padding: 67px 0 117px 0;
+	}
+}
 @media (max-width: 1024px) {
 	h1 {
 		font-size: 25px;
@@ -1053,7 +1105,44 @@ footer p {
 	.search-form {
 		left: -57%;
 	}
+	.footer ul li a {
+		font-size: 13px;
+	}
+	footer p {
+		color: #081a55;
+		font-size: 13px;
+		padding: 0;
+	}
 }
+
+/* Responsive End */
+/* reponsive start here */
+@media (max-width: 580px) {
+	.logo-img {
+		text-align: center;
+	}
+
+	.logo-para p {
+		padding: 0;
+	}
+
+	.logo-para {
+		text-align: center;
+	}
+
+	.footer-iconics ul {
+		justify-content: center;
+	}
+
+	.footer-wrapper ul li {
+		justify-content: center;
+	}
+
+	.footer-wrapper {
+		text-align: center;
+	}
+}
+
 @media (max-width: 360px) {
 	.heading-top {
 		text-align: center;
@@ -1104,9 +1193,8 @@ footer p {
 	.container1 {
 		top: 19%;
 	}
-	.headingbillboard {
-		top: 0px;
-		right: -9px;
+	.container1 {
+		top: 22%;
 	}
 	.headingbillboard h5 {
 		font-size: 10px;
@@ -1202,43 +1290,22 @@ footer p {
 		top: 111px;
 		z-index: 999;
 	}
-}
-/* Responsive End */
-/* reponsive start here */
-@media (max-width: 580px) {
-	.logo-img {
-		text-align: center;
+	.main-top-navbar {
+		background: #08a9e6;
+		height: unset;
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+		position: fixed;
+		width: 100%;
+		z-index: 999;
 	}
-
-	.logo-para p {
-		padding: 0;
+	.for-logo.aos-init.aos-animate {
+		margin-top: 118px;
 	}
-
-	.logo-para {
-		text-align: center;
-	}
-
-	.footer-iconics ul {
-		justify-content: center;
-	}
-
-	.footer-wrapper ul li {
-		justify-content: center;
-	}
-
-	.footer-wrapper {
-		text-align: center;
-	}
-}
-
-@media (max-width: 1024px) {
-	.footer ul li a {
-		font-size: 13px;
-	}
-	footer p {
-		color: #081a55;
-		font-size: 13px;
-		padding: 0;
+	.headingbillboard {
+		top: -1px;
+		right: 1px;
 	}
 }
 

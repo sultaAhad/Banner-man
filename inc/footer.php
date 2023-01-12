@@ -5,7 +5,7 @@
             <div class="col-lg-4 col-md-3 footer-icon-wrapper">
                 <div class="footer-logo">
                     <div class="logo-img">
-                        <img src="img/logo.png" alt="">
+                        <img src="img/logo.webp" alt="">
                     </div>
                     <div class="logo-para">
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
@@ -48,11 +48,13 @@
                 <div class="footer-wrapper">
                     <h5>contact us</h5>
                     <ul>
-                        <li><img src="img/phone.png" class="img-fluid" alt=""><a href="contactus.php">(800) 0123-456-789
+                        <li><img src="img/phone.webp" class="img-fluid" alt=""><a href="contactus.php">(800)
+                                0123-456-789
                             </a></li>
-                        <li><img src="img/anvalope.png" class="img-fluid" alt=""><a href="contactus.php">Email:
+                        <li><img src="img/anvalope.webp" class="img-fluid" alt=""><a href="contactus.php">Email:
                                 Example@Example.Com</a></li>
-                        <li><img src="img/map.png" class="img-fluid" alt=""><a href="contactus.php">Lorem Ipsum Is Simply
+                        <li><img src="img/map.webp" class="img-fluid" alt=""><a href="contactus.php">Lorem Ipsum Is
+                                Simply
                                 Dummy
                                 Text.</a></li>
                     </ul>
