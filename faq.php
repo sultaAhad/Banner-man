@@ -11,7 +11,17 @@
             <div class="faq-heading">
                 <div class="main_heading ">
                     <h6>Your Superhero For Banners And Signs</h6>
-                    <h2>Frequently<span> Asked Questions</span></h2>
+                    <div class="zoominout-wrapper">
+                        <div class="main_heading1">
+                            <h2 class="cssanimation leRotateYZoomIn random1">Frequently
+                            </h2>
+                        </div>
+                        <div class="main_heading2">
+                            <h1 class="cssanimation leRotateYZoomIn random1">Asked Questions
+                            </h1>
+                        </div>
+                    </div>
+                    <!-- <h2>Frequently<span> Asked Questions</span></h2> -->
                     <p>Ornare arcu dui vivamus arcu felis bibendum ut tristique. Elementum facilisis leo vel fringilla
                         est ullamcorper. Sed augue lacus viverra vitae congue. Sed adipiscing diam donec adipiscing.
                         Luctus venenatis lectus magna fringilla urna. Ullamcorper sit amet risus nullam eget felis eget.

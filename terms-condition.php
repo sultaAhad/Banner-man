@@ -10,9 +10,19 @@
                     <div class="banner-small-heading">
                         <h6>Your Superhero For Banners And Signs</h6>
                     </div>
-                    <div class="main_heading">
-                        <h2>Terms &<span>Conditions</span></h2>
+                    <div class="zoominout-wrapper">
+                        <div class="main_heading1">
+                            <h2 class="cssanimation leRotateYZoomIn random1">Terms And
+                            </h2>
+                        </div>
+                        <div class="main_heading2">
+                            <h1 class="cssanimation leRotateYZoomIn random1">Conditions
+                            </h1>
+                        </div>
                     </div>
+                    <!-- <div class="main_heading">
+                        <h2><span></span></h2>
+                    </div> -->
                     <h5>What is Lorem Ipsum?</h5>
                     <div class="para-heading">
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has

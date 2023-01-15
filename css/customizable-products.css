@@ -26,7 +26,10 @@
 	font-family: "Poppins", sans-serif;
 	font-weight: 300;
 }
-
+section#testimonial-slider {
+	position: relative;
+	padding-bottom: 110px;
+}
 .extra-info span {
 	color: #fff;
 	font-size: 11px;

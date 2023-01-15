@@ -163,7 +163,7 @@ window.onload = function() {
 };
 
 function animateRandom() {
-    var a = document.getElementsByClassName('random');
+    var a = document.getElementsByClassName('random1');
     for (var i = 0; i < a.length; i++) {
         var $this = a[i];
         var letter = $this.innerHTML;

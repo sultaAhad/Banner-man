@@ -1,3 +1,6 @@
+header {
+	display: none;
+}
 .register-wrapper {
 	height: 100%;
 }
@@ -154,4 +157,7 @@ section.register-sec {
 }
 .info-btn2 .btn svg {
 	margin-left: 10px;
+}
+footer.footer {
+	display: none;
 }

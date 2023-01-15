@@ -117,10 +117,10 @@
                         <div></div>
                     </div>
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Customizable Products</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="aboutus.php">About Us</a></li>
+                        <li><a href="customizable-products.php">Customizable Products</a></li>
+                        <li><a href="contactus.php">Contact Us</a></li>
                     </ul>
                 </nav>
             </div>

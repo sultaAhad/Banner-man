@@ -84,11 +84,15 @@ section.mission-vission-sec {
 .banner-small-headings h6 {
 	font-size: 15px;
 }
+.banner-small-heading h6 {
+	font-size: 16px;
+}
 /* mission-vission-sec end here */
 /* about sec start here */
 .about-content {
 	padding-top: 112px;
 }
+
 /* about sec end here */
 /* team sec start here */
 
@@ -269,6 +273,39 @@ section.team-sec {
 	}
 	.about-content {
 		padding-top: 79px;
+	}
+}
+@media (max-width: 1024px) {
+	.main_heading2 h1 {
+		font-size: 37px;
+	}
+	.main_heading1 h2.cssanimation.leRotateYZoomIn.random1 {
+		font-size: 37px;
+	}
+	.superhero-text p {
+		font-size: 11px !important;
+	}
+	.advertise-info h5 {
+		font-size: 15px;
+	}
+	.advertise-img img {
+		width: 127px;
+		margin-top: 10px;
+	}
+	.banner-small-headings h6 {
+		font-size: 13px;
+	}
+	.mission-info p {
+		font-size: 11px;
+	}
+	.misson-box h2 {
+		font-size: 31px;
+	}
+	.main_heading h2 {
+		font-size: 37px !important;
+	}
+	section.superhero-sec {
+		padding: 140px 0px 50px 0;
 	}
 }
 /* responsive end */

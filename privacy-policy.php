@@ -10,8 +10,15 @@
                     <div class="banner-small-heading">
                         <h6>Your Superhero For Banners And Signs</h6>
                     </div>
-                    <div class="main_heading">
-                        <h2>Privacy <span>Policy</span></h2>
+                    <div class="zoominout-wrapper">
+                        <div class="main_heading1">
+                            <h2 class="cssanimation leRotateYZoomIn random1">Privacy
+                            </h2>
+                        </div>
+                        <div class="main_heading2">
+                            <h1 class="cssanimation leRotateYZoomIn random1">Policy
+                            </h1>
+                        </div>
                     </div>
                     <h5>What is Lorem Ipsum?</h5>
                     <div class="paragraph-heading">

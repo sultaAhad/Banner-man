@@ -16,10 +16,8 @@
                         <h2>Enter your registered email below to receive
                             password reset <span>instructions</span>
                             <br>
-
                         </h2>
                     </div>
-
                     <div class="sign-member-form">
                         <form>
                             <div class=" col-10">
@@ -27,9 +25,6 @@
                                     <input class="form-control" placeholder="Enter Email Address">
                                 </div>
                             </div>
-
-
-
                             <div class="col-10">
                                 <div class="info-btn2">
                                     <a href="opt-code.php" class="btn btn-primary ">submit <svg

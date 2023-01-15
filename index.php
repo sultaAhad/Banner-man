@@ -17,12 +17,12 @@
                         <img src="img/group.webp" class="img-fluid" alt="">
                     </div>
                     <div class="banner-heading">
-                        <h2 class="cssanimation leRotateYZoomIn random">Welcome To
+                        <h2 class="cssanimation leRotateYZoomIn random random1">Welcome To
                         </h2>
                         <img src="img/capture.webp" class="img-fluid" alt="">
                     </div>
                     <div class="banner-large-heading">
-                        <h1 class="cssanimation leRotateYZoomIn random">Banner-Man
+                        <h1 class="cssanimation leRotateYZoomIn random random1">Banner-Man
                         </h1>
                     </div>
                     <div class="review-main">
@@ -110,13 +110,19 @@
 
 <!-- Testimonial start start -->
 <section id="testimonial-slider">
+    <div class="show-testimonial1">
+        <img src="img/testemonial-show.webp" class="img-fluid" alt="">
+    </div>
+    <div class="show-testimonial2">
+        <img src="img/testemonial-show.webp" class="img-fluid" alt="">
+    </div>
     <div class="container">
         <div class="many-slider">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="product">
                         <h6>Our Products</h6>
-                        <h4>Gallery Of Banners</h4>
+                        <h4>Gallery Of <span> Banners </span></h4>
                     </div>
                 </div>
             </div>
@@ -197,7 +203,7 @@
                 <div class="col-lg-12">
                     <div class="product">
                         <h6>Our Products</h6>
-                        <h4>Gallery Of Premium Wrapping Paper</h4>
+                        <h4>Gallery Of <span> Posters & Signs </span></h4>
                     </div>
                 </div>
             </div>
@@ -278,7 +284,7 @@
                 <div class="col-lg-12">
                     <div class="product">
                         <h6>Our Products</h6>
-                        <h4>Gallery Of Premium Wrapping Paper</h4>
+                        <h4>Gallery Of Premium <span> Wrapping Paper </span></h4>
                     </div>
                 </div>
             </div>
@@ -287,8 +293,7 @@
                     <div class="banners-category">
                         <div class="card-slider">
                             <div class="card-wrapper">
-                                <h5> <span> Birthday </span> <span> /</span> <span> Anniversery </span> <span> / </span>
-                                    <span> Celebration</span>
+                                <h5> Birthday
                                 </h5>
                             </div>
                             <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
@@ -305,7 +310,7 @@
                     <div class="banners-category">
                         <div class="card-slider">
                             <div class="card-wrapper card-wrapper1">
-                                <h5> <span> Sale </span> <span> /</span> <span> Specials</span>
+                                <h5> Holiday
                                 </h5>
                             </div>
                             <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"

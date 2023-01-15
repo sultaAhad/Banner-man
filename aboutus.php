@@ -12,10 +12,20 @@
                 <div class="banner-small-heading">
                     <h6>Your Superhero For Banners And Signs</h6>
                 </div>
-                <div class="main_heading">
+                <div class="zoominout-wrapper">
+                    <div class="main_heading1">
+                        <h2 class="cssanimation leRotateYZoomIn random1">About
+                        </h2>
+                    </div>
+                    <div class="main_heading2">
+                        <h1 class="cssanimation leRotateYZoomIn random1">Banner-Man
+                        </h1>
+                    </div>
+                </div>
+                <!-- <div class="main_heading">
                     <h2>About <span>Banner-Man</span>
                     </h2>
-                </div>
+                </div> -->
                 <div class="superhero-text">
                     <p>Ornare arcu dui vivamus arcu felis bibendum ut tristique.
                         Elementum facilisis leo vel fringilla est ullamcorper.

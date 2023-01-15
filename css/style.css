@@ -17,12 +17,43 @@
 	color: #fff;
 	margin-right: 14px;
 }
+.product h4 span {
+	font-family: "Brinnan-Bold";
+}
+section#testimonial-slider {
+	position: relative;
+}
+.show-testimonial2 {
+	position: absolute;
+	right: 730px;
+	top: 300px;
+}
+.show-testimonial1 {
+	position: absolute;
+	bottom: 139px;
+	right: 310px;
+}
 .login ul {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	margin: 0;
 	position: relative;
+}
+.main_heading1 h2.cssanimation.leRotateYZoomIn.random1 {
+	color: #081a55;
+	font-size: 60px;
+}
+.main_heading2 h1 {
+	color: #081a55;
+	font-size: 60px;
+}
+.zoominout-wrapper {
+	display: flex;
+	align-items: center;
+}
+.main_heading1 {
+	margin-right: 12px;
 }
 .user {
 	display: flex;
@@ -195,7 +226,7 @@ h6.account {
 .search-form {
 	position: absolute;
 	top: -10px;
-	left: -131%;
+	left: -151%;
 	transform: translateX(0);
 	width: 580px;
 	height: 44px;
@@ -276,7 +307,9 @@ h6.account {
 	height: 4px;
 	background: #f75414;
 }
-
+.total {
+	margin-left: -17px;
+}
 .bars::before,
 .bars::after {
 	content: "";
@@ -781,14 +814,14 @@ section.serach-sec {
 /* Banner css start */
 /* newsletter start here */
 section.newsletter-sec {
-	padding: 117px 0;
+	padding: 17px 0 90px 0;
 }
 .newsletter-heading h2 {
-	font-size: 35px;
+	font-size: 24px;
 	color: white;
 	line-height: unset;
 	margin-bottom: 0;
-	line-height: 1;
+	line-height: 1.5;
 }
 .newsletter-heading span {
 	font-family: "Brinnan-Bold";
@@ -798,13 +831,13 @@ section.newsletter-sec {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 25px 61px;
+	padding: 42px 61px;
 	background: #0f256e;
 	border-radius: 9px;
 }
 .newletter-info p {
 	font-size: 16px;
-	color: #fff;
+	color: #9fa7c5;
 	margin: 0;
 }
 .subscribe-newletter button {
@@ -813,6 +846,7 @@ section.newsletter-sec {
 	width: 123px;
 	border: none;
 	border-radius: 5px;
+	text-transform: capitalize;
 }
 .subscribe-newletter .btn-outline-secondary:hover {
 	background: #08a9e6;
@@ -1079,7 +1113,156 @@ footer p {
 	section.newsletter-sec {
 		padding: 67px 0 117px 0;
 	}
+	.show-testimonial2 {
+		position: absolute;
+		right: 408px;
+		top: 280px;
+	}
+	.show-testimonial1 {
+		position: absolute;
+		bottom: 29px;
+		right: 310px;
+	}
+	section.testimonial-main-erapper {
+		padding: 100px 0 38px 0;
+	}
+	.footer ul li a {
+		font-size: 13px;
+	}
+	footer p {
+		font-size: 13px;
+	}
+	.newsletter-heading h2 {
+		font-size: 21px;
+	}
+	.newletter-info p {
+		font-size: 13px;
+	}
 }
+@media (max-width: 1200px) {
+	.navbar-items ul {
+		margin-right: 40px;
+	}
+	.headingbillboard h5 {
+		font-size: 16px;
+	}
+	.headingbillboard {
+		top: -67px;
+	}
+	.headingbillboard img {
+		width: 74%;
+		height: 101%;
+	}
+	.left-to-right {
+		left: -566px;
+		top: -1px;
+	}
+	.navbar-items ul li a {
+		font-size: 14px;
+	}
+	.marquee-slider .m-slides {
+		font-size: 14px;
+	}
+	.banner-small-heading h6 {
+		font-size: 11px;
+	}
+	.banner-small-heading img {
+		margin-right: 0;
+		width: 100px;
+	}
+	.banner-heading h2 {
+		font-size: 37px;
+	}
+	.banner-large-heading h1 {
+		font-size: 43px;
+	}
+	.banner-heading img {
+		width: 87px;
+	}
+	.indoor-banner-main {
+		margin-top: 60px;
+	}
+	.btn {
+		padding: 13px 11px;
+		font-size: 10px;
+	}
+	.search-form {
+		top: -10px;
+		left: -83%;
+	}
+	.search-form input {
+		width: 80%;
+	}
+	.heading-top {
+		margin-left: 49px;
+	}
+	.product h4 {
+		font-size: 40px;
+	}
+	.show-testimonial2 {
+		right: 360px;
+		top: 252px;
+	}
+	.show-testimonial1 {
+		bottom: 79px;
+		right: 150px;
+	}
+	.testemonial-about-us.text-center h4 {
+		font-size: 30px;
+	}
+	.people-say {
+		margin-top: 70px;
+	}
+	img.img-fluid.macho-man {
+		position: absolute;
+		top: -51px;
+		left: 101px;
+	}
+	.people-say {
+		padding: 20px 30px;
+	}
+	.reverse-img-name h6 {
+		font-size: 16px;
+	}
+	.slidermacho button.slick-prev {
+		left: -20px;
+		top: 180px;
+	}
+	.slidermacho button.slick-next {
+		right: 0px;
+		top: 184px;
+	}
+	section.newsletter-sec {
+		padding: 7px 0 107px 0;
+	}
+	.newletter-info p {
+		font-size: 12px;
+	}
+	.newsletter-heading h2 {
+		font-size: 21px;
+	}
+	.footer ul li a {
+		font-size: 11px;
+	}
+	footer p {
+		font-size: 12px;
+		padding-right: 20px;
+	}
+	.indoor-button h6 {
+		font-size: 11px;
+	}
+	.card-wrapper {
+		padding: 10px 12px;
+		width: 90%;
+	}
+	.card-wrapper h5 {
+		font-size: 9px;
+	}
+	section.testimonial-main-erapper {
+		padding: 100px 0 101px 0;
+	}
+}
+
 @media (max-width: 1024px) {
 	h1 {
 		font-size: 25px;
@@ -1089,13 +1272,21 @@ footer p {
 	}
 	.container1 {
 		display: block;
+		top: 11%;
 	}
 	.headingbillboard {
-		top: -37px;
-		right: 1px;
+		top: -55px;
+		right: 6px;
+	}
+	.left-to-right {
+		left: -544px;
+		top: -1px;
+	}
+	.headingbillboard h5 {
+		font-size: 12px;
 	}
 	.headingbillboard img {
-		width: 70%;
+		width: 90%;
 		height: 110px;
 		object-fit: contain;
 	}
@@ -1103,15 +1294,37 @@ footer p {
 		width: 70%;
 	}
 	.search-form {
-		left: -57%;
+		left: -69%;
 	}
 	.footer ul li a {
-		font-size: 13px;
+		font-size: 11px;
 	}
 	footer p {
 		color: #081a55;
-		font-size: 13px;
+		font-size: 11px;
 		padding: 0;
+	}
+	.show-testimonial1 {
+		bottom: 18px;
+		right: 150px;
+	}
+	nav {
+		z-index: 9999;
+	}
+	.main-top-navbar {
+		position: fixed;
+		width: 100%;
+		z-index: 999;
+	}
+	.all-nav {
+		padding-top: 61px;
+	}
+	.subscribe-newletter button {
+		width: 101px;
+	}
+	.show-testimonial2 {
+		right: 310px;
+		top: 232px;
 	}
 }
 

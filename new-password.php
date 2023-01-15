@@ -23,14 +23,16 @@
                             <div class=" col-10">
                                 <div class="info-one">
                                     <label for="inputEmail4">New Password</label>
-                                    <input type="email" class="form-control" id="inputEmail4" placeholder="********">
+                                    <input type="password" class="form-control" id="inputEmail4"
+                                        placeholder="New Password">
                                 </div>
                             </div>
 
                             <div class="col-10">
                                 <div class="info-one">
                                     <label for="inputEmail4">Confirm Password</label>
-                                    <input type="password" class="form-control" id="inputEmail4" placeholder="********">
+                                    <input type="password" class="form-control" id="inputEmail4"
+                                        placeholder="Confirm New Password">
                                 </div>
                             </div>
 

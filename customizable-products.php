@@ -12,8 +12,18 @@
                 <div class="banner-small-heading">
                     <h6>Your Superhero For Banners And Signs</h6>
                 </div>
+                <div class="zoominout-wrapper">
+                    <div class="main_heading1">
+                        <h2 class="cssanimation leRotateYZoomIn random1">Customizable
+                        </h2>
+                    </div>
+                    <div class="main_heading2">
+                        <h1 class="cssanimation leRotateYZoomIn random1">Products
+                        </h1>
+                    </div>
+                </div>
                 <div class="main_heading">
-                    <h2>Customizable<span> Products </span></h2>
+                    <!-- <h2>Customizable<span> Products </span></h2> -->
                     <p>Ornare arcu dui vivamus arcu felis bibendum ut tristique. Elementum facilisis leo vel fringilla
                         est ullamcorper Sed augue lacus viverra vitae congue. Sed adipiscing diam b<br> donec
                         adipiscing. Luctus venenatis lectus magna fringilla urna. Ullamcorper sit amet risus nullam eget

@@ -1,3 +1,9 @@
+header {
+	display: none;
+}
+footer.footer {
+	display: none;
+}
 .main_heading h2 {
 	font-family: "Brinnan-Regular";
 	color: #081a55;
