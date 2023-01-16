@@ -261,6 +261,7 @@ section.team-sec {
 }
 /* team sec end here */
 /* responsive start */
+
 @media (max-width: 1400px) {
 	.main_heading h2 {
 		font-size: 51px !important;
@@ -273,6 +274,39 @@ section.team-sec {
 	}
 	.about-content {
 		padding-top: 79px;
+	}
+	.main_heading1 h2.cssanimation.leRotateYZoomIn.random1 {
+		font-size: 50px;
+	}
+	.main_heading1 h2.cssanimation.leRotateYZoomIn.random1 {
+		font-size: 50px;
+	}
+	.superhero-text p {
+		font-size: 12px !important;
+	}
+	section.superhero-sec {
+		padding: 140px 0 50px 0;
+	}
+}
+@media (max-width: 1200px) {
+	.main_heading h2 {
+		font-size: 51px !important;
+	}
+	.mission-info p {
+		font-size: 13px;
+	}
+	.meet-our-team .box {
+		width: 255px;
+	}
+	.about-content {
+		padding-top: 79px;
+	}
+	.main_heading2 h1 {
+		color: #081a55;
+		font-size: 45px;
+	}
+	.main_heading1 h2.cssanimation.leRotateYZoomIn.random1 {
+		font-size: 45px;
 	}
 }
 @media (max-width: 1024px) {
