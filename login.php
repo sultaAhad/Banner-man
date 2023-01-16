@@ -9,7 +9,7 @@
             <div class="col-md-6 p-0">
                 <div class="register-wrapper">
                     <div class="register main_heading">
-                        <h2> <span>LOGIN</span></h2>
+                        <h2> <span>Login</span></h2>
                     </div>
                     <div class="welcome-reg main_heading">
                         <h2>Welcome Back to <span>Bannerman.net</span>
