@@ -147,6 +147,26 @@ section.faqs-sec .accordion-button[aria-expanded="false"]::before {
 	margin-left: 47px;
 	padding: 14px 10px;
 }
+@media (max-width: 1200px) {
+	.main_heading2 h1 {
+		font-size: 41px;
+	}
+	.main_heading1 h2.cssanimation.leRotateYZoomIn.random1 {
+		color: #081a55;
+		font-size: 41px;
+	}
+	.main_heading p {
+		font-size: 12px;
+	}
+	.faq1 {
+		font-size: 18px;
+	}
+	.accordion-body p {
+		font-family: "Poppins-Regular";
+		color: #060606;
+		font-size: 12px;
+	}
+}
 @media (max-width: 590px) {
 	.faq-card h5 .faq {
 		font-size: 7px;

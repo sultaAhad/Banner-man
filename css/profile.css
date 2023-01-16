@@ -54,12 +54,13 @@ section.profile-sec .nav-tabs .nav-link {
 	right: -40px;
 }
 .main-profile-wrapper {
-	background: rgb(221, 240, 248);
-	background: radial-gradient(
-		circle,
-		rgba(221, 240, 248, 1) 0%,
-		rgba(214, 238, 248, 1) 100%
+	background: linear-gradient(
+		90deg,
+		rgba(219, 239, 249, 1) 0%,
+		rgba(238, 247, 251, 1) 36%,
+		rgba(223, 241, 249, 1) 100%
 	);
+
 	padding: 0px 0 70px 0;
 }
 .table-wrapper {
@@ -607,4 +608,10 @@ a.page-link.active {
 	font-size: 14px !important;
 	color: #081a55 !important;
 	font-family: "Brinnan-Bold";
+}
+@media (max-width: 1200px) {
+	.profile-icon {
+		top: 15px;
+		right: 36px;
+	}
 }

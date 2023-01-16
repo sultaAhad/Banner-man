@@ -70,8 +70,14 @@ input.form-control {
 }
 
 section.register-sec {
-	padding-top: 140px;
+	padding-top: 60px;
 	padding-bottom: 100px;
+	padding-left: 100px;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
 }
 .form-control::placeholder {
 	color: #cdd4d8;
@@ -119,12 +125,12 @@ section.register-sec {
 	flex-wrap: wrap;
 }
 .remmeber-this label {
-	color: #000000;
+	color: #636060;
 	font-family: "Poppins-Light";
+	font-size: 15px;
 }
-
 .remmeber-this a {
-	font-family: "Poppins", sans-serif;
+	font-family: "Poppins-Light";
 	font-weight: 300;
 	color: #0e3a20;
 	text-decoration: none;
@@ -160,4 +166,59 @@ section.register-sec {
 }
 footer.footer {
 	display: none;
+}
+
+.form-group {
+	display: block;
+	margin-bottom: 15px;
+}
+
+.form-group input {
+	padding: 0;
+	height: initial;
+	width: initial;
+	margin-bottom: 0;
+	display: none;
+	cursor: pointer;
+}
+
+.form-group label {
+	position: relative;
+	cursor: pointer;
+}
+
+.form-group label:before {
+	content: "";
+	-webkit-appearance: none;
+	background-color: transparent;
+	border: 2px solid #f75414;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05),
+		inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+	padding: 8px;
+	display: inline-block;
+	position: relative;
+	vertical-align: middle;
+	cursor: pointer;
+	margin-right: 5px;
+	border-radius: 4px;
+}
+.form-group input:checked + label:after {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 4px;
+	left: 7px;
+	width: 6px;
+	height: 13px;
+	border: solid #f75414;
+	border-width: 0 2px 2px 0;
+	transform: rotate(45deg);
+}
+@media (max-width: 1200px) {
+	section.register-sec {
+		padding-top: 220px;
+		padding-bottom: 100px;
+		padding-left: 100px;
+		height: 106vh;
+	}
 }

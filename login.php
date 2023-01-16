@@ -36,15 +36,14 @@
                             </div>
                             <div class="col-10">
                                 <div class="remmeber-this">
-                                    <div class="mod-chk range">
-                                        <div class="form-check">
-                                            <input class="form-check-input" type="checkbox" value=""
-                                                id="flexCheckDefault">
-                                            <label class="form-check-label" for="flexCheckDefault">
-                                                Remember Me
-                                        </div>
+                                    <div class="new">
+                                        <form>
+                                            <div class="form-group">
+                                                <input type="checkbox" id="html">
+                                                <label for="html">Remember Me</label>
+                                            </div>
+                                        </form>
                                     </div>
-
                                     <div class="forget-this">
                                         <a href="forgetpassword.php">Forgot Password ?</a>
                                     </div>

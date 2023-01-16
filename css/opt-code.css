@@ -19,7 +19,16 @@ footer.footer {
 	gap: 17px;
 	padding-top: 11px;
 }
-
+section.register-sec {
+	padding-top: 60px;
+	padding-bottom: 100px;
+	padding-left: 100px;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+}
 input {
 	height: 55px;
 	width: 62px;
@@ -122,4 +131,12 @@ section.register-sec {
 }
 .info-btn2 .btn svg {
 	margin-left: 10px;
+}
+@media (max-width: 1200px) {
+	section.register-sec {
+		padding-top: 220px;
+		padding-bottom: 100px;
+		padding-left: 100px;
+		height: 106vh;
+	}
 }

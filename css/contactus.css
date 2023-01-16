@@ -192,6 +192,25 @@ section.newsletter-sec {
 	font-size: 13px;
 }
 /* hireadesugner page css end here */
+@media (max-width: 1200px) {
+	label {
+		font-size: 11px !important;
+	}
+	.main_heading2 h1 {
+		color: #081a55;
+		font-size: 41px;
+	}
+	.main_heading1 h2.cssanimation.leRotateYZoomIn.random1 {
+		color: #081a55;
+		font-size: 41px;
+	}
+	.contacthead.main_heading p {
+		font-size: 12px;
+	}
+	.side-box-contact span {
+		font-size: 12px;
+	}
+}
 @media (max-width: 590px) {
 	label {
 		font-size: 11px !important;

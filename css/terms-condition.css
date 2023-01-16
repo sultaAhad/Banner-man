@@ -51,3 +51,23 @@ section.margin-terms {
 	font-weight: 400;
 	margin-bottom: 25px;
 }
+@media (max-width: 1200px) {
+	.main_heading2 h1 {
+		font-size: 41px;
+	}
+	.main_heading1 h2.cssanimation.leRotateYZoomIn.random1 {
+		color: #081a55;
+		font-size: 41px;
+	}
+	.main_heading p {
+		font-size: 12px;
+	}
+	.faq1 {
+		font-size: 18px;
+	}
+	.accordion-body p {
+		font-family: "Poppins-Regular";
+		color: #060606;
+		font-size: 12px;
+	}
+}

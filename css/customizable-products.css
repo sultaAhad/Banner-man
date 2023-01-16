@@ -85,3 +85,28 @@ section.customizable-products-sec {
 		font-size: 51px;
 	}
 }
+@media (max-width: 1200px) {
+	.main_heading h2 {
+		font-size: 51px;
+	}
+	.main_heading1 h2.cssanimation.leRotateYZoomIn.random1 {
+		font-size: 45px;
+	}
+	.main_heading p {
+		font-size: 12px;
+	}
+	.main_heading h2 {
+		font-size: 41px !important;
+	}
+	.product h6 {
+		font-size: 14px;
+	}
+	.product h4 {
+		font-size: 41px;
+	}
+	.extra-info span {
+		color: #fff;
+		font-size: 9px;
+		font-family: "Brinnan-Bold" !important;
+	}
+}
