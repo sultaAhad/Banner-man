@@ -19,7 +19,7 @@
 
                     </div>
                     <div class="member-log">
-                        <span>Already a Member ? <a href="register.php">Register</a></span>
+                        <span>Not a Member ? <a href="register.php">Register</a></span>
                     </div>
                     <div class="sign-member-form">
                         <form>
