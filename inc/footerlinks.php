@@ -565,6 +565,16 @@ $('.multi-wrapper ul li').on('click', function(e) {
     $(".phases-text a").eq($(this).index()).addClass('active')
 
 });
+$(".address-btn-click").click(function() {
+    $(".address-box").css("display", "none");
+    $("#address-wrapper").css("display", "block");
+});
+$("#checkbtnclick").click(function() {
+    $(".hidden-checkbox-wrapper").css("display", "block");
+});
+$("#checkbtnclick1").click(function() {
+    $(".hidden-checkbox-wrapper").css("display", "none");
+});
 </script>
 <script>
 function decreaseValue(button) {

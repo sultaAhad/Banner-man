@@ -82,11 +82,18 @@ body {
 	margin: 0;
 	padding: 0;
 	overflow-x: hidden;
-	background: rgb(227, 242, 249);
-	background: radial-gradient(
-		circle,
-		rgba(227, 242, 249, 1) 31%,
-		rgba(137, 207, 240, 1) 100%
+	background: rgb(164, 216, 240);
+	background: linear-gradient(
+		90deg,
+		rgba(164, 216, 240, 1) 4%,
+		rgba(175, 222, 242, 1) 9%,
+		rgba(197, 228, 246, 1) 15%,
+		rgba(227, 242, 249, 1) 21%,
+		rgba(227, 242, 249, 1) 75%,
+		rgba(197, 228, 246, 1) 80%,
+		rgba(192, 227, 245, 1) 85%,
+		rgba(175, 222, 242, 1) 89%,
+		rgba(164, 216, 240, 1) 96%
 	);
 }
 

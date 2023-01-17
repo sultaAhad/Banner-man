@@ -3,15 +3,19 @@ header {
 }
 .register-wrapper {
 	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 .main_heading span {
-	font-family: "Brinnan-Bold" !important;
+	font-family: "Brinnan-Bold";
 	font-size: 30px;
 	text-transform: capitalize;
 }
 .welcome-reg.main_heading span {
 	color: #f75414;
-	font-size: 20px;
+	font-size: 29px;
+	font-family: "poppins-Bold";
 }
 .sign-member-form {
 	padding-top: 23px;
@@ -23,8 +27,10 @@ header {
 	padding: 0px 0;
 }
 .welcome-reg.main_heading h2 {
-	font-size: 26px;
+	font-size: 25px;
 	margin: 0;
+	font-family: "poppins-Regular";
+	margin-bottom: 10px;
 }
 .register.main_heading h2 span {
 	font-size: 50px;
@@ -37,14 +43,12 @@ header {
 
 .member-log a {
 	font-family: "Poppins-Bold";
-	font-weight: 700;
 	text-decoration: none;
 	color: #f75414;
 }
 .member-log {
-	padding-bottom: 20px;
+	padding-bottom: 40px;
 }
-
 .info-btn .btn {
 	background: #08a9e6;
 	border: 0;
@@ -63,12 +67,16 @@ header {
 }
 
 input.form-control {
-	border-radius: 0 !important;
+	border-radius: 0;
 	background-color: #f3f3f3;
-	border: 1px solid #c3cad9 !important;
-	height: 46px;
+	border: 1px solid #b7b5b5;
+	padding: 12px 22px;
 }
-
+input.form-control::placeholder {
+	color: #b7b5b5;
+	font-family: "poppins-Light";
+	font-size: 15px;
+}
 section.register-sec {
 	padding-top: 60px;
 	padding-bottom: 100px;
@@ -141,7 +149,7 @@ section.register-sec {
 .info-btn2 .btn {
 	width: 100%;
 	border-radius: 6px;
-	font-size: 13px;
+	font-size: 16px;
 	padding: 16px 0px;
 	background: #08a9e6;
 	border: 0;
@@ -152,6 +160,7 @@ section.register-sec {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	text-transform: capitalize;
 }
 .info-btn2 {
 	padding-top: 22px;
@@ -159,7 +168,7 @@ section.register-sec {
 .forgot-heading h2 {
 	font-family: "Poppins-Regular";
 	font-size: 20px !important;
-	padding-right: 120px;
+	padding-right: 40px;
 }
 .info-btn2 .btn svg {
 	margin-left: 10px;
@@ -199,7 +208,7 @@ footer.footer {
 	position: relative;
 	vertical-align: middle;
 	cursor: pointer;
-	margin-right: 5px;
+	margin-right: 19px;
 	border-radius: 4px;
 }
 .form-group input:checked + label:after {

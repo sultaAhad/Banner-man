@@ -234,9 +234,7 @@
                 </div>
             </div>
         </div>
-
     </div>
-
 </section>
 
 <!--faqs end Here -->

@@ -144,7 +144,7 @@
                     <div class="select-side">
                         <div class="all-select-side all-select-side1">
                             <div class="steptwo-btn">
-                                <button type="button" class="btn btn-primary">Yes
+                                <button type="button" id="checkbtnclick" class="btn ">Yes
                                     <svg xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
                                         viewBox="0 0 9.115 7.588">
                                         <path id="Path_72" data-name="Path 72"
@@ -155,7 +155,7 @@
                                 </button>
                             </div>
                             <div class=" steptwo-btn">
-                                <button type="button" class="btn btn-primary">No
+                                <button type="button" id="checkbtnclick1" class="btn ">No
                                     <svg xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
                                         viewBox="0 0 9.115 7.588">
                                         <path id="Path_72" data-name="Path 72"
@@ -164,6 +164,21 @@
                                     </svg>
 
                                 </button>
+                            </div>
+                        </div>
+                        <div class="remmeber-this">
+                            <div class="new hidden-checkbox-wrapper">
+                                <form>
+                                    <div class="form-group">
+                                        <input type="checkbox" id="html">
+                                        <label for="html">Just put grommets one each corner of my banner</label>
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="checkbox" id="html1">
+                                        <label for="html1">Put grommets on the corners and every 3ft in the
+                                            between</label>
+                                    </div>
+                                </form>
                             </div>
                         </div>
                     </div>
@@ -177,9 +192,9 @@
                 <h3>Step 3 : Create Or Upload Banner
                 </h3>
             </div>
-            <div class="all-box-content ">
+            <div class="all-box-content all-box-content1 ">
                 <div class="col-md-5">
-                    <div class="info-side">
+                    <div class="info-side info-side-wrapper">
                         <div class="main_heading">
                             <h2>Option 01:
                                 <span>Upload Banner</span>
@@ -201,7 +216,8 @@
                                         <label class="button" for="fileElem">Select some files</label> -->
                             </div>
                             <div class="steptwo-btn last-step">
-                                <button type="button" class="btn btn-primary" onclick="window.location.href = 'view-cart.php';">Checkout
+                                <button type="button" class="btn btn-primary"
+                                    onclick="window.location.href = 'view-cart.php';">Checkout
                                     <svg xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
                                         viewBox="0 0 9.115 7.588">
                                         <path id="Path_72" data-name="Path 72"
@@ -223,7 +239,8 @@
                                 </div>
                             </div>
                             <div class="option">
-                                <a href="design-your-image.php" class="btn btn-primary">Use Self-Service Area To Create
+                                <a href="design-your-image.php" class="btn dropdown-wrapper-down">Use Self-Service Area
+                                    To Create
                                     My Project <svg xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
                                         viewBox="0 0 9.115 7.588">
                                         <path id="Path_72" data-name="Path 72"
@@ -231,6 +248,39 @@
                                             transform="translate(455.048 397.284)" fill="#fff" />
                                     </svg>
                                 </a>
+                                <div class="dropdown-wrapper">
+                                    <table class="table-fill">
+                                        <tbody class="table-hover">
+                                            <tr>
+                                                <td class="text-left">Birthday <i class="fa-solid fa-arrow-right"></i>
+                                                </td>
+                                                <td class="text-left">Special Price <i
+                                                        class="fa-solid fa-arrow-right"></i></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-left">Anniversary<i class="fa-solid fa-arrow-right"></i>
+                                                </td>
+                                                <td class="text-left">Welcome Home<i
+                                                        class="fa-solid fa-arrow-right"></i></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-left">Party<i class="fa-solid fa-arrow-right"></i></td>
+                                                <td class="text-left">Voting<i class="fa-solid fa-arrow-right"></i></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-left">Congratulations<i
+                                                        class="fa-solid fa-arrow-right"></i></td>
+                                                <td class="text-left">Other Generic Templates <i
+                                                        class="fa-solid fa-arrow-right"></i></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-left">Family Reunion <i
+                                                        class="fa-solid fa-arrow-right"></i></td>
+                                                <td class="text-left"></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
                             </div>
                         </div>
                         <div class="option-side">
@@ -256,7 +306,6 @@
             </div>
         </div>
         <!-- step three end here -->
-    </div>
     </div>
 </section>
 <!-- steps-sec end here-->

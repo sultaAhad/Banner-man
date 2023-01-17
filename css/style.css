@@ -1139,6 +1139,11 @@ footer p {
 		font-size: 13px;
 	}
 }
+@media (max-width: 1366px) {
+	.product h4 {
+		font-size: 40px !important;
+	}
+}
 @media (max-width: 1200px) {
 	.navbar-items ul {
 		margin-right: 40px;
@@ -1265,7 +1270,6 @@ footer p {
 		padding: 100px 0 101px 0;
 	}
 }
-
 @media (max-width: 1024px) {
 	h1 {
 		font-size: 25px;
@@ -1330,9 +1334,6 @@ footer p {
 		top: 232px;
 	}
 }
-
-/* Responsive End */
-/* reponsive start here */
 @media (max-width: 580px) {
 	.logo-img {
 		text-align: center;
@@ -1358,7 +1359,6 @@ footer p {
 		text-align: center;
 	}
 }
-
 @media (max-width: 360px) {
 	.heading-top {
 		text-align: center;
@@ -1524,5 +1524,4 @@ footer p {
 		right: 1px;
 	}
 }
-
-/* reponsive end here */
+/* reponsive end  */

@@ -4,7 +4,7 @@
         <div class="row all-about-footer">
             <div class="col-lg-4 col-md-3 footer-icon-wrapper">
                 <div class="footer-logo">
-                    <div class="logo-img">
+                    <div class="logo-img" data-aos="fade-right" data-aos-duration="3000">
                         <img src="img/logo.webp" alt="">
                     </div>
                     <div class="logo-para">

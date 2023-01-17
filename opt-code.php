@@ -7,7 +7,7 @@
 <section class="register-sec">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 p-0">
+            <div class="col-md-5 p-0">
                 <div class="register-wrapper">
                     <div class="register main_heading">
                         <h2> <span>Forgot Password?</span></h2>
@@ -26,13 +26,13 @@
                             <label for="inputEmail4">Enter Code</label>
                             <div class="userInput">
                                 <input type="text" id='ist' maxlength="1" onkeyup="clickEvent(this,'first')"
-                                    placeholder="02">
+                                    placeholder="0">
                                 <input type="text" id='first' maxlength="1" onkeyup="clickEvent(this,'sec')"
-                                    placeholder="05">
+                                    placeholder="0">
                                 <input type="text" id="sec" maxlength="1" onkeyup="clickEvent(this,'third')"
-                                    placeholder="06">
+                                    placeholder="0">
                                 <input type="text" id="third" maxlength="1" onkeyup="clickEvent(this,'fourth')"
-                                    placeholder="10">
+                                    placeholder="0">
                                 <!-- <input type="text" id="fourth" maxlength="1" onkeyup="clickEvent(this,'fifth')"
                                     placeholder="07">
                                 <input type="text" id="fifth" maxlength="1" onkeyup="clickEvent(this,'six')"
@@ -49,7 +49,7 @@
                                     </div>
                                 </div>
                             </div> -->
-                            <div class="col-md-6 p-0 ">
+                            <div class="col-md-7 p-0 ">
                                 <div class="info-btn2">
                                     <button href="new-password.php" type="submit" class="btn btn-primary">Submit <svg
                                             xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
@@ -67,7 +67,7 @@
             <div class="col-md-6">
                 <div class="register-img">
                     <div class="main-banner-img " data-aos="fade-left" data-aos-anchor="#example-anchor"
-                        data-aos-offset="700" data-aos-duration="2000">
+                        data-aos-offset="500" data-aos-duration="2000">
                         <figure>
                             <img src="img/banner-man-net.webp" class=" img-fluid layer" data-speed="-5" alt="">
                         </figure>

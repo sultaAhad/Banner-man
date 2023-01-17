@@ -868,7 +868,7 @@
                         <div class="col-lg-12">
                             <div class="product">
                                 <h6>Our Products </h6>
-                                <h4> Banner <span> Indoor </span></h4>
+                                <h4> Banner <span> Outdoor </span></h4>
                             </div>
                         </div>
                     </div>
@@ -941,7 +941,7 @@
                                 <div class="card-slider">
                                     <div class="card-wrapper card-wrapper1">
                                         <div class="paper-heading">
-                                            <h5> <span> Water Resistant Matte
+                                            <h5> <span> Water Resistant Matte <br>
                                                     Polypropylene</span>
                                             </h5>
                                         </div>

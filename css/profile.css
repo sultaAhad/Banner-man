@@ -268,10 +268,19 @@ li.nav-item1 a .btn {
 	border-radius: 7px;
 	margin: 8px 0;
 	outline: none;
-	padding: 8px;
+	padding: 12px 0px;
 	box-sizing: border-box;
 	transition: 0.3s;
-	height: 52px;
+	/* height: 52px; */
+	box-shadow: 2px 11px 12px 1px rgba(228, 237, 241, 1);
+}
+.inputWithIcon textarea#exampleFormControlTextarea1 {
+	height: 110px;
+	margin-top: 11px;
+	resize: none;
+	border: 1px solid #7c7c7b;
+	border-radius: 10px;
+	box-shadow: 2px 11px 12px 1px rgba(228, 237, 241, 1);
 }
 .inputWithIcon input::placeholder {
 	font-size: 12px;
@@ -287,7 +296,12 @@ li.nav-item1 a .btn {
 .inputWithIcon input {
 	padding-left: 21px;
 }
-
+.main-wrapper-input-address {
+	margin: 40px 0px 89px 50px;
+}
+#address-wrapper {
+	display: none;
+}
 .inputWithIcon label {
 	font-family: "Poppins-Medium";
 	font-size: 18px;

@@ -29,14 +29,15 @@ section.register-sec {
 	flex-direction: column;
 	justify-content: center;
 }
-input {
-	height: 55px;
+.sign-member-form input {
+	height: 62px;
 	width: 62px;
 	border: none;
 	border: 1px solid #c3cad9;
 	text-align: center;
 	background: white;
 	border-radius: 0;
+	background-color: #f3f3f3;
 }
 .user-time {
 	padding: 20px 0;
@@ -49,23 +50,33 @@ input {
 
 .welcome-reg.main_heading span {
 	color: #f75414;
+	font-family: "poppins-Bold";
+	font-size: 20px;
 }
 .sign-member-form {
 	padding-top: 23px;
 }
 .register h2 {
-	text-transform: uppercase;
+	text-transform: capitalize;
+	font-family: "Brinnan-Bold";
+	font-size: 50px;
+	color: #012532;
 }
 .welcome-reg.main_heading {
 	padding: 10px 0;
 }
-
+.sign-member-form label {
+	font-size: 15px;
+	font-family: "poppins-Regular";
+	color: #000000;
+}
 .welcome-reg.main_heading h2 {
 	font-size: 26px;
 	margin: 0;
 	font-family: "Poppins-Regular";
 	font-size: 20px !important;
-	padding-right: 120px;
+	padding-right: 0px;
+	color: #000;
 }
 .member-log span {
 	color: #000000;
@@ -114,7 +125,7 @@ section.register-sec {
 .info-btn2 .btn {
 	width: 100%;
 	border-radius: 34px;
-	font-size: 13px;
+	font-size: 16px;
 	padding: 10px 0;
 }
 .info-btn2 {
@@ -128,6 +139,7 @@ section.register-sec {
 	align-items: center;
 	justify-content: center;
 	padding: 14px 0;
+	width: 107%;
 }
 .info-btn2 .btn svg {
 	margin-left: 10px;

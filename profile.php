@@ -169,7 +169,7 @@
                                                                 <div class="col-lg-6">
                                                                     <div class="inputWithIcon">
                                                                         <label for="form-wrapper">Phone Number</label>
-                                                                        <input type="phone" id="form-wrapper"
+                                                                        <input type="Number" id="form-wrapper"
                                                                             placeholder="Write number here...">
                                                                     </div>
                                                                 </div>
@@ -179,8 +179,7 @@
                                                                     <div class="edit edit-top">
                                                                         <a class="btn-profile btn-profile1" id="button"
                                                                             href="javascript:void(0)">
-                                                                            Edit
-                                                                            Profile
+                                                                            Submit
                                                                             <i class="fa-solid fa-arrow-right"></i>
                                                                         </a>
                                                                     </div>
@@ -216,8 +215,8 @@
                                                                     <div class="inputWithIcon">
                                                                         <label for="form-wrapper">Current Password
                                                                         </label>
-                                                                        <input type="text" id="form-wrapper"
-                                                                            placeholder="************">
+                                                                        <input type="Password" id="form-wrapper"
+                                                                            placeholder="Write Password">
 
                                                                     </div>
                                                                 </div>
@@ -226,7 +225,7 @@
                                                                         <label for="form-wrapper">New Password
                                                                         </label>
                                                                         <input type="password" id="form-wrapper"
-                                                                            placeholder="************">
+                                                                            placeholder="Write Password">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -236,7 +235,7 @@
                                                                         <label for="form-wrapper">Confirm New
                                                                             Password</label>
                                                                         <input type="password" id="form-wrapper"
-                                                                            placeholder="Write email here..">
+                                                                            placeholder="Write Password">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -245,7 +244,8 @@
                                                                     <div class="edit edit-top">
                                                                         <a class="btn-profile btn-profile1" id="button"
                                                                             href="javascript:void(0)">
-                                                                            Add New Address
+                                                                            Submit
+                                                                            <i class="fa-solid fa-arrow-right"></i>
                                                                         </a>
                                                                     </div>
                                                                 </div>
@@ -260,120 +260,192 @@
                             </div>
                         </div>
                         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="multi-wrapper fitter-street">
-                                        <div class="address-wrapper">
-                                            <ul>
-                                                <li class='active'>
-                                                    <div class="address-default phases-text">
-                                                        <a class='active' href="javascript:void(0)">Default</a>
-                                                    </div>
-                                                    <div class="address-name">
-                                                        <i class="fa-sharp fa-solid fa-location-dot"></i>
-                                                        <div class="john-heading">
-                                                            <h5>John Doe</h5>
-                                                            <h6>4806 Fittro Street hughes, <br>
-                                                                AR 72348 </h6>
-                                                            <h6> 4806 Fittro Street hughes </h6>
-                                                            <h4> <span> Phone: </span> +123456789</h4>
+                            <div class="address-box">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="multi-wrapper fitter-street">
+                                            <div class="address-wrapper">
+                                                <ul>
+                                                    <li class='active'>
+                                                        <div class="address-default phases-text">
+                                                            <a class='active' href="javascript:void(0)">Default</a>
                                                         </div>
-                                                        <i class="fa-solid fa-trash-can"></i>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="address-default phases-text">
-                                                        <a href="javascript:void(0)">Default</a>
-                                                    </div>
-                                                    <div class="address-name">
-                                                        <i class="fa-sharp fa-solid fa-location-dot"></i>
-                                                        <div class="john-heading">
-                                                            <h5>John Doe</h5>
-                                                            <h6>4806 Fittro Street hughes, <br>
-                                                                AR 72348 </h6>
-                                                            <h6> 4806 Fittro Street hughes </h6>
-                                                            <h4> <span> Phone: </span> +123456789</h4>
+                                                        <div class="address-name">
+                                                            <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                                            <div class="john-heading">
+                                                                <h5>John Doe</h5>
+                                                                <h6>4806 Fittro Street hughes, <br>
+                                                                    AR 72348 </h6>
+                                                                <h6> 4806 Fittro Street hughes </h6>
+                                                                <h4> <span> Phone: </span> +123456789</h4>
+                                                            </div>
+                                                            <i class="fa-solid fa-trash-can"></i>
                                                         </div>
-                                                        <i class="fa-solid fa-trash-can"></i>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="address-default phases-text">
-                                                        <a href="javascript:void(0)">Default</a>
-                                                    </div>
-                                                    <div class="address-name">
-                                                        <i class="fa-sharp fa-solid fa-location-dot"></i>
-                                                        <div class="john-heading">
-                                                            <h5>John Doe</h5>
-                                                            <h6>4806 Fittro Street hughes, <br>
-                                                                AR 72348 </h6>
-                                                            <h6> 4806 Fittro Street hughes </h6>
-                                                            <h4> <span> Phone: </span> +123456789</h4>
+                                                    </li>
+                                                    <li>
+                                                        <div class="address-default phases-text">
+                                                            <a href="javascript:void(0)">Default</a>
                                                         </div>
-                                                        <i class="fa-solid fa-trash-can"></i>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="address-default phases-text">
-                                                        <a href="javascript:void(0)">Default</a>
-                                                    </div>
-                                                    <div class="address-name">
-                                                        <i class="fa-sharp fa-solid fa-location-dot"></i>
-                                                        <div class="john-heading">
-                                                            <h5>John Doe</h5>
-                                                            <h6>4806 Fittro Street hughes, <br>
-                                                                AR 72348 </h6>
-                                                            <h6> 4806 Fittro Street hughes </h6>
-                                                            <h4> <span> Phone: </span> +123456789</h4>
+                                                        <div class="address-name">
+                                                            <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                                            <div class="john-heading">
+                                                                <h5>John Doe</h5>
+                                                                <h6>4806 Fittro Street hughes, <br>
+                                                                    AR 72348 </h6>
+                                                                <h6> 4806 Fittro Street hughes </h6>
+                                                                <h4> <span> Phone: </span> +123456789</h4>
+                                                            </div>
+                                                            <i class="fa-solid fa-trash-can"></i>
                                                         </div>
-                                                        <i class="fa-solid fa-trash-can"></i>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="address-default phases-text">
-                                                        <a href="javascript:void(0)">Default</a>
-                                                    </div>
-                                                    <div class="address-name">
-                                                        <i class="fa-sharp fa-solid fa-location-dot"></i>
-                                                        <div class="john-heading">
-                                                            <h5>John Doe</h5>
-                                                            <h6>4806 Fittro Street hughes, <br>
-                                                                AR 72348 </h6>
-                                                            <h6> 4806 Fittro Street hughes </h6>
-                                                            <h4> <span> Phone: </span> +123456789</h4>
+                                                    </li>
+                                                    <li>
+                                                        <div class="address-default phases-text">
+                                                            <a href="javascript:void(0)">Default</a>
                                                         </div>
-                                                        <i class="fa-solid fa-trash-can"></i>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="address-default phases-text">
-                                                        <a href="javascript:void(0)">Default</a>
-                                                    </div>
-                                                    <div class="address-name">
-                                                        <i class="fa-sharp fa-solid fa-location-dot"></i>
-                                                        <div class="john-heading">
-                                                            <h5>John Doe</h5>
-                                                            <h6>4806 Fittro Street hughes, <br>
-                                                                AR 72348 </h6>
-                                                            <h6> 4806 Fittro Street hughes </h6>
-                                                            <h4> <span> Phone: </span> +123456789</h4>
+                                                        <div class="address-name">
+                                                            <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                                            <div class="john-heading">
+                                                                <h5>John Doe</h5>
+                                                                <h6>4806 Fittro Street hughes, <br>
+                                                                    AR 72348 </h6>
+                                                                <h6> 4806 Fittro Street hughes </h6>
+                                                                <h4> <span> Phone: </span> +123456789</h4>
+                                                            </div>
+                                                            <i class="fa-solid fa-trash-can"></i>
                                                         </div>
-                                                        <i class="fa-solid fa-trash-can"></i>
-                                                    </div>
-                                                </li>
-                                            </ul>
+                                                    </li>
+                                                    <li>
+                                                        <div class="address-default phases-text">
+                                                            <a href="javascript:void(0)">Default</a>
+                                                        </div>
+                                                        <div class="address-name">
+                                                            <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                                            <div class="john-heading">
+                                                                <h5>John Doe</h5>
+                                                                <h6>4806 Fittro Street hughes, <br>
+                                                                    AR 72348 </h6>
+                                                                <h6> 4806 Fittro Street hughes </h6>
+                                                                <h4> <span> Phone: </span> +123456789</h4>
+                                                            </div>
+                                                            <i class="fa-solid fa-trash-can"></i>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="address-default phases-text">
+                                                            <a href="javascript:void(0)">Default</a>
+                                                        </div>
+                                                        <div class="address-name">
+                                                            <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                                            <div class="john-heading">
+                                                                <h5>John Doe</h5>
+                                                                <h6>4806 Fittro Street hughes, <br>
+                                                                    AR 72348 </h6>
+                                                                <h6> 4806 Fittro Street hughes </h6>
+                                                                <h4> <span> Phone: </span> +123456789</h4>
+                                                            </div>
+                                                            <i class="fa-solid fa-trash-can"></i>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="address-default phases-text">
+                                                            <a href="javascript:void(0)">Default</a>
+                                                        </div>
+                                                        <div class="address-name">
+                                                            <i class="fa-sharp fa-solid fa-location-dot"></i>
+                                                            <div class="john-heading">
+                                                                <h5>John Doe</h5>
+                                                                <h6>4806 Fittro Street hughes, <br>
+                                                                    AR 72348 </h6>
+                                                                <h6> 4806 Fittro Street hughes </h6>
+                                                                <h4> <span> Phone: </span> +123456789</h4>
+                                                            </div>
+                                                            <i class="fa-solid fa-trash-can"></i>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-10">
+                                        <div class="edit edit-top-wrapper1">
+                                            <a class="btn-profile btn-profile1 address-btn-click" id="button"
+                                                href="javascript:void(0)">
+                                                Add New Address
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-lg-10">
-                                    <div class="edit edit-top-wrapper1">
-                                        <a class="btn-profile btn-profile1" id="button" href="javascript:void(0)">
-                                            Add New Address
-                                        </a>
+                            <div class="main-wrapper-input-address" id="address-wrapper">
+                                <form action="">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="edit">
+                                                <div class="upload-btn-wrapper profilr-page-wrapper">
+                                                    <h4> <span> Add New </span> Address</h4>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
+                                    <div class="row">
+                                        <div class="col-lg-10">
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <div class="inputWithIcon">
+                                                        <label for="form-wrapper">City</label>
+                                                        <input type="text" id="form-wrapper" placeholder="Write City">
+
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6">
+                                                    <div class="inputWithIcon">
+                                                        <label for="form-wrapper">State </label>
+                                                        <input type="text" id="form-wrapper" placeholder="Write State">
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <div class="inputWithIcon">
+                                                        <label for="form-wrapper">Country </label>
+                                                        <input type="text" id="form-wrapper"
+                                                            placeholder="Write Country">
+
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6">
+                                                    <div class="inputWithIcon">
+                                                        <label for="form-wrapper">Postal Code</label>
+                                                        <input type="Number" id="form-wrapper"
+                                                            placeholder="Write Postal code">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-12">
+                                                    <div class="inputWithIcon">
+                                                        <label for="exampleFormControlTextarea1"
+                                                            class="form-label">Address</label>
+                                                        <textarea class="form-control" placeholder="Write address here"
+                                                            id="exampleFormControlTextarea1" rows="3"></textarea>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-lg-10">
+                                                    <div class="edit edit-top">
+                                                        <a class="btn-profile btn-profile1" id="button"
+                                                            href="javascript:void(0)">
+                                                            Submit
+                                                            <i class="fa-solid fa-arrow-right"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">

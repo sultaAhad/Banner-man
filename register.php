@@ -25,32 +25,32 @@
                         <form class="row g-3">
                             <div class="col-6">
                                 <div class="info-form">
-                                    <input class="form-control" placeholder="First Name">
+                                    <input type="text" class="form-control" placeholder="First Name">
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="info-form">
-                                    <input class="form-control" placeholder="Last Name">
+                                    <input type="text" class="form-control" placeholder="Last Name">
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="info-form">
-                                    <input class="form-control" placeholder="Email Address">
+                                    <input type="text" class="form-control" placeholder="Email Address">
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="info-form">
-                                    <input class="form-control" placeholder="Phone Number">
+                                    <input type="Number" class="form-control" placeholder="Phone Number">
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="info-form">
-                                    <input class="form-control" placeholder="Password">
+                                    <input type="Password" class="form-control" placeholder="Password">
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="info-form">
-                                    <input class="form-control" placeholder="Confirm Password">
+                                    <input type="Password" class="form-control" placeholder="Confirm Password">
                                 </div>
                             </div>
                             <div class="col-6">
@@ -72,9 +72,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 p-0">
                 <div class="main-banner-img " data-aos="fade-left" data-aos-anchor="#example-anchor"
-                    data-aos-offset="700" data-aos-duration="2000">
+                    data-aos-offset="500" data-aos-duration="2000">
                     <figure>
                         <img src="img/banner-man-net.webp" class=" img-fluid layer" data-speed="-5" alt="">
                     </figure>
