@@ -239,7 +239,7 @@
                                 </div>
                             </div>
                             <div class="option">
-                                <a href="design-your-image.php" class="btn dropdown-wrapper-down">Use Self-Service Area
+                                <a href="javascript:void(0)" class="btn dropdown-wrapper-down">Use Self-Service Area
                                     To Create
                                     My Project <svg xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
                                         viewBox="0 0 9.115 7.588">

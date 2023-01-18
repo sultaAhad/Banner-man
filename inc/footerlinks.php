@@ -575,6 +575,13 @@ $("#checkbtnclick").click(function() {
 $("#checkbtnclick1").click(function() {
     $(".hidden-checkbox-wrapper").css("display", "none");
 });
+$(".address-btn-click").click(function() {
+    $(".address-box").css("display", "none");
+    $("#address-wrapper").css("display", "block");
+});
+$("a.btn.dropdown-wrapper-down").click(function() {
+    $(".dropdown-wrapper").toggle(".dropdown-wrapper");
+});
 </script>
 <script>
 function decreaseValue(button) {
