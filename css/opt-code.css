@@ -144,6 +144,14 @@ section.register-sec {
 .info-btn2 .btn svg {
 	margin-left: 10px;
 }
+@media (max-width: 1366px) {
+	.register h2 {
+		font-size: 40px;
+	}
+	.welcome-reg.main_heading h2 {
+		font-size: 20px !important;
+	}
+}
 @media (max-width: 1200px) {
 	section.register-sec {
 		padding-top: 220px;

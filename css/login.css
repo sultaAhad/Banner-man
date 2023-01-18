@@ -167,7 +167,7 @@ section.register-sec {
 }
 .forgot-heading h2 {
 	font-family: "Poppins-Regular";
-	font-size: 20px !important;
+	font-size: 20px;
 	padding-right: 40px;
 }
 .info-btn2 .btn svg {
@@ -222,6 +222,17 @@ footer.footer {
 	border: solid #f75414;
 	border-width: 0 2px 2px 0;
 	transform: rotate(45deg);
+}
+@media (max-width: 1366px) {
+	.register.main_heading h2 span {
+		font-size: 40px;
+	}
+	.welcome-reg.main_heading h2 {
+		font-size: 20px;
+	}
+	section.register-sec {
+		padding-top: 100px;
+	}
 }
 @media (max-width: 1200px) {
 	section.register-sec {

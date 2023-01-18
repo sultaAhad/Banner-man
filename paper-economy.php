@@ -57,7 +57,7 @@
                 <h3>Step 1 : Choose Size And Quantity</h3>
             </div>
             <div class="all-box-content">
-                <div class="col-md-7">
+                <div class="col-md-6">
                     <div class="info-side">
                         <div class="main_heading">
                             <h2>Select Size <span>, Quantity And Grommets</span></h2>
@@ -65,7 +65,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-6">
                     <div class="select-side">
                         <div class="all-select-side">
                             <div class="selct-on">
@@ -109,13 +109,7 @@
                         <div class="col-md-12">
                             <div class="step-btn">
                                 <button type="button" class="btn btn-primary">Click To Begin
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
-                                        viewBox="0 0 9.115 7.588">
-                                        <path id="Path_72" data-name="Path 72"
-                                            d="M-455.048-393.807c.013-.032.025-.065.04-.1a.483.483,0,0,1,.405-.292,1.191,1.191,0,0,1,.133,0h6.011c-.033-.035-.053-.057-.075-.079l-1.81-1.815s-.247-.442-.1-.636a2.544,2.544,0,0,1,.475-.475.456.456,0,0,1,.569.045c.023.019.044.039.065.06l3.222,3.222a.5.5,0,0,1,.108.645.706.706,0,0,1-.107.13l-3.222,3.223a.505.505,0,0,1-.775,0l-.233-.232a.5.5,0,0,1,0-.761q.913-.912,1.828-1.822c.022-.022.043-.046.079-.083h-5.968c-.395,0-.5-.068-.642-.427Z"
-                                            transform="translate(455.048 397.284)" fill="#fff" />
-                                    </svg>
-
+                                    <i class="fa-solid fa-arrow-right"></i>
                                 </button>
                             </div>
                         </div>
@@ -145,24 +139,12 @@
                         <div class="all-select-side all-select-side1">
                             <div class="steptwo-btn">
                                 <button type="button" id="checkbtnclick" class="btn ">Yes
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
-                                        viewBox="0 0 9.115 7.588">
-                                        <path id="Path_72" data-name="Path 72"
-                                            d="M-455.048-393.807c.013-.032.025-.065.04-.1a.483.483,0,0,1,.405-.292,1.191,1.191,0,0,1,.133,0h6.011c-.033-.035-.053-.057-.075-.079l-1.81-1.815s-.247-.442-.1-.636a2.544,2.544,0,0,1,.475-.475.456.456,0,0,1,.569.045c.023.019.044.039.065.06l3.222,3.222a.5.5,0,0,1,.108.645.706.706,0,0,1-.107.13l-3.222,3.223a.505.505,0,0,1-.775,0l-.233-.232a.5.5,0,0,1,0-.761q.913-.912,1.828-1.822c.022-.022.043-.046.079-.083h-5.968c-.395,0-.5-.068-.642-.427Z"
-                                            transform="translate(455.048 397.284)" fill="#fff" />
-                                    </svg>
-
+                                    <i class="fa-solid fa-arrow-right"></i>
                                 </button>
                             </div>
                             <div class=" steptwo-btn">
                                 <button type="button" id="checkbtnclick1" class="btn ">No
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
-                                        viewBox="0 0 9.115 7.588">
-                                        <path id="Path_72" data-name="Path 72"
-                                            d="M-455.048-393.807c.013-.032.025-.065.04-.1a.483.483,0,0,1,.405-.292,1.191,1.191,0,0,1,.133,0h6.011c-.033-.035-.053-.057-.075-.079l-1.81-1.815s-.247-.442-.1-.636a2.544,2.544,0,0,1,.475-.475.456.456,0,0,1,.569.045c.023.019.044.039.065.06l3.222,3.222a.5.5,0,0,1,.108.645.706.706,0,0,1-.107.13l-3.222,3.223a.505.505,0,0,1-.775,0l-.233-.232a.5.5,0,0,1,0-.761q.913-.912,1.828-1.822c.022-.022.043-.046.079-.083h-5.968c-.395,0-.5-.068-.642-.427Z"
-                                            transform="translate(455.048 397.284)" fill="#fff" />
-                                    </svg>
-
+                                    <i class="fa-solid fa-arrow-right"></i>
                                 </button>
                             </div>
                         </div>
@@ -218,13 +200,7 @@
                             <div class="steptwo-btn last-step">
                                 <button type="button" class="btn btn-primary"
                                     onclick="window.location.href = 'view-cart.php';">Checkout
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
-                                        viewBox="0 0 9.115 7.588">
-                                        <path id="Path_72" data-name="Path 72"
-                                            d="M-455.048-393.807c.013-.032.025-.065.04-.1a.483.483,0,0,1,.405-.292,1.191,1.191,0,0,1,.133,0h6.011c-.033-.035-.053-.057-.075-.079l-1.81-1.815s-.247-.442-.1-.636a2.544,2.544,0,0,1,.475-.475.456.456,0,0,1,.569.045c.023.019.044.039.065.06l3.222,3.222a.5.5,0,0,1,.108.645.706.706,0,0,1-.107.13l-3.222,3.223a.505.505,0,0,1-.775,0l-.233-.232a.5.5,0,0,1,0-.761q.913-.912,1.828-1.822c.022-.022.043-.046.079-.083h-5.968c-.395,0-.5-.068-.642-.427Z"
-                                            transform="translate(455.048 397.284)" fill="#fff" />
-                                    </svg>
-
+                                    <i class="fa-solid fa-arrow-right"></i>
                                 </button>
                             </div>
                         </div>
@@ -239,14 +215,10 @@
                                 </div>
                             </div>
                             <div class="option">
-                                <a href="javascript:void(0)" class="btn dropdown-wrapper-down">Use Self-Service Area
+                                <a href="javascript:void(0)" id="" class="btn dropdown-wrapper-down">Use Self-Service
+                                    Area
                                     To Create
-                                    My Project <svg xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
-                                        viewBox="0 0 9.115 7.588">
-                                        <path id="Path_72" data-name="Path 72"
-                                            d="M-455.048-393.807c.013-.032.025-.065.04-.1a.483.483,0,0,1,.405-.292,1.191,1.191,0,0,1,.133,0h6.011c-.033-.035-.053-.057-.075-.079l-1.81-1.815a.478.478,0,0,1-.1-.636,2.544,2.544,0,0,1,.475-.475.456.456,0,0,1,.569.045c.023.019.044.039.065.06l3.222,3.222a.5.5,0,0,1,.108.645.706.706,0,0,1-.107.13l-3.222,3.223a.505.505,0,0,1-.775,0l-.233-.232a.5.5,0,0,1,0-.761q.913-.912,1.828-1.822c.022-.022.043-.046.079-.083h-5.968c-.395,0-.5-.068-.642-.427Z"
-                                            transform="translate(455.048 397.284)" fill="#fff" />
-                                    </svg>
+                                    My Project <span class=""></span> <i class="fa-solid fa-arrow-right"></i>
                                 </a>
                                 <div class="dropdown-wrapper">
                                     <table class="table-fill">
@@ -292,12 +264,7 @@
                             <div class="option">
                                 <a href="hireadesigner.php" class="btn btn-primary">Please Have A Graphic Designer
                                     Contact
-                                    Me To Assist Me With My Project <svg xmlns="http://www.w3.org/2000/svg"
-                                        width="9.115" height="7.588" viewBox="0 0 9.115 7.588">
-                                        <path id="Path_72" data-name="Path 72"
-                                            d="M-455.048-393.807c.013-.032.025-.065.04-.1a.483.483,0,0,1,.405-.292,1.191,1.191,0,0,1,.133,0h6.011c-.033-.035-.053-.057-.075-.079l-1.81-1.815a.478.478,0,0,1-.1-.636,2.544,2.544,0,0,1,.475-.475.456.456,0,0,1,.569.045c.023.019.044.039.065.06l3.222,3.222a.5.5,0,0,1,.108.645.706.706,0,0,1-.107.13l-3.222,3.223a.505.505,0,0,1-.775,0l-.233-.232a.5.5,0,0,1,0-.761q.913-.912,1.828-1.822c.022-.022.043-.046.079-.083h-5.968c-.395,0-.5-.068-.642-.427Z"
-                                            transform="translate(455.048 397.284)" fill="#fff" />
-                                    </svg>
+                                    Me To Assist Me With My Project <i class="fa-solid fa-arrow-right"></i>
                                 </a>
                             </div>
                         </div>
@@ -341,12 +308,7 @@
                                     <button type="button" class="btn btn-primary" data-bs-toggle="modal"
                                         data-bs-target="#exampleModal">
                                         Submit Review
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="9.115" height="7.588"
-                                            viewBox="0 0 9.115 7.588">
-                                            <path id="Path_72" data-name="Path 72"
-                                                d="M-455.048-393.807c.013-.032.025-.065.04-.1a.483.483,0,0,1,.405-.292,1.191,1.191,0,0,1,.133,0h6.011c-.033-.035-.053-.057-.075-.079l-1.81-1.815s-.247-.442-.1-.636a2.544,2.544,0,0,1,.475-.475.456.456,0,0,1,.569.045c.023.019.044.039.065.06l3.222,3.222a.5.5,0,0,1,.108.645.706.706,0,0,1-.107.13l-3.222,3.223a.505.505,0,0,1-.775,0l-.233-.232a.5.5,0,0,1,0-.761q.913-.912,1.828-1.822c.022-.022.043-.046.079-.083h-5.968c-.395,0-.5-.068-.642-.427Z"
-                                                transform="translate(455.048 397.284)" fill="#fff" />
-                                        </svg>
+                                        <i class="fa-solid fa-arrow-right"></i>
                                     </button>
                                 </div>
                                 <!-- modal -->
@@ -446,13 +408,8 @@
                                                         placeholder="Write your review here..."></textarea>
                                                 </div>
                                                 <div class="steptwo-btn review-submit ">
-                                                    <button type="submit" class="btn btn-primary mb-3">Submit <svg
-                                                            xmlns="http://www.w3.org/2000/svg" width="9.115"
-                                                            height="7.588" viewBox="0 0 9.115 7.588">
-                                                            <path id="Path_72" data-name="Path 72"
-                                                                d="M-455.048-393.807c.013-.032.025-.065.04-.1a.483.483,0,0,1,.405-.292,1.191,1.191,0,0,1,.133,0h6.011c-.033-.035-.053-.057-.075-.079l-1.81-1.815a.478.478,0,0,1-.1-.636,2.544,2.544,0,0,1,.475-.475.456.456,0,0,1,.569.045c.023.019.044.039.065.06l3.222,3.222a.5.5,0,0,1,.108.645.706.706,0,0,1-.107.13l-3.222,3.223a.505.505,0,0,1-.775,0l-.233-.232a.5.5,0,0,1,0-.761q.913-.912,1.828-1.822c.022-.022.043-.046.079-.083h-5.968c-.395,0-.5-.068-.642-.427Z"
-                                                                transform="translate(455.048 397.284)" fill="#fff" />
-                                                        </svg>
+                                                    <button type="submit" class="btn btn-primary mb-3">Submit <i
+                                                            class="fa-solid fa-arrow-right"></i>
                                                     </button>
                                                 </div>
                                                 <div class="review-box">

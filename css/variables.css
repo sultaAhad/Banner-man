@@ -145,7 +145,11 @@ a {
 	cursor: pointer;
 	text-decoration: none;
 }
-
+.btn-check:focus + .btn,
+.btn:focus {
+	outline: 0;
+	box-shadow: none;
+}
 a:hover {
 	color: #37b3ed;
 	text-decoration: none;

@@ -203,23 +203,31 @@ h6.account {
 	align-items: center;
 	justify-content: center;
 	overflow: hidden;
-	width: 150%;
+	width: 200%;
 	position: absolute;
 	left: -650px;
 }
 .img-marque-wrapper {
 	position: relative;
 }
-
+.headingbillboard img.img-fluid {
+	width: 180px;
+}
 .headingbillboard {
 	position: absolute;
-	top: -97px;
-	right: 1px;
+	top: -65px;
+	right: 8px;
+	text-align: center;
+}
+.headingbillboard {
+	position: absolute;
+	top: -65px;
+	right: 8px;
 	text-align: center;
 }
 .headingbillboard h5 {
 	font-family: "Brinnan Black";
-	font-size: 18px;
+	font-size: 15px;
 	color: #f75414;
 	text-transform: uppercase;
 }
@@ -1067,7 +1075,7 @@ footer p {
 		font-size: 16px;
 	}
 	.left-to-right {
-		width: 158%;
+		width: 208%;
 	}
 	.headingbillboard {
 		top: -91px;
@@ -1142,6 +1150,35 @@ footer p {
 @media (max-width: 1366px) {
 	.product h4 {
 		font-size: 40px !important;
+	}
+	.headingbillboard h5 {
+		font-size: 14px;
+	}
+	.banner-large-heading h1 {
+		font-size: 50px;
+	}
+	.main_heading1 h2.cssanimation.leRotateYZoomIn.random1 {
+		color: #081a55;
+		font-size: 50px;
+	}
+	.main_heading2 h1 {
+		color: #081a55;
+		font-size: 50px;
+	}
+	.headingbillboard img.img-fluid {
+		width: 170px;
+	}
+	.headingbillboard {
+		position: absolute;
+		top: -65px;
+		right: 8px;
+		text-align: center;
+	}
+	.headingbillboard {
+		position: absolute;
+		top: -65px;
+		right: 8px;
+		text-align: center;
 	}
 }
 @media (max-width: 1200px) {

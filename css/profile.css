@@ -226,7 +226,7 @@ li.nav-item1 a .btn {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	margin: 60px 0px 0px 0px;
+	margin: 40px 0px 0px 0px;
 }
 .top-wrapper {
 	margin-top: 0px;
@@ -623,9 +623,25 @@ a.page-link.active {
 	color: #081a55 !important;
 	font-family: "Brinnan-Bold";
 }
+@media (max-width: 1366px) {
+	.profile-icon {
+		top: 15px;
+		right: 36px;
+	}
+	.profile-icon {
+		position: absolute;
+		top: 15px;
+		right: 39px;
+	}
+}
 @media (max-width: 1200px) {
 	.profile-icon {
 		top: 15px;
 		right: 36px;
+	}
+	.profile-icon {
+		position: absolute;
+		top: 15px;
+		right: 39px;
 	}
 }

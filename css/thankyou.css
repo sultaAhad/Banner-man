@@ -46,8 +46,8 @@
 }
 .cart-img {
 	position: absolute;
-	top: -18px;
-	right: -24px;
+	top: -8px;
+	right: -34px;
 }
 .thankyou-sec .head h4 {
 	font-size: 22px;
@@ -67,7 +67,7 @@
 }
 .thankyou-sec .order-detail {
 	border: 1px solid #707070b3;
-	padding: 40px 40px;
+	padding: 60px 60px;
 	position: relative;
 	background: #eef7fb;
 }
@@ -140,10 +140,10 @@
 	font-family: "poppins-Regular";
 }
 .thankyou-sec .order-detail ul.payment-total li span.property {
-	font-size: 18px;
+	font-size: 17px;
 	color: #081a55;
 	/* font-weight: 400; */
-	font-family: "poppins-Regular";
+	font-family: "poppins-Bold";
 }
 .thankyou-sec .order-detail ul.payment-total li span.value {
 	color: #000;
@@ -192,6 +192,11 @@
 /* Thank You Css End Here */
 
 /* Media Query Start Here */
+@media (max-width: 1366px) {
+	.thankyou-sec .order-detail ul li span.value {
+		font-size: 16px;
+	}
+}
 @media (max-width: 1100px) {
 	.thankyou-sec .order-detail ul li span.value {
 		font-size: 14px;

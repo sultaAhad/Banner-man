@@ -281,6 +281,9 @@ div.table-title {
 .table-fill tr:first-child {
 	border-top: none;
 }
+button.nav-link.second-links12 {
+	display: none;
+}
 
 .table-fill tr:last-child {
 	border-bottom: none;
@@ -564,7 +567,7 @@ canvas#color_picker {
 	margin-left: 4px;
 }
 .main-wrapper .color-wrapper img {
-	border-radius: 10px;
+	border-radius: 0px;
 	border: 1px solid black;
 	width: 113px;
 	height: 101px;
@@ -672,5 +675,52 @@ button#pills-final-tab {
 	}
 	100% {
 		-webkit-transform: translateX(-50%);
+	}
+}
+@media (max-width: 1366px) {
+	.btn {
+		font-size: 8px;
+	}
+	.color-picker {
+		width: 50px;
+		/* text-align: center; */
+		/* margin: 0px 10px; */
+	}
+	.select-wrapper h6 {
+		font-size: 14px;
+	}
+	.color-picker {
+		text-align: start;
+	}
+	.select-wrapper2 h6 {
+		font-size: 14px;
+	}
+	.tab-headind-main h4 {
+		font-family: "Montserrat-SemiBold";
+		font-size: 25px;
+		color: #081a55;
+	}
+	.tab-headind-main p {
+		font-family: "Montserrat-Regular";
+		font-size: 14px;
+		color: #081a55;
+	}
+	.table-fill td {
+		font-size: 14px;
+	}
+	.bGButton button {
+		width: 36px;
+		height: 37px;
+		border: none;
+		border-radius: 6px;
+		margin-left: 4px;
+	}
+	.main-wrapper .color-wrapper img {
+		border-radius: 0px;
+		border: 1px solid black;
+		width: 130px;
+		height: 75px;
+		margin: 10px 3px;
+		/* object-fit: cover; */
 	}
 }

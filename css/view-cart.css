@@ -4,6 +4,7 @@
 }
 .cart-heading h2 {
 	font-size: 40px;
+	margin-bottom: 30px;
 }
 .cart-box {
 	background: #eef7fb;
@@ -189,6 +190,24 @@ span.number24 {
 }
 /* cart-sec end here  */
 /* reponsive */
+@media (max-width: 1366px) {
+	.order-name h2 {
+		font-size: 21px;
+	}
+	.qty-box {
+		padding: 23px 0;
+	}
+	.order-summary-heading h2 {
+		font-size: 29px;
+		margin-bottom: 28px;
+	}
+	.order-summary {
+		padding: 29px 93px;
+	}
+	.taxes-duty p {
+		font-size: 12px;
+	}
+}
 @media (max-width: 580px) {
 	.summary-btn {
 		display: flex;

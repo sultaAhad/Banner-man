@@ -59,11 +59,10 @@ h5.name {
 
 .product-price.main_heading span {
 	color: #000000;
-	font-family: "Poppins", sans-serif;
+	font-family: "Poppins-Bold";
 	font-weight: 700;
 	font-size: 14px;
 }
-
 .sub-this .btn {
 	width: 100%;
 	border-radius: 34px;
@@ -85,9 +84,9 @@ h5.name {
 
 ul.variations li {
 	color: #000000;
-	font-family: "Poppins", sans-serif;
+	font-family: "Poppins-Light";
 	font-weight: 300;
-	font-size: 12px;
+	font-size: 13px;
 }
 ul.variations span {
 	font-family: "Brinnan-Bold";
@@ -219,7 +218,7 @@ ul.variations span {
 .checkout .cart-product-detail .checkout-products {
 	height: 337px;
 	overflow-y: scroll;
-	padding: 10px 20px;
+	padding: 10px 0px;
 	overflow-x: hidden;
 }
 
@@ -329,7 +328,6 @@ ul.variations span {
 	display: flex;
 	align-items: center;
 }
-
 .checkout .confirm-orderDv .button-checkout a {
 	width: 145px;
 	border-radius: 25px;
@@ -343,9 +341,8 @@ ul.variations span {
 	/* font-weight: 600; */
 	border: 0;
 	transition: 0.6s;
-	border: 2px solid #fff;
+	/* border: 2px solid #fff; */
 }
-
 .checkout .confirm-orderDv .button-group button:hover {
 	box-shadow: 0px 0px 0px 2px #1aac7a;
 }
@@ -422,37 +419,6 @@ ul.variations span {
 	height: 30px !important;
 }
 
-/* responsive starts here */
-@media (max-width: 480px) {
-	.checkout .container {
-		padding: 60px 18px;
-		margin: 20px;
-	}
-}
-
-@media (max-width: 414px) {
-	.checkout .cart-product-detail .products .product-price h4.price {
-		margin-right: 10px;
-	}
-
-	.checkout .cart-product-detail .products .abt-product .pro-dtl h5.name {
-		font-size: 13px;
-	}
-}
-
-@media (max-width: 375px) {
-	.checkout .cart-product-detail .products {
-		flex-direction: column;
-	}
-
-	.product-price {
-		margin-top: 20px;
-		display: block;
-	}
-}
-
-/* responsive ends here */
-
 .second-top-bar input.form-control.usd {
 	background: #fff9f6;
 	border: 0px !important;
@@ -510,3 +476,62 @@ section.checkout .btn {
 	top: -18px;
 	right: -24px;
 }
+/* responsive starts here */
+@media (max-width: 1366px) {
+	.main_heading h2 {
+		font-size: 18px;
+	}
+	.checkout .container {
+		padding: 60px 18px;
+		margin: 20px;
+	}
+	.login span {
+		font-size: 12px;
+	}
+	.login a {
+		font-size: 12px;
+	}
+	.promo-code-box p {
+		margin-bottom: 7px;
+		font-size: 13px;
+	}
+	section.checkout .btn {
+		font-size: 11px;
+		padding: 10px 22px;
+	}
+}
+@media (max-width: 480px) {
+	.checkout .container {
+		padding: 60px 18px;
+		margin: 20px;
+	}
+	.login span {
+		font-size: 12px;
+	}
+	.login a {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 414px) {
+	.checkout .cart-product-detail .products .product-price h4.price {
+		margin-right: 10px;
+	}
+
+	.checkout .cart-product-detail .products .abt-product .pro-dtl h5.name {
+		font-size: 13px;
+	}
+}
+
+@media (max-width: 375px) {
+	.checkout .cart-product-detail .products {
+		flex-direction: column;
+	}
+
+	.product-price {
+		margin-top: 20px;
+		display: block;
+	}
+}
+
+/* responsive ends here */

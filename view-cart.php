@@ -34,7 +34,7 @@
                             </div>
                             <div class="order-info">
                                 <div class="order-img">
-                                    <img src="img/orderone.png" alt="" class="img-fluid">
+                                    <img src="img/orderone.webp" alt="" class="img-fluid">
                                 </div>
                                 <div class="order-item">
                                     <div class="order-name">
@@ -51,10 +51,11 @@
                                     <div class="qty-box">
                                         <div class="quantity-field">
                                             <button class="value-button decrease-button" onclick="decreaseValue(this)"
-                                                title="Azalt">-</button>
+                                                title="Azalt"><i class="fa-solid fa-minus"></i></button>
                                             <div class="number">0</div>
                                             <button class="value-button increase-button"
-                                                onclick="increaseValue(this, 5)" title="Arrtır">+
+                                                onclick="increaseValue(this, 5)" title="Arrtır"><i
+                                                    class="fa-solid fa-plus"></i>
                                             </button>
                                         </div>
                                     </div>
@@ -82,7 +83,7 @@
                             </div>
                             <div class="order-info">
                                 <div class="order-img">
-                                    <img src="img/order2.png" alt="" class="img-fluid">
+                                    <img src="img/order2.webp" alt="" class="img-fluid">
                                 </div>
                                 <div class="order-item">
                                     <div class="order-name">
@@ -99,10 +100,11 @@
                                     <div class="qty-box">
                                         <div class="quantity-field">
                                             <button class="value-button decrease-button" onclick="decreaseValue(this)"
-                                                title="Azalt">-</button>
+                                                title="Azalt"><i class="fa-solid fa-minus"></i></button>
                                             <div class="number">0</div>
                                             <button class="value-button increase-button"
-                                                onclick="increaseValue(this, 5)" title="Arrtır">+
+                                                onclick="increaseValue(this, 5)" title="Arrtır"><i
+                                                    class="fa-solid fa-plus"></i>
                                             </button>
                                         </div>
                                     </div>
