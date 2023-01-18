@@ -63,16 +63,18 @@
                             <div class="col-lg-3">
                                 <div class="banners-category banners-category1">
                                     <div class="card-slider">
-                                        <div class="card-wrapper">
-                                            <div class="paper-heading">
-                                                <h5> <span> Paper Economy</span>
-                                                </h5>
+                                        <a href="paper-economy.php">
+                                            <div class="card-wrapper">
+                                                <div class="paper-heading">
+                                                    <h5> <span> Paper Economy</span>
+                                                    </h5>
+                                                </div>
+                                                <div class="extra-info">
+                                                    <h5>H <span>24 IN to 60 IN</span></h5>
+                                                    <h5>W <span>24 IN to 36 IN</span></h5>
+                                                </div>
                                             </div>
-                                            <div class="extra-info">
-                                                <h5>H <span>24 IN to 60 IN</span></h5>
-                                                <h5>W <span>24 IN to 36 IN</span></h5>
-                                            </div>
-                                        </div>
+                                        </a>
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
@@ -130,16 +132,18 @@
                             <div class="col-lg-3">
                                 <div class="banners-category banners-category1">
                                     <div class="card-slider">
-                                        <div class="card-wrapper card-wrapper1">
-                                            <div class="paper-heading">
-                                                <h5> <span> Paper Brite</span>
-                                                </h5>
+                                        <a href="paper-economy.php">
+                                            <div class="card-wrapper card-wrapper1">
+                                                <div class="paper-heading">
+                                                    <h5> <span> Paper Brite</span>
+                                                    </h5>
+                                                </div>
+                                                <div class="extra-info">
+                                                    <h5>H <span>24 IN to 60 IN</span></h5>
+                                                    <h5>W <span>24 IN to 36 IN</span></h5>
+                                                </div>
                                             </div>
-                                            <div class="extra-info">
-                                                <h5>H <span>24 IN to 60 IN</span></h5>
-                                                <h5>W <span>24 IN to 36 IN</span></h5>
-                                            </div>
-                                        </div>
+                                        </a>
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
@@ -197,16 +201,18 @@
                             <div class="col-lg-3">
                                 <div class="banners-category banners-category1">
                                     <div class="card-slider">
-                                        <div class="card-wrapper">
-                                            <div class="paper-heading paper-photo">
-                                                <h5> <span> Durable Polypropylene</span>
-                                                </h5>
+                                        <a href="paper-economy.php">
+                                            <div class="card-wrapper">
+                                                <div class="paper-heading paper-photo">
+                                                    <h5> <span> Durable Polypropylene</span>
+                                                    </h5>
+                                                </div>
+                                                <div class="extra-info">
+                                                    <h5>H <span>24 IN to 60 IN</span></h5>
+                                                    <h5>W <span>24 IN to 36 IN</span></h5>
+                                                </div>
                                             </div>
-                                            <div class="extra-info">
-                                                <h5>H <span>24 IN to 60 IN</span></h5>
-                                                <h5>W <span>24 IN to 36 IN</span></h5>
-                                            </div>
-                                        </div>
+                                        </a>
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
@@ -264,16 +270,18 @@
                             <div class="col-lg-3">
                                 <div class="banners-category banners-category1">
                                     <div class="card-slider">
-                                        <div class="card-wrapper">
-                                            <div class="paper-heading paper-photo">
-                                                <h5> <span> Glossy Photo Paper</span>
-                                                </h5>
+                                        <a href="paper-economy.php">
+                                            <div class="card-wrapper">
+                                                <div class="paper-heading paper-photo">
+                                                    <h5> <span> Glossy Photo Paper</span>
+                                                    </h5>
+                                                </div>
+                                                <div class="extra-info">
+                                                    <h5>H <span>24 IN to 60 IN</span></h5>
+                                                    <h5>W <span>24 IN to 36 IN</span></h5>
+                                                </div>
                                             </div>
-                                            <div class="extra-info">
-                                                <h5>H <span>24 IN to 60 IN</span></h5>
-                                                <h5>W <span>24 IN to 36 IN</span></h5>
-                                            </div>
-                                        </div>
+                                        </a>
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
@@ -331,16 +339,18 @@
                             <div class="col-lg-3">
                                 <div class="banners-category banners-category1 ">
                                     <div class="card-slider">
-                                        <div class="card-wrapper">
-                                            <div class="paper-heading paper-photo">
-                                                <h5> <span> Matte Coated Paper</span>
-                                                </h5>
+                                        <a href="paper-economy.php">
+                                            <div class="card-wrapper">
+                                                <div class="paper-heading paper-photo">
+                                                    <h5> <span> Matte Coated Paper</span>
+                                                    </h5>
+                                                </div>
+                                                <div class="extra-info">
+                                                    <h5>H <span>24 IN to 60 IN</span></h5>
+                                                    <h5>W <span>24 IN to 36 IN</span></h5>
+                                                </div>
                                             </div>
-                                            <div class="extra-info">
-                                                <h5>H <span>24 IN to 60 IN</span></h5>
-                                                <h5>W <span>24 IN to 36 IN</span></h5>
-                                            </div>
-                                        </div>
+                                        </a>
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
@@ -398,16 +408,18 @@
                             <div class="col-lg-3">
                                 <div class="banners-category banners-category1">
                                     <div class="card-slider">
-                                        <div class="card-wrapper">
-                                            <div class="paper-heading paper-photo">
-                                                <h5> <span> Glossy Photo Paper</span>
-                                                </h5>
+                                        <a href="paper-economy.php">
+                                            <div class="card-wrapper">
+                                                <div class="paper-heading paper-photo">
+                                                    <h5> <span> Glossy Photo Paper</span>
+                                                    </h5>
+                                                </div>
+                                                <div class="extra-info">
+                                                    <h5>H <span>24 IN to 60 IN</span></h5>
+                                                    <h5>W <span>24 IN to 36 IN</span></h5>
+                                                </div>
                                             </div>
-                                            <div class="extra-info">
-                                                <h5>H <span>24 IN to 60 IN</span></h5>
-                                                <h5>W <span>24 IN to 36 IN</span></h5>
-                                            </div>
-                                        </div>
+                                        </a>
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
@@ -465,16 +477,18 @@
                             <div class="col-lg-3">
                                 <div class="banners-category banners-category1">
                                     <div class="card-slider">
-                                        <div class="card-wrapper">
-                                            <div class="paper-heading paper-photo">
-                                                <h5> <span> Glossy Photo Paper</span>
-                                                </h5>
+                                        <a href="paper-economy.php">
+                                            <div class="card-wrapper">
+                                                <div class="paper-heading paper-photo">
+                                                    <h5> <span> Glossy Photo Paper</span>
+                                                    </h5>
+                                                </div>
+                                                <div class="extra-info">
+                                                    <h5>H <span>24 IN to 60 IN</span></h5>
+                                                    <h5>W <span>24 IN to 36 IN</span></h5>
+                                                </div>
                                             </div>
-                                            <div class="extra-info">
-                                                <h5>H <span>24 IN to 60 IN</span></h5>
-                                                <h5>W <span>24 IN to 36 IN</span></h5>
-                                            </div>
-                                        </div>
+                                        </a>
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
@@ -532,16 +546,18 @@
                             <div class="col-lg-3">
                                 <div class="banners-category banners-category1">
                                     <div class="card-slider">
-                                        <div class="card-wrapper">
-                                            <div class="paper-heading paper-photo">
-                                                <h5> <span> Glossy Photo Paper</span>
-                                                </h5>
+                                        <a href="paper-economy.php">
+                                            <div class="card-wrapper">
+                                                <div class="paper-heading paper-photo">
+                                                    <h5> <span> Glossy Photo Paper</span>
+                                                    </h5>
+                                                </div>
+                                                <div class="extra-info">
+                                                    <h5>H <span>24 IN to 60 IN</span></h5>
+                                                    <h5>W <span>24 IN to 36 IN</span></h5>
+                                                </div>
                                             </div>
-                                            <div class="extra-info">
-                                                <h5>H <span>24 IN to 60 IN</span></h5>
-                                                <h5>W <span>24 IN to 36 IN</span></h5>
-                                            </div>
-                                        </div>
+                                        </a>
                                         <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                             data-aos-duration="2000">
                                             <div class="img-wrapper">
@@ -612,16 +628,18 @@
                         <div class="col-lg-3">
                             <div class="banners-category">
                                 <div class="card-slider">
-                                    <div class="card-wrapper">
-                                        <div class="paper-heading">
-                                            <h5> <span> Paper Economy</span>
-                                            </h5>
+                                    <a href="paper-economy.php">
+                                        <div class="card-wrapper">
+                                            <div class="paper-heading">
+                                                <h5> <span> Paper Economy</span>
+                                                </h5>
+                                            </div>
+                                            <div class="extra-info">
+                                                <h5>H <span>24 IN to 60 IN</span></h5>
+                                                <h5>W <span>24 IN to 36 IN</span></h5>
+                                            </div>
                                         </div>
-                                        <div class="extra-info">
-                                            <h5>H <span>24 IN to 60 IN</span></h5>
-                                            <h5>W <span>24 IN to 36 IN</span></h5>
-                                        </div>
-                                    </div>
+                                    </a>
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
@@ -675,16 +693,18 @@
                         <div class="col-lg-3">
                             <div class="banners-category">
                                 <div class="card-slider">
-                                    <div class="card-wrapper card-wrapper1">
-                                        <div class="paper-heading">
-                                            <h5> <span> Paper Brite</span>
-                                            </h5>
+                                    <a href="paper-economy.php">
+                                        <div class="card-wrapper card-wrapper1">
+                                            <div class="paper-heading">
+                                                <h5> <span> Paper Brite</span>
+                                                </h5>
+                                            </div>
+                                            <div class="extra-info">
+                                                <h5>H <span>24 IN to 60 IN</span></h5>
+                                                <h5>W <span>24 IN to 36 IN</span></h5>
+                                            </div>
                                         </div>
-                                        <div class="extra-info">
-                                            <h5>H <span>24 IN to 60 IN</span></h5>
-                                            <h5>W <span>24 IN to 36 IN</span></h5>
-                                        </div>
-                                    </div>
+                                    </a>
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
@@ -738,16 +758,18 @@
                         <div class="col-lg-3">
                             <div class="banners-category">
                                 <div class="card-slider">
-                                    <div class="card-wrapper">
-                                        <div class="paper-heading paper-photo">
-                                            <h5> <span> Durable Polypropylene</span>
-                                            </h5>
+                                    <a href="paper-economy.php">
+                                        <div class="card-wrapper">
+                                            <div class="paper-heading paper-photo">
+                                                <h5> <span> Durable Polypropylene</span>
+                                                </h5>
+                                            </div>
+                                            <div class="extra-info">
+                                                <h5>H <span>24 IN to 60 IN</span></h5>
+                                                <h5>W <span>24 IN to 36 IN</span></h5>
+                                            </div>
                                         </div>
-                                        <div class="extra-info">
-                                            <h5>H <span>24 IN to 60 IN</span></h5>
-                                            <h5>W <span>24 IN to 36 IN</span></h5>
-                                        </div>
-                                    </div>
+                                    </a>
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
@@ -801,16 +823,18 @@
                         <div class="col-lg-3">
                             <div class="banners-category">
                                 <div class="card-slider">
-                                    <div class="card-wrapper">
-                                        <div class="paper-heading paper-photo">
-                                            <h5> <span> Glossy Photo Paper</span>
-                                            </h5>
+                                    <a href="paper-economy.php">
+                                        <div class="card-wrapper">
+                                            <div class="paper-heading paper-photo">
+                                                <h5> <span> Glossy Photo Paper</span>
+                                                </h5>
+                                            </div>
+                                            <div class="extra-info">
+                                                <h5>H <span>24 IN to 60 IN</span></h5>
+                                                <h5>W <span>24 IN to 36 IN</span></h5>
+                                            </div>
                                         </div>
-                                        <div class="extra-info">
-                                            <h5>H <span>24 IN to 60 IN</span></h5>
-                                            <h5>W <span>24 IN to 36 IN</span></h5>
-                                        </div>
-                                    </div>
+                                    </a>
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
@@ -876,16 +900,18 @@
                         <div class="col-lg-3">
                             <div class="banners-category">
                                 <div class="card-slider">
-                                    <div class="card-wrapper">
-                                        <div class="paper-heading">
-                                            <h5> <span> Water Resistant Vinyl</span>
-                                            </h5>
+                                    <a href="paper-economy.php">
+                                        <div class="card-wrapper">
+                                            <div class="paper-heading">
+                                                <h5> <span> Water Resistant Vinyl</span>
+                                                </h5>
+                                            </div>
+                                            <div class="extra-info">
+                                                <h5>H <span>24 IN to 60 IN</span></h5>
+                                                <h5>W <span>24 IN to 36 IN</span></h5>
+                                            </div>
                                         </div>
-                                        <div class="extra-info">
-                                            <h5>H <span>24 IN to 60 IN</span></h5>
-                                            <h5>W <span>24 IN to 36 IN</span></h5>
-                                        </div>
-                                    </div>
+                                    </a>
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
@@ -939,17 +965,19 @@
                         <div class="col-lg-3">
                             <div class="banners-category">
                                 <div class="card-slider">
-                                    <div class="card-wrapper card-wrapper1">
-                                        <div class="paper-heading">
-                                            <h5> <span> Water Resistant Matte <br>
-                                                    Polypropylene</span>
-                                            </h5>
+                                    <a href="paper-economy.php">
+                                        <div class="card-wrapper card-wrapper1">
+                                            <div class="paper-heading">
+                                                <h5> <span> Water Resistant Matte <br>
+                                                        Polypropylene</span>
+                                                </h5>
+                                            </div>
+                                            <div class="extra-info">
+                                                <h5>H <span>24 IN to 60 IN</span></h5>
+                                                <h5>W <span>24 IN to 36 IN</span></h5>
+                                            </div>
                                         </div>
-                                        <div class="extra-info">
-                                            <h5>H <span>24 IN to 60 IN</span></h5>
-                                            <h5>W <span>24 IN to 36 IN</span></h5>
-                                        </div>
-                                    </div>
+                                    </a>
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
@@ -1003,16 +1031,18 @@
                         <div class="col-lg-3">
                             <div class="banners-category">
                                 <div class="card-slider">
-                                    <div class="card-wrapper">
-                                        <div class="paper-heading paper-photo">
-                                            <h5> <span> Water Resistant</span>
-                                            </h5>
+                                    <a href="paper-economy.php">
+                                        <div class="card-wrapper">
+                                            <div class="paper-heading paper-photo">
+                                                <h5> <span> Water Resistant</span>
+                                                </h5>
+                                            </div>
+                                            <div class="extra-info">
+                                                <h5>H <span>24 IN to 60 IN</span></h5>
+                                                <h5>W <span>24 IN to 36 IN</span></h5>
+                                            </div>
                                         </div>
-                                        <div class="extra-info">
-                                            <h5>H <span>24 IN to 60 IN</span></h5>
-                                            <h5>W <span>24 IN to 36 IN</span></h5>
-                                        </div>
-                                    </div>
+                                    </a>
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
@@ -1078,15 +1108,17 @@
                         <div class="col-lg-3">
                             <div class="banners-category">
                                 <div class="card-slider">
-                                    <div class="card-wrapper">
-                                        <div class="paper-heading">
-                                            <h5> <span> Premium Gift</span>
-                                            </h5>
+                                    <a href="paper-economy.php">
+                                        <div class="card-wrapper">
+                                            <div class="paper-heading">
+                                                <h5> <span> Premium Gift</span>
+                                                </h5>
+                                            </div>
+                                            <div class="extra-info">
+                                                <h5><span>L 6 FT to 50 IN</span></h5>
+                                            </div>
                                         </div>
-                                        <div class="extra-info">
-                                            <h5><span>L 6 FT to 50 IN</span></h5>
-                                        </div>
-                                    </div>
+                                    </a>
                                     <div class="slider" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                         data-aos-duration="2000">
                                         <div class="img-wrapper">
