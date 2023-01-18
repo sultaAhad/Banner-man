@@ -224,30 +224,34 @@
                                     <table class="table-fill">
                                         <tbody class="table-hover">
                                             <tr>
-                                                <td class="text-left">Birthday <i class="fa-solid fa-arrow-right"></i>
+                                                <td class="text-left"> <a href="design-your-image.php"> Birthday </a><i
+                                                        class="fa-solid fa-arrow-right"></i>
                                                 </td>
-                                                <td class="text-left">Special Price <i
-                                                        class="fa-solid fa-arrow-right"></i></td>
+                                                <td class="text-left"> <a href="design-your-image.php"> Special Price
+                                                    </a> <i class="fa-solid fa-arrow-right"></i></td>
                                             </tr>
                                             <tr>
-                                                <td class="text-left">Anniversary<i class="fa-solid fa-arrow-right"></i>
+                                                <td class="text-left"> <a href="design-your-image.php"> Anniversary
+                                                    </a><i class="fa-solid fa-arrow-right"></i>
                                                 </td>
-                                                <td class="text-left">Welcome Home<i
+                                                <td class="text-left"> <a href="design-your-image.php">Welcome Home
+                                                    </a><i class="fa-solid fa-arrow-right"></i></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-left"> <a href="design-your-image.php">Party </a><i
+                                                        class="fa-solid fa-arrow-right"></i></td>
+                                                <td class="text-left"> <a href="design-your-image.php">Voting </a><i
                                                         class="fa-solid fa-arrow-right"></i></td>
                                             </tr>
                                             <tr>
-                                                <td class="text-left">Party<i class="fa-solid fa-arrow-right"></i></td>
-                                                <td class="text-left">Voting<i class="fa-solid fa-arrow-right"></i></td>
+                                                <td class="text-left"> <a href="design-your-image.php">Congratulations
+                                                    </a><i class="fa-solid fa-arrow-right"></i></td>
+                                                <td class="text-left"> <a href="design-your-image.php">Other Generic
+                                                        Templates </a> <i class="fa-solid fa-arrow-right"></i></td>
                                             </tr>
                                             <tr>
-                                                <td class="text-left">Congratulations<i
-                                                        class="fa-solid fa-arrow-right"></i></td>
-                                                <td class="text-left">Other Generic Templates <i
-                                                        class="fa-solid fa-arrow-right"></i></td>
-                                            </tr>
-                                            <tr>
-                                                <td class="text-left">Family Reunion <i
-                                                        class="fa-solid fa-arrow-right"></i></td>
+                                                <td class="text-left"> <a href="design-your-image.php">Family Reunion
+                                                    </a> <i class="fa-solid fa-arrow-right"></i></td>
                                                 <td class="text-left"></td>
                                             </tr>
                                         </tbody>

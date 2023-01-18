@@ -610,7 +610,11 @@ section.experience-sec .modal-body textarea#exampleFormControlTextarea1 {
 	height: 101px;
 	background: #f9f9f9;
 }
-
+.table-fill td.text-left a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 12px;
+}
 @media (max-width: 1366px) {
 	.all-economy-heading h2 {
 		font-size: 40px;
