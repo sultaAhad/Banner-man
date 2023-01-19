@@ -154,7 +154,7 @@
                                     <input class="form-control" placeholder="Enter email here">
                                 </div>
                                 <div class="col-md-6">
-                                    <label>Phone </label>
+                                    <label>Phone Number </label>
                                     <input class="form-control" placeholder="Enter Phone Number">
                                 </div>
                                 <div class="col-md-12">

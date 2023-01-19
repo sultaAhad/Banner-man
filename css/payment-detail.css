@@ -2,6 +2,14 @@
 	background: #e7f4f9;
 	position: relative;
 }
+.cart-heading h2 {
+	font-size: 40px;
+	margin-bottom: 30px;
+}
+.main_heading12 h2 {
+	font-size: 40px;
+	margin-bottom: 30px;
+}
 .all-cart-form {
 	display: flex;
 	justify-content: center;
@@ -481,10 +489,7 @@ section.checkout .btn {
 	.main_heading h2 {
 		font-size: 18px;
 	}
-	.checkout .container {
-		padding: 60px 18px;
-		margin: 20px;
-	}
+
 	.login span {
 		font-size: 12px;
 	}
@@ -498,6 +503,10 @@ section.checkout .btn {
 	section.checkout .btn {
 		font-size: 11px;
 		padding: 10px 22px;
+	}
+	.main_heading12 h2 {
+		font-size: 40px;
+		margin-bottom: 30px;
 	}
 }
 @media (max-width: 480px) {

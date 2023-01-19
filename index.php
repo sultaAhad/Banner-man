@@ -41,7 +41,7 @@
                     <div class="indoor-banner-main">
                         <h5>Select A Project Below To Begin</h5>
                         <div class="row">
-                            <div class="col-lg-6">
+                            <div class="col-lg-6 col-6">
                                 <div class="indoor-banner">
                                     <div class="click-button">
                                         <img src="img/banner.webp" class="img-fluid" alt="">
@@ -53,7 +53,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6">
+                            <div class="col-lg-6 col-6">
                                 <div class="indoor-banner">
                                     <div class="click-button">
                                         <img src="img/banner.webp" class="img-fluid" alt="">
@@ -67,7 +67,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-lg-6">
+                            <div class="col-lg- col-6">
                                 <div class="indoor-banner">
                                     <div class="click-button">
                                         <img src="img/banner.webp" class="img-fluid" alt="">
@@ -79,7 +79,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6">
+                            <div class="col-lg-6 col-6">
                                 <div class="indoor-banner">
                                     <div class="click-button">
                                         <img src="img/banner.webp" class="img-fluid" alt="">

@@ -31,19 +31,7 @@
                         Elementum facilisis leo vel fringilla est ullamcorper.
                         Sed augue lacus viverra vitae congue. Sed adipiscing diam
                         donec adipiscing. Luctus venenatis lectus magna fringilla urna.
-                        Ullamcorper sit amet risus nullam eget felis eget. At erat
-                        pellentesque adipiscing commodo elit at. Magnis dis
-                        parturient montes nascetur ridiculus mus mauris vitae.
-                        Luctus accumsan tortor posuere ac. Platea dictumst quisque
-                        sagittis purus sit amet. Tortor at risus viverra adipiscing.
-                        Hac habitasse platea dictumst quisque sagittis. Elit ullamcorper
-                        dignissim cras tincidunt lobortis. Tellus pellentesque eu
-                        tincidunt tortor. Cursus metus aliquam eleifend mi in.
-                        Ipsum dolor sit amet consectetur adipiscing elit duis
-                        tristique. Montes nascetur ridiculus mus mauris vitae
-                        ultricies leo integer. Quam elementum pulvinar etiam non quam
-                        lacus suspendisse faucibus interdum. Dapibus ultrices in
-                        iaculis nunc sed augue lacus.</p>
+                        Ullamcorper sit amet risus nullam eget felis eget.</p>
                 </div>
                 <div class="advertising-box">
                     <div class="advertising-box1">
@@ -102,8 +90,7 @@
                             adipiscing diam donec adipiscing. Luctus venenatis lectus magna fringilla urna.
                             Ullamcorper sit amet risus nullam eget felis eget. At erat pellentesque adipiscing
                             commodo elit at
-                            . Magnis dis parturient montes nascetur ridiculus mus mauris vitae.
-                            Luctus accumsan tortor posuere ac.</p>
+                        </p>
                     </div>
                 </div>
             </div>
@@ -124,8 +111,7 @@
                             adipiscing diam donec adipiscing. Luctus venenatis lectus magna fringilla urna.
                             Ullamcorper sit amet risus nullam eget felis eget. At erat pellentesque adipiscing
                             commodo elit at
-                            . Magnis dis parturient montes nascetur ridiculus mus mauris vitae.
-                            Luctus accumsan tortor posuere ac.</p>
+                        </p>
                     </div>
                 </div>
             </div>

@@ -16,12 +16,15 @@ header {
 	color: #f75414;
 	font-size: 29px;
 	font-family: "poppins-Bold";
+	text-transform: math-auto;
 }
 .sign-member-form {
 	padding-top: 23px;
 }
 .register h2 {
 	text-transform: uppercase;
+	margin: 0;
+	line-height: 0.9;
 }
 .welcome-reg.main_heading {
 	padding: 0px 0;
@@ -57,7 +60,10 @@ header {
 	display: flex;
 	align-items: baseline;
 	justify-content: center;
-	padding: 12px 0;
+	padding: 10px 0;
+}
+.welcome-reg.main_heading.forgot-heading span {
+	font-size: 20px;
 }
 .info-btn .btn svg {
 	margin-left: 10px;
@@ -150,7 +156,7 @@ section.register-sec {
 	width: 100%;
 	border-radius: 6px;
 	font-size: 16px;
-	padding: 16px 0px;
+	padding: 10px 0px;
 	background: #08a9e6;
 	border: 0;
 	font-family: "Poppins-Light";

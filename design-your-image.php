@@ -71,12 +71,12 @@
                     </ul>
                     <div class=main-step-wizard>
                         <div class="row">
-                            <div class="col-lg-5">
+                            <div class="col-lg-12">
                                 <div class="tab-content" id="pills-tabContent">
                                     <div class="tab-pane fade show active" id="pills-hidden" role="tabpanel"
                                         aria-labelledby="pills-hidden-tab">
                                         <div class="row">
-                                            <div class="col-lg-12">
+                                            <div class="col-lg-5">
                                                 <div class="tab-headind-main">
                                                     <h4>Custom Products</h4>
                                                     <p>Get started by choosing an option below:</p>
@@ -144,12 +144,23 @@
                                                     </li>
                                                 </ul>
                                             </div>
+                                            <div class="col-lg-7">
+                                                <div class="flag-img">
+                                                    <img src="img/main-walcome-img.webp" class="img-fluid" alt="">
+                                                    <!-- <div class="nex-prev-btn">
+                                                        <button class="prevtab btn btn-success">Save <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                        <button class="nexttab btn btn-success">Preview <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                    </div> -->
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="tab-pane fade" id="pills-home" role="tabpanel"
                                         aria-labelledby="pills-home-tab">
                                         <div class="row">
-                                            <div class="col-lg-12">
+                                            <div class="col-lg-5">
                                                 <div class="col-ting">
                                                     <div class="tab-headind-main">
                                                         <h4>Add an Image To Your Design</h4>
@@ -187,12 +198,23 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            <div class="col-lg-7">
+                                                <div class="flag-img">
+                                                    <img src="img/main-walcome-img.webp" class="img-fluid" alt="">
+                                                    <div class="nex-prev-btn">
+                                                        <button class="prevtab btn btn-success">Save <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                        <button class="nexttab btn btn-success">Preview <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="tab-pane fade" id="pills-profile" role="tabpanel"
                                         aria-labelledby="pills-profile-tab">
                                         <div class="row">
-                                            <div class="col-lg-12">
+                                            <div class="col-lg-5">
                                                 <div class="col-ting">
                                                     <div class="tab-headind-main">
                                                         <form>
@@ -331,12 +353,23 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            <div class="col-lg-7">
+                                                <div class="flag-img">
+                                                    <img src="img/main-walcome-img.webp" class="img-fluid" alt="">
+                                                    <div class="nex-prev-btn">
+                                                        <button class="prevtab btn btn-success">Save <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                        <button class="nexttab btn btn-success">Preview <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="tab-pane fade" id="pills-contact" role="tabpanel"
                                         aria-labelledby="pills-contact-tab">
                                         <div class="row">
-                                            <div class="col-lg-12">
+                                            <div class="col-lg-5">
                                                 <div class="col-ting">
                                                     <div class="tab-headind-main">
                                                         <h4>Add Clipart To Your Design</h4>
@@ -377,12 +410,23 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            <div class="col-lg-7">
+                                                <div class="flag-img">
+                                                    <img src="img/main-walcome-img.webp" class="img-fluid" alt="">
+                                                    <div class="nex-prev-btn">
+                                                        <button class="prevtab btn btn-success">Save <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                        <button class="nexttab btn btn-success">Preview <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="tab-pane fade" id="pills-background" role="tabpanel"
                                         aria-labelledby="pills-background-tab">
                                         <div class="row">
-                                            <div class="col-lg-12">
+                                            <div class="col-lg-5">
                                                 <div class="color-handler">
                                                     <div class="tab-headind-main">
                                                         <h4>Backgrounds</h4>
@@ -431,12 +475,23 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            <div class="col-lg-7">
+                                                <div class="flag-img">
+                                                    <img src="img/main-walcome-img.webp" class="img-fluid" alt="">
+                                                    <div class="nex-prev-btn">
+                                                        <button class="prevtab btn btn-success">Save <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                        <button class="nexttab btn btn-success">Preview <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="tab-pane fade" id="pills-final" role="tabpanel"
                                         aria-labelledby="pills-final-tab">
                                         <div class="row">
-                                            <div class="col-lg-12">
+                                            <div class="col-lg-5">
                                                 <div class="col-ting">
                                                     <div class="tab-headind-main">
                                                         <h4>Banner Preview</h4>
@@ -488,23 +543,26 @@
                                                         </button>
                                                     </li>
                                                     <li>
-                                                        <button class="nav-link-final">Add To Cart <span><i
-                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                        <a href="view-cart.php"> <button class="nav-link-final">Add To
+                                                                Cart <span><i
+                                                                        class="fa-solid fa-arrow-right"></i></span></button>
+                                                        </a>
+
                                                     </li>
                                                 </ul>
                                             </div>
+                                            <div class="col-lg-7">
+                                                <div class="flag-img">
+                                                    <img src="img/main-walcome-img.webp" class="img-fluid" alt="">
+                                                    <!-- <div class="nex-prev-btn">
+                                                        <button class="prevtab btn btn-success">Save <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                        <button class="nexttab btn btn-success">Preview <span><i
+                                                                    class="fa-solid fa-arrow-right"></i></span></button>
+                                                    </div> -->
+                                                </div>
+                                            </div>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-7">
-                                <div class="flag-img">
-                                    <img src="img/main-walcome-img.webp" class="img-fluid" alt="">
-                                    <div class="nex-prev-btn">
-                                        <button class="prevtab btn btn-success">Save <span><i
-                                                    class="fa-solid fa-arrow-right"></i></span></button>
-                                        <button class="nexttab btn btn-success">Preview <span><i
-                                                    class="fa-solid fa-arrow-right"></i></span></button>
                                     </div>
                                 </div>
                             </div>

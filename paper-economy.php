@@ -181,7 +181,7 @@
                             <h2>Option 01:
                                 <span>Upload Banner</span>
                             </h2>
-                            <p>Upload the banners (webp, JPG, GIF, BMP, TIF and PDF)</p>
+                            <p>Upload the banners (PNG, JPG, GIF, BMP, TIF and PDF)</p>
                             <div class="upload-box">
                                 <label for="abc">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="25.679" height="25.679"
@@ -302,10 +302,7 @@
                     </div> -->
                                 <div class="mission-info">
                                     <p>Ornare arcu dui vivamus arcu felis bibendum ut tristique. Elementum facilisis
-                                        leo vel fringilla est ullamcorper. Sed augue lacus viverra vitae congue. Sed
-                                        adipiscing diam donec adipiscing. Luctus venenatis lectus magna fringilla urna.
-                                        Ullamcorper sit amet risus nullam eget felis eget. At erat pellentesque
-                                        adipiscing
+                                        leo vel fringilla est ullamcorper. Sed
                                     </p>
                                 </div>
                                 <div class="steptwo-btn experience-man">

@@ -111,6 +111,7 @@ section.profile-sec .nav-tabs .nav-link {
 	font-family: "Poppins-Regular";
 	font-size: 15px;
 	color: #081a55;
+	margin: 0;
 }
 .change-password a {
 	font-family: "Poppins-Medium";

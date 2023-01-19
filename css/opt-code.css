@@ -61,6 +61,8 @@ section.register-sec {
 	font-family: "Brinnan-Bold";
 	font-size: 50px;
 	color: #012532;
+	margin: 0;
+	line-height: 0.8;
 }
 .welcome-reg.main_heading {
 	padding: 10px 0;
@@ -138,8 +140,8 @@ section.register-sec {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	padding: 14px 0;
-	width: 107%;
+	padding: 10px 4px;
+	width: 127%;
 }
 .info-btn2 .btn svg {
 	margin-left: 10px;

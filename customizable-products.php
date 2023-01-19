@@ -82,7 +82,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -94,7 +94,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -106,7 +106,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -118,7 +118,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -151,7 +151,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -163,7 +163,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -175,7 +175,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -187,7 +187,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -220,7 +220,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -232,7 +232,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -244,7 +244,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -256,7 +256,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -289,7 +289,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -301,7 +301,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -313,7 +313,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -325,7 +325,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -358,7 +358,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -370,7 +370,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -382,7 +382,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -394,7 +394,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -427,7 +427,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -439,7 +439,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -451,7 +451,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -463,7 +463,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -496,7 +496,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -508,7 +508,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -520,7 +520,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -532,7 +532,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -565,7 +565,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -577,7 +577,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -589,7 +589,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -601,7 +601,7 @@
                                                 <div class="add-this">
                                                     <a href="profile.php">
                                                         <div class="favorite">
-                                                            <span>Add To Favourate <i
+                                                            <span>Add To Favourite <i
                                                                     class="fa-solid fa-arrow-right"></i>
                                                             </span>
                                                         </div>
@@ -647,7 +647,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -658,7 +658,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -669,7 +669,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -680,7 +680,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -712,7 +712,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -723,7 +723,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -734,7 +734,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -745,7 +745,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -777,7 +777,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -788,7 +788,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -799,7 +799,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -810,7 +810,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -842,7 +842,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -853,7 +853,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -864,7 +864,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -875,7 +875,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -919,7 +919,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -930,7 +930,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -941,7 +941,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -952,7 +952,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -985,7 +985,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -996,7 +996,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -1007,7 +1007,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -1018,7 +1018,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -1050,7 +1050,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -1061,7 +1061,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -1072,7 +1072,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -1083,7 +1083,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -1126,7 +1126,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -1137,7 +1137,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -1148,7 +1148,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>
@@ -1159,7 +1159,7 @@
                                             <div class="add-this">
                                                 <a href="profile.php">
                                                     <div class="favorite">
-                                                        <span>Add To Favourate <i class="fa-solid fa-arrow-right"></i>
+                                                        <span>Add To Favourite <i class="fa-solid fa-arrow-right"></i>
                                                         </span>
                                                     </div>
                                                 </a>

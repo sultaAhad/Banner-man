@@ -6,6 +6,12 @@
 
 <section class="checkout">
     <div class="container">
+        <div class="cart-heading">
+            <div class="main_heading main_heading12">
+                <h6>Your Superhero For Banners And Signs</h6>
+                <h2>Checkout</h2>
+            </div>
+        </div>
         <form action="thank-you.php">
             <div class="all-cart-forms">
                 <div class="top-heading">

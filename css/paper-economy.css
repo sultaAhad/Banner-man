@@ -617,7 +617,7 @@ section.experience-sec .modal-body textarea#exampleFormControlTextarea1 {
 }
 @media (max-width: 1366px) {
 	.all-economy-heading h2 {
-		font-size: 40px;
+		font-size: 35px;
 		margin: 0;
 	}
 	select.form-select {
@@ -626,8 +626,11 @@ section.experience-sec .modal-body textarea#exampleFormControlTextarea1 {
 	.qty-select {
 		gap: 14px;
 	}
+	.table-fill td.text-left a {
+		font-size: 11px;
+	}
 	.side-heading h2 {
-		font-size: 14px;
+		font-size: 13px;
 	}
 	.table-fill td {
 		font-size: 11px;
@@ -667,10 +670,11 @@ section.experience-sec .modal-body textarea#exampleFormControlTextarea1 {
 		padding: 45px 120px !important;
 	}
 	.misson-box h2 {
-		font-size: 31px;
+		font-size: 28px;
 	}
 	.mission-info p {
-		font-size: 11px;
+		font-size: 14px;
+		margin-bottom: 13px;
 	}
 	.steptwo-btn .btn {
 		width: 165px;

@@ -615,14 +615,14 @@ section.Banner-main {
 }
 .card-wrapper h5 {
 	color: #fff;
-	font-size: 11px;
+	font-size: 10px;
 	font-family: "Brinnan-Bold";
 	margin: 0;
 }
 .card-wrapper {
 	background: #081a55;
 	border-radius: 10px 10px 0px 0px;
-	padding: 14px 20px;
+	padding: 14px 0px 14px 20px;
 	width: 80%;
 	text-align: start;
 }
@@ -1149,14 +1149,32 @@ footer p {
 }
 @media (max-width: 1366px) {
 	.product h4 {
-		font-size: 40px !important;
+		font-size: 35px;
 	}
-	.headingbillboard h5 {
-		font-size: 14px;
+	.testemonial-about-us.text-center h4 {
+		font-size: 35px;
+	}
+	.show-testimonial1 {
+		bottom: 119px;
+		right: 130px;
+	}
+	.show-testimonial2 {
+		position: absolute;
+		right: 468px;
+		top: 250px;
+	}
+	.card-wrapper h5 {
+		font-size: 9px;
+	}
+	.banner-heading h2 {
+		font-size: 45px;
 	}
 	.banner-large-heading h1 {
-		font-size: 50px;
+		font-size: 69px;
+		line-height: 0.5;
+		margin-bottom: 40px;
 	}
+
 	.main_heading1 h2.cssanimation.leRotateYZoomIn.random1 {
 		color: #081a55;
 		font-size: 50px;
@@ -1396,10 +1414,18 @@ footer p {
 		text-align: center;
 	}
 }
-@media (max-width: 360px) {
+@media (max-width: 575px) {
 	.heading-top {
 		text-align: center;
 		margin-left: unset;
+	}
+	.btn i.fa-solid.fa-arrow-right {
+		margin-left: 9px;
+		font-size: 9px;
+	}
+	.btn {
+		padding: 10px 5px;
+		font-size: 9px;
 	}
 	.social-icon ul {
 		display: flex;
@@ -1453,22 +1479,17 @@ footer p {
 		font-size: 10px;
 	}
 	.left-to-right {
-		background: #081a55;
-		height: 30px;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		overflow: hidden;
-		width: 150%;
-		position: absolute;
-		left: -170px;
+		left: -40px;
 		top: 60px;
 	}
 	.marquee-slider .m-slides {
 		font-size: 13px;
 	}
 	section.Banner-main {
-		padding: 160px 0 80px;
+		padding: 160px 0 20px;
+	}
+	.indoor-button h6 {
+		font-size: 9px;
 	}
 	.banner-small-heading img {
 		margin-right: 0px;
@@ -1543,6 +1564,12 @@ footer p {
 		top: 111px;
 		z-index: 999;
 	}
+	.headingbillboard img.img-fluid {
+		width: 135px;
+	}
+	.left-to-right {
+		height: 38px;
+	}
 	.main-top-navbar {
 		background: #08a9e6;
 		height: unset;
@@ -1553,8 +1580,15 @@ footer p {
 		width: 100%;
 		z-index: 999;
 	}
+	.many-slider1 {
+		margin-top: 20px;
+	}
+	.show-testimonial1 {
+		bottom: 38px;
+		right: 150px;
+	}
 	.for-logo.aos-init.aos-animate {
-		margin-top: 118px;
+		margin-top: 57px;
 	}
 	.headingbillboard {
 		top: -1px;
