@@ -2,16 +2,6 @@
 <script src="js/jquery.min.js"></script>
 <!-- Jquery JS-->
 
-<!-- boostrap js -->
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
-    integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous">
-</script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
-    integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
-</script>
-
-<!-- boostrap js -->
-
 <!-- index bootstrap js -->
 <script src="js/index.js"></script>
 <script src="js/bootstrap.min.js"></script>
@@ -302,8 +292,6 @@ $('.slidermacho').slick({
         // instead of a settings object
     ]
 })
-// BY KAREN GRIGORYAN
-
 $(document).ready(function() {
     /******************************
         BOTTOM SCROLL TOP BUTTON
@@ -490,39 +478,6 @@ function increaseValue(button, limit) {
     numberInput.innerHTML = value + 1;
 }
 
-
-
-// Prev
-// $('.prevtab').on('click', function() {
-//     for (i = 0; i < items.length; i++) {
-//         if ($(items[i]).hasClass('active') == true) {
-//             break;
-//         }
-//     }
-//     if (i != 0) {
-//         // for tab
-//         $(items[i]).removeClass('active');
-//         $(items[i - 1]).addClass('active');
-//         // for pane
-//         $(pane[i]).removeClass('show active');
-//         $(pane[i - 1]).addClass('show active');
-//     }
-// });
-
-// bootstrapTabControl();
-// upload input
-// $('#fakeInput').change(function() {
-//     var a = $('#fakeInput').val().toString().split('\\');
-//     $('#fakeInput').val(a[a.length - 1]);
-// });
-// add active
-// $(document).ready(function() {
-//     $(".tab").click(function() {
-//         $(".tab").removeClass("active");
-//         $(".tab").addClass("active");
-//     });
-// });
-// range
 function rangeSlide(value) {
     document.getElementById('rangeValue').innerHTML = value;
 }

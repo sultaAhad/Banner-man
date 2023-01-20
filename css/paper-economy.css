@@ -351,6 +351,9 @@ section.experience-sec .modal-headere {
 .stars__checkbox:checked ~ .stars__star > .stars__star-icon {
 	fill: #efce4a;
 }
+.all-review {
+	padding: 0 20px 0px 0px;
+}
 .rating-review-star {
 	display: flex;
 	align-items: flex-start;
@@ -377,7 +380,7 @@ button.btn-close {
 	text-align: left;
 }
 .modal-dialog {
-	max-width: 864px !important;
+	max-width: 1044px !important;
 }
 .client-review-box {
 	background-color: #081a55;

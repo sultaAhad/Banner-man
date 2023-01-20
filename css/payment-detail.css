@@ -10,6 +10,10 @@
 	font-size: 40px;
 	margin-bottom: 30px;
 }
+.main_heading12 h2 {
+	font-size: 40px !important;
+	margin-bottom: 30px;
+}
 .all-cart-form {
 	display: flex;
 	justify-content: center;

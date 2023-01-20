@@ -35,21 +35,21 @@
                     </p>
                 </div>
                 <div class="faq-box">
-                    <div class="accordion accordion-flush" id="accordionFlushExample">
+                    <div class="accordion " id="accordionExample">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="accordion-item faq-card">
-                                    <h2 class="accordion-header" id="flush-headingOne">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseOne"
-                                            aria-expanded="false" aria-controls="flush-collapseOne">
+                                    <h2 class="accordion-header" id="headingOne">
+                                        <button class="accordion-button collapsed " type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                                            aria-expanded="false" aria-controls="collapseOne">
                                             <div class="faq1">
                                                 Ornare arcu dui vivamus arcu feliUlldjhsa ?
                                             </div>
                                         </button>
                                     </h2>
-                                    <div id="flush-collapseOne" class="accordion-collapse collapse"
-                                        aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                    <div id="collapseOne" class="accordion-collapse collapse "
+                                        aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id delectus
                                                 fugit
@@ -62,17 +62,17 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item faq-card">
-                                    <h2 class="accordion-header" id="flush-headingTwo">
+                                    <h2 class="accordion-header" id="headingTwo">
                                         <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo"
-                                            aria-expanded="false" aria-controls="flush-collapseTwo">
+                                            data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                            aria-expanded="false" aria-controls="collapseTwo">
                                             <div class="faq1">
                                                 Ornare arcu dui vivamus arcu feliUlldjhsa ?
                                             </div>
                                         </button>
                                     </h2>
-                                    <div id="flush-collapseTwo" class="accordion-collapse collapse"
-                                        aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                                    <div id="collapseTwo" class="accordion-collapse collapse"
+                                        aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore,
                                                 consequuntur
@@ -86,17 +86,17 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item faq-card">
-                                    <h2 class="accordion-header" id="flush-headingThree">
+                                    <h2 class="accordion-header" id="headingThree">
                                         <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseThree"
-                                            aria-expanded="false" aria-controls="flush-collapseThree">
+                                            data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                            aria-expanded="false" aria-controls="collapseThree">
                                             <div class="faq1">
                                                 Ornare arcu dui vivamus arcu feliUlldjhsa ?
                                             </div>
                                         </button>
                                     </h2>
-                                    <div id="flush-collapseThree" class="accordion-collapse collapse"
-                                        aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                                    <div id="collapseThree" class="accordion-collapse collapse"
+                                        aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore,
                                                 consequuntur!
@@ -109,17 +109,17 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item faq-card">
-                                    <h2 class="accordion-header" id="flush-headingfour">
+                                    <h2 class="accordion-header" id="headingfour">
                                         <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapsefour"
-                                            aria-expanded="false" aria-controls="flush-collapsefour">
+                                            data-bs-toggle="collapse" data-bs-target="#collapsefour"
+                                            aria-expanded="false" aria-controls="collapsefour">
                                             <div class="faq1">
                                                 Ornare arcu dui vivamus arcu feliUlldjhsa ?
                                             </div>
                                         </button>
                                     </h2>
-                                    <div id="flush-collapsefour" class="accordion-collapse collapse"
-                                        aria-labelledby="flush-headingfour" data-bs-parent="#accordionFlushExample">
+                                    <div id="collapsefour" class="accordion-collapse collapse"
+                                        aria-labelledby="headingfour" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
                                                 ducimus
@@ -134,17 +134,17 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="accordion-item faq-card">
-                                    <h2 class="accordion-header" id="flush-headingOnes">
+                                    <h2 class="accordion-header" id="headingOnes">
                                         <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseOnes"
-                                            aria-expanded="false" aria-controls="flush-collapseOnes">
+                                            data-bs-toggle="collapse" data-bs-target="#collapseOnes"
+                                            aria-expanded="false" aria-controls="collapseOnes">
                                             <div class="faq1">
                                                 Ornare arcu dui vivamus arcu feliUlldjhsa ?
                                             </div>
                                         </button>
                                     </h2>
-                                    <div id="flush-collapseOnes" class="accordion-collapse collapse"
-                                        aria-labelledby="flush-headingOnes" data-bs-parent="#accordionFlushExample">
+                                    <div id="collapseOnes" class="accordion-collapse collapse"
+                                        aria-labelledby="headingOnes" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id delectus
                                                 fugit
@@ -157,17 +157,17 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item faq-card">
-                                    <h2 class="accordion-header" id="flush-headingTwos">
+                                    <h2 class="accordion-header" id="headingTwos">
                                         <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseTwos"
-                                            aria-expanded="false" aria-controls="flush-collapseTwos">
+                                            data-bs-toggle="collapse" data-bs-target="#collapseTwos"
+                                            aria-expanded="false" aria-controls="collapseTwos">
                                             <div class="faq1">
                                                 Ornare arcu dui vivamus arcu feliUlldjhsa ?
                                             </div>
                                         </button>
                                     </h2>
-                                    <div id="flush-collapseTwos" class="accordion-collapse collapse"
-                                        aria-labelledby="flush-headingTwos" data-bs-parent="#accordionFlushExample">
+                                    <div id="collapseTwos" class="accordion-collapse collapse"
+                                        aria-labelledby="headingTwos" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore,
                                                 consequuntur
@@ -181,17 +181,17 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item faq-card">
-                                    <h2 class="accordion-header" id="flush-headingThrees">
+                                    <h2 class="accordion-header" id="headingThrees">
                                         <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseThrees"
-                                            aria-expanded="false" aria-controls="flush-collapseThrees">
+                                            data-bs-toggle="collapse" data-bs-target="#collapseThrees"
+                                            aria-expanded="false" aria-controls="collapseThrees">
                                             <div class="faq1">
                                                 Ornare arcu dui vivamus arcu feliUlldjhsa ?
                                             </div>
                                         </button>
                                     </h2>
-                                    <div id="flush-collapseThrees" class="accordion-collapse collapse"
-                                        aria-labelledby="flush-headingThrees" data-bs-parent="#accordionFlushExample">
+                                    <div id="collapseThrees" class="accordion-collapse collapse"
+                                        aria-labelledby="headingThrees" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore,
                                                 consequuntur!
@@ -204,17 +204,17 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item faq-card">
-                                    <h2 class="accordion-header" id="flush-headingfours">
+                                    <h2 class="accordion-header" id="headingfours">
                                         <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapsefours"
-                                            aria-expanded="false" aria-controls="flush-collapsefours">
+                                            data-bs-toggle="collapse" data-bs-target="#collapsefours"
+                                            aria-expanded="false" aria-controls="collapsefours">
                                             <div class="faq1">
                                                 Ornare arcu dui vivamus arcu feliUlldjhsa ?
                                             </div>
                                         </button>
                                     </h2>
-                                    <div id="flush-collapsefours" class="accordion-collapse collapse"
-                                        aria-labelledby="flush-headingfours" data-bs-parent="#accordionFlushExample">
+                                    <div id="collapsefours" class="accordion-collapse collapse"
+                                        aria-labelledby="headingfours" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
                                                 ducimus
@@ -228,8 +228,6 @@
                                 </div>
                             </div>
                         </div>
-
-
                     </div>
                 </div>
             </div>

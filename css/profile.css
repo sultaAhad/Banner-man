@@ -119,6 +119,9 @@ section.profile-sec .nav-tabs .nav-link {
 	color: #08a9e6;
 	margin-left: 10px;
 	text-decoration: underline;
+	position: relative;
+	top: -7px;
+	left: 10px;
 }
 .upload-btn-wrapper {
 	text-align: center;
