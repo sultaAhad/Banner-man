@@ -618,6 +618,18 @@ section.experience-sec .modal-body textarea#exampleFormControlTextarea1 {
 	color: #fff;
 	font-size: 12px;
 }
+.side-heading .main_heading h2 span {
+	font-family: "poppins-Bold";
+	margin-left: 5px;
+}
+.side-heading .main_heading h2 {
+	font-family: "poppins-Light";
+	margin-bottom: 2px;
+}
+.row.experience {
+	display: flex;
+	align-items: center;
+}
 @media (max-width: 1440px) {
 	.all-economy-heading h2 {
 		font-size: 38px;
@@ -724,7 +736,7 @@ section.experience-sec .modal-body textarea#exampleFormControlTextarea1 {
 		font-size: 11px;
 	}
 	.side-heading h2 {
-		font-size: 13px;
+		font-size: 14px;
 	}
 	.table-fill td {
 		font-size: 11px;
@@ -801,7 +813,7 @@ section.experience-sec .modal-body textarea#exampleFormControlTextarea1 {
 		font-size: 11px;
 	}
 	.side-heading h2 {
-		font-size: 13px;
+		font-size: 14px;
 	}
 	.table-fill td {
 		font-size: 11px;

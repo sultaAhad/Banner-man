@@ -281,6 +281,7 @@
                                                                         <span>Bring Forward</span> </a>
                                                                 </label>
                                                                 <div class="justify">
+                                                                    <h6>Justify</h6>
                                                                     <button><img src="img/justify.webp" alt=""></button>
                                                                     <button><img src="img/justify1.webp"
                                                                             alt=""></button>

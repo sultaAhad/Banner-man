@@ -225,7 +225,8 @@ $('.slider').slick({
 });
 $('.row.main-slider').slick({
     dots: false,
-    infinite: true,
+    autoplay: true,
+    infinite: false,
     arrows: false,
     speed: 300,
     slidesToShow: 4,
