@@ -12,11 +12,11 @@
                     </div>
                     <div class="zoominout-wrapper">
                         <div class="main_heading1">
-                            <h2 class="cssanimation leRotateYZoomIn ">Terms &
+                            <h2 class="cssanimation leRotateYZoomIn random1 ">Terms &
                             </h2>
                         </div>
                         <div class="main_heading2">
-                            <h1 class="cssanimation leRotateYZoomIn ">Conditions
+                            <h1 class="cssanimation leRotateYZoomIn random1 ">Conditions
                             </h1>
                         </div>
                     </div>
