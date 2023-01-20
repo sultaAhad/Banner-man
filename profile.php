@@ -27,7 +27,7 @@
                     </li>
                     <li class="nav-item" role="presentation">
                         <a class="nav-link" id="Payment-tab" data-bs-toggle="tab" href="#Payment" role="tab"
-                            type="button" aria-controls="Payment" aria-selected="false">My Favorates</a>
+                            type="button" aria-controls="Payment" aria-selected="false">My Favourite</a>
                     </li>
                 </ul>
             </div>
