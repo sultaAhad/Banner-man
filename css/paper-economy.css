@@ -618,6 +618,168 @@ section.experience-sec .modal-body textarea#exampleFormControlTextarea1 {
 	color: #fff;
 	font-size: 12px;
 }
+@media (max-width: 1440px) {
+	.all-economy-heading h2 {
+		font-size: 38px;
+		margin: 0;
+		/* line-height: 3rem; */
+	}
+	.side-heading h2 {
+		font-size: 14px;
+		margin: 0;
+		/* line-height: 22px; */
+	}
+	.all-economy-heading h2 {
+		font-size: 35px;
+		margin: 0;
+	}
+	select.form-select {
+		width: 223px;
+	}
+	.qty-select {
+		gap: 14px;
+	}
+	.table-fill td.text-left a {
+		font-size: 11px;
+	}
+	.side-heading h2 {
+		font-size: 13px;
+	}
+	.table-fill td {
+		font-size: 11px;
+	}
+	.table-fill {
+		width: 70%;
+	}
+	.remmeber-this .new .form-group label {
+		font-size: 11px;
+	}
+	.all-select-side {
+		display: flex;
+		gap: 31px;
+		justify-content: center;
+		padding: 0px 10px;
+	}
+	p {
+		font-size: 13px;
+	}
+	.qty-select select.form-select {
+		width: 96%;
+	}
+	.qty-select select.form-select {
+		width: 98%;
+	}
+	.step-btn {
+		text-align: right;
+		width: 98%;
+		padding: 10px 0;
+	}
+	.info-side h2 {
+		font-size: 20px;
+		line-height: 1;
+	}
+	.option .btn {
+		background: #08a9e6;
+		font-size: 11px;
+		border: 0;
+		padding: 14px 40px;
+		border-radius: 5px;
+	}
+	.upload-box label {
+		padding: 45px 120px !important;
+	}
+	.misson-box h2 {
+		font-size: 28px;
+	}
+	.mission-info p {
+		font-size: 14px;
+		margin-bottom: 13px;
+	}
+	.steptwo-btn .btn {
+		width: 165px;
+	}
+}
+@media (max-width: 1399px) {
+	.all-economy-heading h2 {
+		font-size: 38px;
+		margin: 0;
+		/* line-height: 3rem; */
+	}
+	.side-heading h2 {
+		font-size: 14px;
+		margin: 0;
+		/* line-height: 22px; */
+	}
+	.all-economy-heading h2 {
+		font-size: 35px;
+		margin: 0;
+	}
+	select.form-select {
+		width: 178px;
+	}
+	.qty-select {
+		gap: 14px;
+	}
+	.table-fill td.text-left a {
+		font-size: 11px;
+	}
+	.side-heading h2 {
+		font-size: 13px;
+	}
+	.table-fill td {
+		font-size: 11px;
+	}
+	.table-fill {
+		width: 60%;
+	}
+	.remmeber-this .new .form-group label {
+		font-size: 11px;
+	}
+	.all-select-side {
+		display: flex;
+		gap: 31px;
+		justify-content: center;
+		padding: 0px 10px;
+	}
+	p {
+		font-size: 13px;
+	}
+	.qty-select select.form-select {
+		width: 96%;
+	}
+	.qty-select select.form-select {
+		width: 98%;
+	}
+	.step-btn {
+		text-align: right;
+		width: 98%;
+		padding: 10px 0;
+	}
+	.info-side h2 {
+		font-size: 20px;
+		line-height: 1;
+	}
+	.option .btn {
+		background: #08a9e6;
+		font-size: 11px;
+		border: 0;
+		padding: 14px 40px;
+		border-radius: 5px;
+	}
+	.upload-box label {
+		padding: 45px 120px !important;
+	}
+	.misson-box h2 {
+		font-size: 28px;
+	}
+	.mission-info p {
+		font-size: 14px;
+		margin-bottom: 13px;
+	}
+	.steptwo-btn .btn {
+		width: 165px;
+	}
+}
 @media (max-width: 1366px) {
 	.all-economy-heading h2 {
 		font-size: 35px;
@@ -625,6 +787,12 @@ section.experience-sec .modal-body textarea#exampleFormControlTextarea1 {
 	}
 	select.form-select {
 		width: 180px;
+	}
+	.all-select-side {
+		display: flex;
+		gap: 31px;
+		justify-content: center;
+		padding: 0px 0px;
 	}
 	.qty-select {
 		gap: 14px;

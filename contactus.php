@@ -150,7 +150,7 @@
                                     <input class="form-control" placeholder="Enter last name">
                                 </div>
                                 <div class="col-md-6">
-                                    <label for="inputPassword2">Email address</label>
+                                    <label for="inputPassword2">Email Address</label>
                                     <input class="form-control" placeholder="Enter email here">
                                 </div>
                                 <div class="col-md-6">
