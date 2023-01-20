@@ -182,6 +182,9 @@ function animateRandom() {
         }
         randLetter = randLetter.join("");
         $this.innerHTML = randLetter;
+        $this.innerHTML = randLetter;
+        console.log(randLetter)
+
     }
 }
 
