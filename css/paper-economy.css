@@ -132,10 +132,10 @@ section.paper-economy {
 	padding-right: 20px;
 }
 .all-box-content.all-box-content1 {
-	padding: 50px 0 50px 50px !important;
-	display: flex;
-	align-items: end;
-	justify-content: space-between;
+    padding: 33px 0 50px 50px !important;
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
 }
 .info-side.info-side-wrapper {
 	height: unset !important;
@@ -189,9 +189,9 @@ select.form-select {
 	width: 198px;
 }
 .info-side {
-	display: flex;
-	align-items: center;
-	height: 130px;
+    display: flex;
+    align-items: center;
+    height: 113px;
 }
 .select-side {
 	display: flex;

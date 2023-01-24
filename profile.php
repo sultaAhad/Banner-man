@@ -681,7 +681,7 @@
                                 <div class="order-details">
                                     <div class="order-details-wrapper mt-5">
                                         <h6><span>Sub Total :</span> <span class="date">$ 147.00</span></h6>
-                                        <h6><span>Disscount Code Applied :</span> <span class="subtotal">-$ 14.00</span></h6>
+                                        <h6><span>Discount Code Applied :</span> <span class="subtotal">-$ 14.00</span></h6>
                                         <h6><span>Shipping Cost :</span> <span class="tax-fee">$ 69.00</span></h6>
                                         <h6><span>Shipping Address:</span> <span class="shipping-fee">Lorem ipsum dolr sit</span></h6>
                                         <h6><span>Total Amount :</span> <span class="Coupon">$ 150.00</span></h6>

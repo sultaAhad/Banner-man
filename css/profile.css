@@ -477,13 +477,13 @@ h4.change-p-heading {
     
 } */
 .table-wrapper .table thead tr th {
-	border-bottom: none;
-	border-top: none;
-	text-align: center;
-	padding: 14px 0px;
-	font-size: 18px;
-	color: #081a55;
-	font-family: "Brinnan-Bold";
+    border-bottom: none;
+    border-top: none;
+    text-align: center;
+    padding: 14px 0px 0px 0px;
+    font-size: 18px;
+    color: #081a55;
+    font-family: "Brinnan-Bold";
 }
 .table-wrapper .table tbody tr th {
 	text-align: center;
