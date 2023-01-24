@@ -649,3 +649,211 @@ a.page-link.active {
 		right: 39px;
 	}
 }
+
+/* modal css starts here */
+.profile-row button.close span {
+    color: #1aac7a;
+  }
+  .profile .modal-dialog {
+    max-width: 41%;
+  }
+  .close {
+    opacity: 1;
+  }
+  .order-modal .close {
+    margin: 0;
+  }
+  .order-modal {
+    text-align: center;
+    padding: 20px 11px;
+    border-bottom: 1px solid #e9efea;
+  }
+  .order-num {
+    font-size: 43px;
+    font-family: "GT Walsheim Pro Regular";
+    color: #1aac7a;
+  }
+  .order-modal h6 {
+    color: #274d5e;
+    font-family: "GT Walsheim Pro Regular";
+    font-size: 37px;
+    font-weight: 400;
+  }
+  .order-modal button.btn-close {
+    position: absolute;
+    top: 15px;
+    right: 11px;
+}
+  .order-modal h6 {
+    font-size: 13px;
+    font-family: "GT Walsheim Pro Regular";
+    color: #274d5e;
+    margin-top: 28px;
+    font-weight: 400;
+  }
+  .modal-title {
+    color: #274d5e;
+    font-family: "GT Walsheim Pro black";
+    font-size: 27px;
+    font-weight: 500;
+  }
+  .product-deatail-wrapper {
+    padding: 0px 30px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+  }
+  .modal-open .modal {
+    overflow: scroll !important;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none;
+  }
+  .modal-open .modal::-webkit-scrollbar {
+    display: none;
+  }
+  .product-img {
+    flex: 2;
+  }
+  .product-content {
+    flex: 5;
+  }
+  .product-price {
+    flex: 1;
+  }
+  /* .profile .modal-body h6 {
+    color: #1aac7a;
+    font-family: "GT Walsheim Pro Regular";
+    font-size: 20px;
+  } */
+  h6.product-price {
+    font-size: 21px;
+    font-weight: 600;
+  }
+  h6.product-size {
+    color: #1f2c35 !important;
+    font-weight: 400;
+    font-size: 14px !important;
+    margin: 0;
+}
+  h5.product-name {
+    font-size: 16px;
+    color: #274d5e;
+    font-family: "GT Walsheim Pro black";
+    font-weight: 500;
+	margin: 0;
+  }
+  .product-deatail-wrapper h4{
+    font-size: 16px;
+    font-family: "GT Walsheim Pro black";
+    font-size: 14px;
+    color: #274d5e;
+    font-weight: 400;
+  }
+  .product-deatail-wrapper small {
+    color: #8a9397;
+    font-family: "GT Walsheim Pro black";
+    font-size: 10px;
+  }
+  .product-deatail-wrapper {
+    border: 1px solid #d7e6db;
+    border-radius: 10px;
+    padding: 7px;
+  }
+  .product-img {
+    text-align: center;
+    margin-right: 10px;
+}
+  .product-img figure {
+    margin: 0px;
+  }
+  /* .product-img figure img {
+    background: #1aac7a;
+    padding: 7px;
+    border-radius: 10px;
+  } */
+  .product-deatail-wrapper {
+    margin: 20px auto !important;
+    width: 90%;
+    box-shadow: 3px 3px 10px 1px #00000024;
+  }
+  .order-details-wrapper {
+    padding: 0px 32px;
+  }
+  .order-details-wrapper h6 {
+    display: flex;
+    justify-content: space-between;
+    color: #274d5e !important;
+    font-size: 17px !important;
+    font-weight: 500;
+    line-height: 2.5;
+  }
+  .order-details-wrapper {
+    padding: 0px 40px;
+  }
+  .order-details-btns{
+	color: #08a9e6;
+	font-size: 14px;
+	font-family: "poppins-Bold";
+	text-decoration: underline;
+	text-transform: capitalize;
+	background-color: transparent;
+	border: 0;
+  }
+
+  /* responsive starts here */
+  @media (max-width: 1345px) {
+    .profile .modal-dialog {
+      max-width: 51% !important;
+    }
+  }
+  @media (max-width: 1130px) {
+    .profile .modal-dialog {
+      max-width: 61% !important;
+    }
+  }
+  @media (max-width: 936px) {
+    .profile .modal-dialog {
+      max-width: 71% !important;
+    }
+  }
+  @media (max-width: 822px) {
+    .profile .modal-dialog {
+      max-width: 81% !important;
+    }
+  }
+  @media (max-width: 758px) {
+    .product-deatail-wrapper {
+      flex-direction: column;
+      align-items: center;
+    }
+    .product-deatail-wrapper.active {
+      border-right: none;
+      border-bottom: 3px solid #1aac7a;
+      margin: 10px 0px;
+    }
+    .about-personal-information {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+  }
+  @media (max-width: 563px) {
+    .profile .modal-dialog {
+      max-width: 81% !important;
+      margin: 30px auto;
+    }
+    .order-details-wrapper h6 {
+      display: inline-block;
+    }
+    .order-details-wrapper {
+      padding: 0px 52px;
+      text-align: center;
+    }
+    .about-personal-information {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+  }
+  /* responsive ends here */
+  /* modal css ends here */
