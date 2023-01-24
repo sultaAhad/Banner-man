@@ -246,3 +246,19 @@ section.newsletter-sec {
 		font-size: 11px !important;
 	}
 }
+a.twitter-box .fa-brands {
+    color: #081a55;
+    font-size: 12px;
+}
+
+a.twitter-box {
+    background: white;
+    border-radius: 17px;
+    padding: 0px 4px;
+    text-align: center;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    height: 2px;
+    width: 6px;
+}

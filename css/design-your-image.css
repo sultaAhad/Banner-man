@@ -711,7 +711,7 @@ button#pills-final-tab {
 		font-size: 14px;
 	}
 	.tab-headind-main h4 {
-		font-family: "Montserrat-SemiBold";
+		/* font-family: "Montserrat-SemiBold"; */
 		font-size: 25px;
 		color: #081a55;
 	}
