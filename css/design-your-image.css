@@ -739,3 +739,38 @@ button#pills-final-tab {
 		/* object-fit: cover; */
 	}
 }
+@media (max-width: 800px) {
+	.main-step-wizard {
+		height: unset;
+	}
+}
+@media (max-width: 575px) {
+	.img-design {
+		width: 100%;
+	}
+	.img-design li.nav-item {
+		width: 25%;
+	}
+	.img-design li.nav-item button.nav-link {
+		width: 100%;
+	}
+	.img-design .deisgn h5 {
+		font-size: 10px;
+	}
+	.img-design {
+		padding-top: 23px;
+	}
+	
+	.flag-img {
+		border: 0;
+		padding: 0;
+		margin: 0;
+		height: unset;
+	}
+	.main-step-wizard {
+		background: #eef7fb;
+		border-radius: 20px;
+		padding: 50px 40px;
+		height: unset;
+	}
+}

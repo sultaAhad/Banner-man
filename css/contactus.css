@@ -221,6 +221,26 @@ section.newsletter-sec {
 		font-size: 12px;
 	}
 }
+@media (max-width: 800px) {
+	.all-address-info {
+		padding: 29px 10px 47px 10px;
+		/* border-bottom: 1px solid #65B3FF; */
+	}
+	.side-contactheading.main_heading h2 {
+		font-size: 20px;
+		margin-top: 30px;
+	}
+	.place-num-loc {
+		gap: 11px;
+	}
+	.side-box-contact span {
+		font-size: 9px;
+	}
+	.side-contactheading.main_heading h2 {
+		font-size: 17px;
+		margin-top: 30px;
+	}
+}
 @media (max-width: 590px) {
 	label {
 		font-size: 11px !important;

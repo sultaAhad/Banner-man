@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="nav-tabs-design">
-                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                    <ul class="nav nav-pills mb-3 img-design" id="pills-tab" role="tablist">
                         <li class="nav-item nav-second" role="presentation">
                             <button class="nav-link second-links active" data-bs-toggle="pill"
                                 data-bs-target="#pills-hidden" type="button" role="tab" aria-selected="true">
@@ -537,7 +537,7 @@
                                                             type="button" role="tab" aria-controls="pills-profile"
                                                             aria-selected="false">
                                                             <div class="deisgn">
-                                                                <h5>Add Text <span><i
+                                                                <h5>Back To Edit <span><i
                                                                             class="fa-solid fa-arrow-right"></i></span>
                                                                 </h5>
                                                             </div>
