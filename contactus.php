@@ -102,29 +102,22 @@
                                 <h2> <span>Follow Us :
                                     </span></h2>
                             </div>
-                            <a href="javascript:void(0)"><svg xmlns="http://www.w3.org/2000/svg" width="20.32"
-                                    height="20.205" viewBox="0 0 20.32 20.205">
-                                    <g id="Group_8119" data-name="Group 8119" transform="translate(0)">
-                                        <g id="Group_8118" data-name="Group 8118" transform="translate(0 0)">
-                                            <path id="Subtraction_3" data-name="Subtraction 3"
-                                                d="M8.553,20.2h0a10.292,10.292,0,0,1-6.084-3.43A10.156,10.156,0,1,1,20.32,10.16a10.062,10.062,0,0,1-2.457,6.594,10.364,10.364,0,0,1-6.1,3.441V13.087h2.354l.459-2.927H11.767V8.266a1.5,1.5,0,0,1,1.665-1.608h1.262V4.133a19.03,19.03,0,0,0-2.3-.172h-.057C9.933,3.961,8.5,5.441,8.5,7.921V10.16H5.97v2.927H8.553V20.2Z"
-                                                fill="#fff" />
-                                        </g>
-                                    </g>
-                                </svg>
-                            </a>
+                            <div class="contact-icons">
+                                <div class="facebook">
+                               <a href="javascript:void(0)"> <i class="fa-brands fa-facebook-f"></i></a>
+                                </div>
+                            
+                            <div class="facebook">
+                               <a href="javascript:void(0)"><i class="fa-brands fa-instagram"></i></a>
+                                </div>
+                          
 
-                            <a href="javascript:void(0)"><svg xmlns="http://www.w3.org/2000/svg" width="20.319"
-                                    height="20.32" viewBox="0 0 20.319 20.32">
-                                    <g id="Group_8117" data-name="Group 8117" transform="translate(0 0)">
-                                        <path id="Subtraction_2" data-name="Subtraction 2"
-                                            d="M10.16,20.32A10.16,10.16,0,0,1,2.976,2.976,10.16,10.16,0,0,1,17.344,17.344,10.093,10.093,0,0,1,10.16,20.32ZM7.749,4.248A3.563,3.563,0,0,0,4.19,7.806v4.764a3.563,3.563,0,0,0,3.559,3.559h4.763a3.563,3.563,0,0,0,3.559-3.559V7.806a3.563,3.563,0,0,0-3.559-3.558Zm4.763,10.79H7.749A2.442,2.442,0,0,1,5.28,12.571V7.806A2.442,2.442,0,0,1,7.749,5.338h4.763a2.442,2.442,0,0,1,2.469,2.468v4.764A2.442,2.442,0,0,1,12.513,15.039Zm-2.3-7.806a2.927,2.927,0,1,0,2.927,2.927A2.931,2.931,0,0,0,10.217,7.233Zm3.1-.919A.689.689,0,1,0,14.005,7,.746.746,0,0,0,13.317,6.314Zm-3.1,5.74a1.887,1.887,0,1,1,1.894-1.894A1.951,1.951,0,0,1,10.217,12.054Z"
-                                            transform="translate(0)" fill="#fff" />
-                                    </g>
-                                </svg>
-                            </a>
-                            <a href="javascript:void(0)" class="twitter-box"> <i class="fa-brands fa-twitter"></i>
-                            </a>
+                            <div class="facebook">
+                               <a href="javascript:void(0)"> <i class="fa-brands fa-twitter"></i></a>
+                                </div>
+                            </div>
+                            <!-- <a href="javascript:void(0)" class="twitter-box"> <i class="fa-brands fa-twitter"></i>
+                            </a> -->
                         </div>
                     </div>
                 </div>

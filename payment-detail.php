@@ -111,7 +111,7 @@
                                                 <input type="number"
                                                     class="form-control __web-inspector-hide-shortcut__"
                                                     id="exampleFormControlInput1"
-                                                    placeholder="Card Number &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;           mm/yy cvc ">
+                                                    placeholder="Card Number &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;            mm/yy cvc ">
                                             </div>
                                             <div class="sub-this">
                                                 <button type="submit" class="btn btn-primary mb-3">Add Card</button>

@@ -578,9 +578,10 @@ canvas#color_picker {
 	margin: 10px 3px;
 }
 .deisgn1 .image p {
-	font-family: "poppins-Medium";
-	font-size: 14px;
-	color: #747a7d;
+    font-family: "poppins-Medium";
+    font-size: 14px;
+    color: #747a7d;
+    z-index: 1;
 }
 .color-picker-plus-color {
 	display: flex;
@@ -739,8 +740,12 @@ button#pills-final-tab {
 		/* object-fit: cover; */
 	}
 }
-@media (max-width: 800px) {
+@media (max-width: 990px) {
 	.main-step-wizard {
+		height: unset;
+	}
+	.flag-img {
+		border-left: 0;
 		height: unset;
 	}
 }

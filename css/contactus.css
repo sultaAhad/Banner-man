@@ -191,6 +191,28 @@ section.newsletter-sec {
 .upload-box span {
 	font-size: 13px;
 }
+.facebook .fa-brands {
+    color: #081a55;
+    font-size: 15px;
+}
+
+.facebook a {
+    background: white;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    padding: 8px 0;
+    border-radius: 20px;
+}
+
+.contact-icons {
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+}
+
 /* hireadesugner page css end here */
 @media (max-width: 1366px) {
 	.all-form-conatct label {
