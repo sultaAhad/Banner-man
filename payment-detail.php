@@ -29,7 +29,7 @@
                                         </div>
                                         <div class="login">
 
-                                            <span><a href="signin.php"> Sign-in</a> or continue as a Guest User</span>
+                                            <span><a href="register.php"> Sign-in</a> or continue as a Guest User</span>
                                         </div>
                                     </div>
                                     <div class="row">
