@@ -201,7 +201,7 @@ section.newsletter-sec {
     width: 28px;
     height: 28px;
     display: flex;
-    align-items: baseline;
+    align-items: center;
     justify-content: center;
     padding: 8px 0;
     border-radius: 20px;
