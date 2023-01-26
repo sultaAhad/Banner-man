@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="main-wrapper">
-                    <div class="banner-small-heading">
+                    <div class="banner-small-heading home-super">
                         <h6>Your Superhero For Banners And Signs</h6>
                         <img src="img/group.webp" class="img-fluid" alt="">
                     </div>

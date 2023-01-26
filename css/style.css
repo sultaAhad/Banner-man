@@ -490,8 +490,12 @@ section.Banner-main {
 .banner-heading {
 	display: flex;
 	justify-content: space-between;
-	margin-top: 11px;
+	/* margin-top: 11px; */
 	align-items: center;
+}
+.home-super h6{
+	margin: 0;
+	line-height: 1;
 }
 .banner-large-heading h1 {
 	font-size: 75px;
@@ -864,6 +868,9 @@ section.newsletter-sec {
 .subscribe-newletter input.form-control {
 	width: 70%;
 	padding: 13px 19px;
+}
+.subscribe-newletter .input-group {
+    flex-wrap: nowrap;
 }
 /* newsletter end here */
 /* reponsive start here */
@@ -1349,7 +1356,7 @@ footer p {
 	}
 	.container1 {
 		display: block;
-		top: 30%;
+		top: 24%;
 	}
 	.headingbillboard {
 		top: -55px;
