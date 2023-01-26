@@ -301,13 +301,13 @@ ul.variations span {
 }
 
 .checkout .cart-product-detail .pricing-details .item-total h4.property {
-	font-size: 17px;
-	color: #081a55;
-	font-weight: 500;
-	font-family: "poppins-Light";
-	text-transform: uppercase;
-	font-size: 14px;
-	width: 110px;
+    font-size: 17px;
+    color: #081a55;
+    font-weight: 500;
+    font-family: "poppins-Light";
+    text-transform: capitalize;
+    font-size: 14px;
+    width: 110px;
 }
 .checkout .cart-product-detail .order-total h3.property {
 	color: #0080ff;
