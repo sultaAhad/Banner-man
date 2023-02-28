@@ -128,10 +128,13 @@
 	justify-content: space-between;
 }
 .thankyou-sec .order-detail .order-total h3.property {
-	color: #08a9e6;
-	font-size: 20px;
-	font-family: "Montserrat";
-	font-weight: 600;
+    color: #08a9e6;
+    font-size: 20px;
+	font-family: "poppins-Bold";
+    /* font-family: "Poppins", sans-serif; */
+    /* font-weight: 600; */
+    /* font-family: "Montserrat"; */
+    /* font-weight: 600; */
 }
 .thankyou-sec .order-detail .order-total h3.value {
 	font-size: 18px;

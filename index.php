@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="main-wrapper">
-                    <div class="banner-small-heading">
+                    <div class="banner-small-heading home-super">
                         <h6>Your Superhero For Banners And Signs</h6>
                         <img src="img/group.webp" class="img-fluid" alt="">
                     </div>
@@ -47,7 +47,7 @@
                                         <img src="img/banner.webp" class="img-fluid" alt="">
                                         <div class="indoor-button">
                                             <h6>Indoor Banner</h6>
-                                            <a class="btn" href="">
+                                            <a class="btn" href="paper-economy.php">
                                                 Click To Begin <i class=" fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -59,7 +59,7 @@
                                         <img src="img/banner.webp" class="img-fluid" alt="">
                                         <div class="indoor-button">
                                             <h6>Outdoor Banner</h6>
-                                            <a class="btn" href="">
+                                            <a class="btn" href="paper-economy.php">
                                                 Click To Begin <i class=" fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -73,7 +73,7 @@
                                         <img src="img/banner.webp" class="img-fluid" alt="">
                                         <div class="indoor-button">
                                             <h6>Poster</h6>
-                                            <a class="btn" href="">
+                                            <a class="btn" href="paper-economy.php">
                                                 Click To Begin <i class=" fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -85,7 +85,7 @@
                                         <img src="img/banner.webp" class="img-fluid" alt="">
                                         <div class="indoor-button">
                                             <h6>Wrapping Papers</h6>
-                                            <a class="btn" href="">
+                                            <a class="btn" href="paper-economy.php">
                                                 Click To Begin <i class=" fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>

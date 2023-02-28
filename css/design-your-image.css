@@ -578,9 +578,10 @@ canvas#color_picker {
 	margin: 10px 3px;
 }
 .deisgn1 .image p {
-	font-family: "poppins-Medium";
-	font-size: 14px;
-	color: #747a7d;
+    font-family: "poppins-Medium";
+    font-size: 14px;
+    color: #747a7d;
+    z-index: 1;
 }
 .color-picker-plus-color {
 	display: flex;
@@ -711,7 +712,7 @@ button#pills-final-tab {
 		font-size: 14px;
 	}
 	.tab-headind-main h4 {
-		font-family: "Montserrat-SemiBold";
+		/* font-family: "Montserrat-SemiBold"; */
 		font-size: 25px;
 		color: #081a55;
 	}
@@ -737,5 +738,44 @@ button#pills-final-tab {
 		height: 75px;
 		margin: 10px 3px;
 		/* object-fit: cover; */
+	}
+}
+@media (max-width: 990px) {
+	.main-step-wizard {
+		height: unset;
+	}
+	.flag-img {
+		border-left: 0;
+		height: unset;
+	}
+}
+@media (max-width: 575px) {
+	.img-design {
+		width: 100%;
+	}
+	.img-design li.nav-item {
+		width: 25%;
+	}
+	.img-design li.nav-item button.nav-link {
+		width: 100%;
+	}
+	.img-design .deisgn h5 {
+		font-size: 10px;
+	}
+	.img-design {
+		padding-top: 23px;
+	}
+	
+	.flag-img {
+		border: 0;
+		padding: 0;
+		margin: 0;
+		height: unset;
+	}
+	.main-step-wizard {
+		background: #eef7fb;
+		border-radius: 20px;
+		padding: 50px 40px;
+		height: unset;
 	}
 }
