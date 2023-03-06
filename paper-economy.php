@@ -75,9 +75,9 @@
                                 <div class="selct-one ">
                                     <select class="form-select" aria-label="Default select example">
                                         <option selected>2.0'</option>
-                                        <option value="1">One</option>
-                                        <option value="2">Two</option>
-                                        <option value="3">Three</option>
+                                        <option value="1">3.0</option>
+                                        <option value="2">4.0</option>
+                                        <option value="3">5.0</option>
                                     </select>
                                 </div>
                             </div>
@@ -85,9 +85,9 @@
                                 <div class="selct-one ">
                                     <select class="form-select" aria-label="Default select example">
                                         <option selected>2.0'</option>
-                                        <option value="1">One</option>
-                                        <option value="2">Two</option>
-                                        <option value="3">Three</option>
+                                        <option value="1">3.0</option>
+                                        <option value="2">4.0</option>
+                                        <option value="3">5.0</option>
                                     </select>
                                 </div>
                             </div>
@@ -99,9 +99,9 @@
                             <div class="col-sm-9">
                                 <select class="form-select" aria-label="Default select example">
                                     <option selected>1</option>
-                                    <option value="1">One</option>
-                                    <option value="2">Two</option>
-                                    <option value="3">Three</option>
+                                    <option value="1">2</option>
+                                    <option value="2">3</option>
+                                    <option value="3">4</option>
                                 </select>
                             </div>
 
@@ -283,7 +283,7 @@
 <!-- experience sec start here -->
 <section class="experience-sec">
     <div class="container">
-        <div class="row">
+        <div class="row experience">
             <div class="col-md-5">
                 <div class="digotal-imgbox">
                     <img src="img/main-walcome-img.webp" alt="" class="img-fluid">

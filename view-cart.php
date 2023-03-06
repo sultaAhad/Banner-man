@@ -60,8 +60,8 @@
                                         </div>
                                     </div>
                                     <div class="totalprice">
-                                        <h5>Subtotal </h5>
-                                        <h2><span class="number24">: USD 24.00</span></h2>
+                                        <h5>Subtotal :</h5>
+                                        <h2><span class="number24"> USD 24.00</span></h2>
                                     </div>
                                 </div>
                             </div>
@@ -109,8 +109,8 @@
                                         </div>
                                     </div>
                                     <div class="totalprice">
-                                        <h5>Subtotal </h5>
-                                        <h2><span class="number24">: USD 24.00</span></h2>
+                                        <h5>Subtotal :</h5>
+                                        <h2><span class="number24">USD 24.00</span></h2>
                                     </div>
                                 </div>
                             </div>
@@ -125,12 +125,12 @@
                             </div>
                             <div class="shipping-rates">
                                 <div class="totalprice">
-                                    <h5>Shipping </h5>
-                                    <h2><span class="number24">: USD 24.00</span></h2>
+                                    <h5>Shipping :</h5>
+                                    <h2><span class="number24"> USD 24.00</span></h2>
                                 </div>
                                 <div class="totalprice">
-                                    <h5>Subtotal </h5>
-                                    <h2><span class="number24">: USD 24.00</span></h2>
+                                    <h5>Subtotal :</h5>
+                                    <h2><span class="number24"> USD 24.00</span></h2>
                                 </div>
                             </div>
                             <div class="taxes-duty">

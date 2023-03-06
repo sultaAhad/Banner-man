@@ -301,13 +301,13 @@ ul.variations span {
 }
 
 .checkout .cart-product-detail .pricing-details .item-total h4.property {
-	font-size: 17px;
-	color: #081a55;
-	font-weight: 500;
-	font-family: "poppins-Light";
-	text-transform: uppercase;
-	font-size: 14px;
-	width: 110px;
+    font-size: 17px;
+    color: #081a55;
+    font-weight: 500;
+    font-family: "poppins-Light";
+    text-transform: capitalize;
+    font-size: 14px;
+    width: 110px;
 }
 .checkout .cart-product-detail .order-total h3.property {
 	color: #0080ff;
@@ -511,6 +511,16 @@ section.checkout .btn {
 	.main_heading12 h2 {
 		font-size: 40px;
 		margin-bottom: 30px;
+	}
+}
+@media (max-width: 1024px) {
+	.promocode input#inputcode2 {
+		width: 149px;
+	}
+
+	section.checkout .btn {
+		font-size: 10px;
+		padding: 10px 17px;
 	}
 }
 @media (max-width: 480px) {

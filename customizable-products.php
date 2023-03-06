@@ -405,7 +405,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                            <!-- <div class="col-lg-3">
                                 <div class="banners-category banners-category1">
                                     <div class="card-slider">
                                         <a href="paper-economy.php">
@@ -611,7 +611,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

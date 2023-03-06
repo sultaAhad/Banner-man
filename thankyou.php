@@ -11,7 +11,7 @@
                         <div class="main_heading">
                             <h2>Thank You <span>for Shopping!!</span></h2>
                         </div>
-                        <h4>Your Order is confirmed</h4>
+                        <h4>Your Order is Confirmed</h4>
                     </div>
                     <div class="order-nmber">
                         <div class="main_heading">

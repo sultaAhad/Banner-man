@@ -182,6 +182,9 @@ function animateRandom() {
         }
         randLetter = randLetter.join("");
         $this.innerHTML = randLetter;
+        $this.innerHTML = randLetter;
+        console.log(randLetter)
+
     }
 }
 
@@ -225,7 +228,8 @@ $('.slider').slick({
 });
 $('.row.main-slider').slick({
     dots: false,
-    infinite: true,
+    autoplay: true,
+    infinite: false,
     arrows: false,
     speed: 300,
     slidesToShow: 4,

@@ -490,8 +490,12 @@ section.Banner-main {
 .banner-heading {
 	display: flex;
 	justify-content: space-between;
-	margin-top: 11px;
+	/* margin-top: 11px; */
 	align-items: center;
+}
+.home-super h6{
+	margin: 0;
+	line-height: 1;
 }
 .banner-large-heading h1 {
 	font-size: 75px;
@@ -865,6 +869,9 @@ section.newsletter-sec {
 	width: 70%;
 	padding: 13px 19px;
 }
+.subscribe-newletter .input-group {
+    flex-wrap: nowrap;
+}
 /* newsletter end here */
 /* reponsive start here */
 @media (max-width: 800px) {
@@ -1078,13 +1085,19 @@ footer p {
 		width: 208%;
 	}
 	.headingbillboard {
-		top: -91px;
+		top: -71px;
+	}
+	.left-to-right {
+		height: 42px;
+	}
+	.marquee-slider .m-slides {
+		font-size: 15px;
 	}
 	.headingbillboard h5 {
-		font-size: 17px;
+		font-size: 15px;
 	}
 	.banner-small-heading h6 {
-		font-size: 12px;
+		font-size: 15px;
 	}
 	.banner-small-heading img {
 		margin-right: 0;
@@ -1150,6 +1163,15 @@ footer p {
 @media (max-width: 1366px) {
 	.product h4 {
 		font-size: 35px;
+	}
+	.left-to-right {
+		height: 42px;
+	}
+	.marquee-slider .m-slides {
+		font-size: 15px;
+	}
+	.headingbillboard h5 {
+		font-size: 14px;
 	}
 	.testemonial-about-us.text-center h4 {
 		font-size: 35px;
@@ -1227,7 +1249,7 @@ footer p {
 		font-size: 14px;
 	}
 	.banner-small-heading h6 {
-		font-size: 11px;
+		font-size: 15px;
 	}
 	.banner-small-heading img {
 		margin-right: 0;
@@ -1334,7 +1356,7 @@ footer p {
 	}
 	.container1 {
 		display: block;
-		top: 11%;
+		top: 24%;
 	}
 	.headingbillboard {
 		top: -55px;
@@ -1470,10 +1492,7 @@ footer p {
 		flex-direction: column;
 	}
 	.container1 {
-		top: 19%;
-	}
-	.container1 {
-		top: 22%;
+		top: 38%;
 	}
 	.headingbillboard h5 {
 		font-size: 10px;
@@ -1495,7 +1514,7 @@ footer p {
 		margin-right: 0px;
 	}
 	.banner-small-heading h6 {
-		font-size: 12px;
+		font-size: 15px;
 	}
 	.banner-heading h2 {
 		color: #081a55;
