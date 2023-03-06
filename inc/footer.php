@@ -2,10 +2,10 @@
 <footer class="footer">
     <div class="container">
         <div class="row all-about-footer">
-            <div class="col-lg-4 col-md-3 footer-icon-wrapper">
+            <div class="col-lg-4 col-md-3 ">
                 <div class="footer-logo">
-                    <div class="logo-img" data-aos="fade-right" data-aos-duration="3000">
-                        <img src="img/logo.webp" alt="">
+                    <div class="logo-img">
+                        <img src="img/logo.png" alt="">
                     </div>
                     <div class="logo-para">
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
