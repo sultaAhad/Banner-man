@@ -245,7 +245,7 @@
                             </div>
                         </div>
                         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                            <div class="address-box">
+                            <div class="address-box address-box1 ">
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <div class="multi-wrapper fitter-street">
@@ -264,7 +264,13 @@
                                                                 <h6> 4806 Fittro Street hughes </h6>
                                                                 <h4> <span> Phone: </span> +123456789</h4>
                                                             </div>
-                                                            <i class="fa-solid fa-trash-can"></i>
+                                                            <div class="icon-profile-wrapper">
+                                                                <a class="edit-wrapper" href="">
+                                                                    <i class="fa-solid fa-pen-to-square"></i></a>
+                                                                <a href="">
+                                                                    <i class="fa-solid fa-trash-can"></i>
+                                                                </a>
+                                                            </div>
                                                         </div>
                                                     </li>
                                                     <li>
@@ -280,7 +286,13 @@
                                                                 <h6> 4806 Fittro Street hughes </h6>
                                                                 <h4> <span> Phone: </span> +123456789</h4>
                                                             </div>
-                                                            <i class="fa-solid fa-trash-can"></i>
+                                                            <div class="icon-profile-wrapper">
+                                                                <a class="edit-wrapper" href="">
+                                                                    <i class="fa-solid fa-pen-to-square"></i></a>
+                                                                <a href="">
+                                                                    <i class="fa-solid fa-trash-can"></i>
+                                                                </a>
+                                                            </div>
                                                         </div>
                                                     </li>
                                                     <li>
@@ -296,7 +308,13 @@
                                                                 <h6> 4806 Fittro Street hughes </h6>
                                                                 <h4> <span> Phone: </span> +123456789</h4>
                                                             </div>
-                                                            <i class="fa-solid fa-trash-can"></i>
+                                                            <div class="icon-profile-wrapper">
+                                                                <a class="edit-wrapper" href="">
+                                                                    <i class="fa-solid fa-pen-to-square"></i></a>
+                                                                <a href="">
+                                                                    <i class="fa-solid fa-trash-can"></i>
+                                                                </a>
+                                                            </div>
                                                         </div>
                                                     </li>
                                                     <li>
@@ -312,7 +330,13 @@
                                                                 <h6> 4806 Fittro Street hughes </h6>
                                                                 <h4> <span> Phone: </span> +123456789</h4>
                                                             </div>
-                                                            <i class="fa-solid fa-trash-can"></i>
+                                                            <div class="icon-profile-wrapper">
+                                                                <a class="edit-wrapper" href="">
+                                                                    <i class="fa-solid fa-pen-to-square"></i></a>
+                                                                <a href="">
+                                                                    <i class="fa-solid fa-trash-can"></i>
+                                                                </a>
+                                                            </div>
                                                         </div>
                                                     </li>
                                                     <li>
@@ -328,7 +352,13 @@
                                                                 <h6> 4806 Fittro Street hughes </h6>
                                                                 <h4> <span> Phone: </span> +123456789</h4>
                                                             </div>
-                                                            <i class="fa-solid fa-trash-can"></i>
+                                                            <div class="icon-profile-wrapper">
+                                                                <a class="edit-wrapper" href="">
+                                                                    <i class="fa-solid fa-pen-to-square"></i></a>
+                                                                <a href="">
+                                                                    <i class="fa-solid fa-trash-can"></i>
+                                                                </a>
+                                                            </div>
                                                         </div>
                                                     </li>
                                                     <li>
@@ -344,7 +374,13 @@
                                                                 <h6> 4806 Fittro Street hughes </h6>
                                                                 <h4> <span> Phone: </span> +123456789</h4>
                                                             </div>
-                                                            <i class="fa-solid fa-trash-can"></i>
+                                                            <div class="icon-profile-wrapper">
+                                                                <a class="edit-wrapper" href="">
+                                                                    <i class="fa-solid fa-pen-to-square"></i></a>
+                                                                <a href="">
+                                                                    <i class="fa-solid fa-trash-can"></i>
+                                                                </a>
+                                                            </div>
                                                         </div>
                                                     </li>
                                                 </ul>
@@ -369,6 +405,70 @@
                                             <div class="edit">
                                                 <div class="upload-btn-wrapper profilr-page-wrapper">
                                                     <h4> <span> Add New </span> Address</h4>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-10">
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <div class="inputWithIcon">
+                                                        <label for="form-wrapper">City</label>
+                                                        <input type="text" id="form-wrapper" placeholder="Write City">
+
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6">
+                                                    <div class="inputWithIcon">
+                                                        <label for="form-wrapper">State </label>
+                                                        <input type="text" id="form-wrapper" placeholder="Write State">
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <div class="inputWithIcon">
+                                                        <label for="form-wrapper">Country </label>
+                                                        <input type="text" id="form-wrapper" placeholder="Write Country">
+
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6">
+                                                    <div class="inputWithIcon">
+                                                        <label for="form-wrapper">Postal Code</label>
+                                                        <input type="Number" id="form-wrapper" placeholder="Write Postal code">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-12">
+                                                    <div class="inputWithIcon">
+                                                        <label for="exampleFormControlTextarea1" class="form-label">Address</label>
+                                                        <textarea class="form-control" placeholder="Write address here" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-lg-10">
+                                                    <div class="edit edit-top">
+                                                        <a class="btn-profile btn-profile1" id="button" href="javascript:void(0)">
+                                                            Submit
+                                                            <i class="fa-solid fa-arrow-right"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="address-wrapper-edit">
+                                <form action="">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <div class="edit">
+                                                <div class="upload-btn-wrapper profilr-page-wrapper">
+                                                    <h4> <span> Edit New </span> Address</h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -465,7 +565,7 @@
                                                         <td>Confirm</td>
                                                         <td>$590.00</td>
                                                         <td>
-                                                        <button type="button" class="order-details-btns" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                                            <button type="button" class="order-details-btns" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                                                 view Details
                                                             </button>
                                                             <!-- <a class="view-detail" href="">view Details</a> -->
@@ -478,7 +578,7 @@
                                                         <td>Confirm</td>
                                                         <td>$590.00</td>
                                                         <td>
-                                                        <button type="button" class="order-details-btns" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                                            <button type="button" class="order-details-btns" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                                                 view Details
                                                             </button>
                                                             <!-- <a class="view-detail" href="">view Details</a> -->
@@ -491,7 +591,7 @@
                                                         <td>Confirm</td>
                                                         <td>$590.00</td>
                                                         <td>
-                                                        <button type="button" class="order-details-btns" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                                            <button type="button" class="order-details-btns" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                                                 view Details
                                                             </button>
                                                             <!-- <a class="view-detail" href="">view Details</a> -->

@@ -628,11 +628,11 @@ button.btn-radio {
 button.btn-radio a {
 	color: #0d0d0d;
 	font-size: 15px;
-	font-weight: 500;
-	font-family: "poppins";
+	/* font-weight: 500; */
+	/* font-family: "poppins"; */
 	text-decoration: none;
+	font-family: "Poppins-Regular";
 }
-
 .the_row.left-row {
 	margin-left: 30px;
 }
@@ -703,14 +703,14 @@ button.btn-radio a {
 }
 span.question {
 	color: #000000;
-	font-size: 9px;
-	font-family: "poppins";
+	font-size: 11px;
+	font-family: "poppins-regular";
 	font-weight: 400;
 }
 span.answer {
 	color: #656565;
 	font-size: 18px;
-	font-family: "poppins";
+	font-family: "poppins-semibold";
 	font-weight: 600;
 }
 .delete {
@@ -734,7 +734,7 @@ span.answer {
 	/* margin: 40px 0px 99px 50px; */
 }
 h4.detail {
-	font-family: "Poppins";
+	font-family: "Poppins-medium";
 	font-size: 20px;
 	font-weight: 500;
 	color: #000000;
