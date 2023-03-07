@@ -301,13 +301,13 @@ ul.variations span {
 }
 
 .checkout .cart-product-detail .pricing-details .item-total h4.property {
-    font-size: 17px;
-    color: #081a55;
-    font-weight: 500;
-    font-family: "poppins-Light";
-    text-transform: capitalize;
-    font-size: 14px;
-    width: 110px;
+	font-size: 17px;
+	color: #081a55;
+	font-weight: 500;
+	font-family: "poppins-Light";
+	text-transform: capitalize;
+	font-size: 14px;
+	width: 110px;
 }
 .checkout .cart-product-detail .order-total h3.property {
 	color: #0080ff;
@@ -558,3 +558,432 @@ section.checkout .btn {
 }
 
 /* responsive ends here */
+
+.cutom_radio_btn[type="radio"]:checked,
+.cutom_radio_btn[type="radio"]:not(:checked) {
+	position: absolute;
+	left: -9999px;
+}
+
+.cutom_radio_btn[type="radio"]:checked + label span.custom_radio,
+.cutom_radio_btn[type="radio"]:not(:checked) + label span.custom_radio {
+	position: relative;
+	padding-left: 0px;
+	cursor: pointer;
+	line-height: 20px;
+	color: #000000;
+	left: 20px;
+	top: 16px;
+}
+
+.cutom_radio_btn[type="radio"]:checked + label span.custom_radio:before,
+.cutom_radio_btn[type="radio"]:not(:checked) + label span.custom_radio:before {
+	content: "";
+	position: absolute;
+	left: 1px;
+	top: 0px;
+	width: 19px;
+	height: 19px;
+	border: 1px solid #0d0d0d;
+	border-radius: 100%;
+	background: #fff;
+}
+.cutom_radio_btn[type="radio"]:checked + label span.custom_radio:after,
+.cutom_radio_btn[type="radio"]:not(:checked) + label span.custom_radio:after {
+	content: "";
+	width: 11px;
+	height: 11px;
+	background: #f75414;
+	position: absolute;
+	top: 4px;
+	left: 5px;
+	border-radius: 100%;
+	-webkit-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+}
+.cutom_radio_btn[type="radio"]:not(:checked) + label span.custom_radio:after {
+	opacity: 0;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+}
+
+.cutom_radio_btn[type="radio"]:checked + label span.custom_radio:after {
+	opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+.main-row {
+	margin-bottom: 1px;
+	display: flex;
+	align-items: center;
+}
+
+button.btn-radio {
+	padding: 4px 15px;
+	background: #e3dfdf;
+	border: none;
+	outline: none;
+	margin-left: -40px;
+}
+button.btn-radio a {
+	color: #0d0d0d;
+	font-size: 15px;
+	font-weight: 500;
+	font-family: "poppins";
+	text-decoration: none;
+}
+
+.the_row.left-row {
+	margin-left: 30px;
+}
+
+.address_complete_section
+	.all_adresses
+	.single_address
+	.address_start
+	.detail_information_information
+	.custom_check_box
+	.for_the_label
+	span {
+	color: #1f2c35;
+	font-size: 13px;
+	font-weight: 500;
+}
+
+.address_complete_section
+	.all_adresses
+	.single_address
+	.address_start
+	.detail_information_information
+	.custom_check_box
+	.for_the_label
+	span:not(:last-child) {
+	padding-right: 10px;
+}
+
+.address_complete_section
+	.all_adresses
+	.single_address
+	.address_start
+	.detail_information_information
+	.custom_check_box
+	.for_the_label {
+	position: relative;
+}
+
+.cutom_radio_btn[type="radio"]:checked + label .address_start {
+	padding: 10px 7px;
+	border: 2px solid #282828;
+	background-image: url(../img/tablearrow.webp);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-origin: content-box;
+}
+.address_complete_section .all_adresses .add_new_address button.btn {
+	text-transform: uppercase;
+	padding: 11px 31px;
+	font-size: 12px;
+	letter-spacing: 1px;
+	cursor: pointer;
+}
+
+.address_complete_section .all_adresses .add_new_address {
+	padding-top: 23px;
+}
+.single_address label {
+	display: flex;
+	flex-direction: column;
+}
+.the_row {
+	display: flex;
+	flex-direction: column;
+}
+.img-wrapper img {
+	margin: 4px 19px 8px 0px;
+}
+span.question {
+	color: #000000;
+	font-size: 9px;
+	font-family: "poppins";
+	font-weight: 400;
+}
+span.answer {
+	color: #656565;
+	font-size: 18px;
+	font-family: "poppins";
+	font-weight: 600;
+}
+.delete {
+	text-align: end;
+	margin: 4px 10px 0 0;
+}
+.delete i {
+	color: #ff0007;
+	font-size: 22px;
+}
+.address_start {
+	border: 2px solid #707070;
+}
+
+.address_start {
+	border: 2px solid #707070;
+	padding: 10px 0px;
+	margin-bottom: 19px;
+}
+.radio-wrapper {
+	/* margin: 40px 0px 99px 50px; */
+}
+h4.detail {
+	font-family: "Poppins";
+	font-size: 20px;
+	font-weight: 500;
+	color: #000000;
+}
+.form-group12 label {
+	position: relative;
+	cursor: pointer;
+}
+.form-group12 label:before {
+	content: "";
+	-webkit-appearance: none;
+	background-color: transparent;
+	border: 2px solid #1f162b;
+	padding: 7px;
+	display: inline-block;
+	position: relative;
+	vertical-align: middle;
+	cursor: pointer;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border-radius: 10px;
+}
+.form-group.check-wrapper {
+	display: none;
+}
+.form-group12 input:checked + label:after {
+	content: "";
+	width: 8px;
+	height: 8px;
+	background: #f75414;
+	position: absolute;
+	top: 6px;
+	left: 2px;
+	left: 5px;
+	border-radius: 100%;
+	-webkit-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+}
+.form-group12 input {
+	padding: 0;
+	height: initial;
+	width: initial;
+	margin-bottom: 0;
+	display: none;
+	cursor: pointer;
+}
+
+.form-group12 label {
+	position: relative;
+	cursor: pointer;
+}
+.form-group1 select#exampleFormControlSelect1 {
+	height: 48px;
+	background-image: url(../img/selectarrow.webp);
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	appearance: none;
+	background-repeat: no-repeat;
+	background-position: 451px;
+	color: #d4d4d4;
+	font-size: 15px;
+	font-family: "visby-med";
+}
+.inputWithIcon1 input {
+	width: 100%;
+	border: 1px solid #b8afaf;
+	border-radius: 4px;
+	margin: 8px 0;
+	outline: none;
+	padding: 8px;
+	box-sizing: border-box;
+	transition: 0.3s;
+	height: 47px;
+}
+.inputWithIcon1 input::placeholder {
+	font-size: 14px;
+	color: #cfccd2;
+	font-family: "poppins";
+	font-weight: 400;
+}
+.inputWithIcon1 input:focus {
+	border-color: var(--first-color);
+	box-shadow: 0 0 8px 0 var(--first-color);
+}
+
+.inputWithIcon1 input {
+	padding-left: 17px;
+}
+.inputWithIcon1 {
+	position: relative;
+	margin: 0px 0 17px 0px;
+}
+.inputWithIcon1 i {
+	position: absolute;
+	left: 6px;
+	top: 13px;
+	padding: 9px 8px;
+	color: var(--first-color);
+	transition: 0.3s;
+	font-size: 22px;
+}
+.inputWithIcon1 img {
+	position: absolute;
+	right: 6px;
+	top: 14px;
+	padding: 3px 6px;
+	color: #aaa;
+	transition: 0.3s;
+	font-size: 22px;
+	border: 2px solid #e8e8e8;
+	border-radius: 6px;
+}
+.inputWithIcon1 input:focus + i {
+	color: var(--first-color);
+}
+
+.inputWithIcon1 .inputIconBg i {
+	background-color: #aaa;
+	color: #fff;
+	padding: 9px 4px;
+	border-radius: 4px 0 0 4px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	/* display: none; <- Crashes Chrome on hover */
+	-webkit-appearance: none;
+	margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+.img-wrapper1 img {
+	position: absolute;
+	right: 2px;
+	top: 21px;
+	padding: 3px 6px;
+	color: #aaa;
+	transition: 0.3s;
+	font-size: 22px;
+	border: none;
+	border-radius: 6px;
+}
+.form-tabs.adderess-form h4 {
+	border-top: 2px solid #d8d8d8;
+	padding-top: 26px;
+	font-size: 22px;
+	font-family: "Poppins";
+	font-weight: 700;
+	color: var(--first-color);
+	margin-bottom: 20px;
+}
+.form-group1 label {
+	color: #1f162c;
+	font-size: 15px;
+	font-family: "poppins";
+	font-weight: 400;
+	margin: 0;
+}
+
+select#exampleFormControlSelect1::before {
+	content: "\f078";
+	font-family: "poppins";
+	position: absolute;
+	top: 0;
+	right: -216px;
+	width: 40%;
+	height: 100%;
+	text-align: center;
+	font-size: 28px;
+	line-height: 45px;
+	color: rgba(255, 255, 255, 0.5);
+	background-color: rgba(255, 255, 255, 0.1);
+	pointer-events: none;
+}
+select#exampleFormControlSelect1 {
+	border: none;
+	outline: none;
+	background: transparent;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	border-radius: 0;
+	margin: 0;
+	display: block;
+	width: 100%;
+	padding: 12px 55px 15px 15px;
+	font-size: 14px;
+	color: #714bb9;
+}
+.box {
+	/* position: absolute; */
+	/* left: 50%; */
+	/* transform: translate(-50%, -50%); */
+	top: 9px;
+	position: relative;
+}
+.box select {
+	background-color: #ffff;
+	color: #cfccd2;
+	padding: 7px 0px 7px 10px;
+	width: 100%;
+	border: none;
+	font-size: 15px;
+	/* box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2); */
+	outline: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	border: 1px solid #cfccd2;
+	border-radius: 4px;
+	height: 47px;
+	font-family: "poppins";
+	font-weight: 400;
+}
+.box::before {
+	content: "\f078";
+	font-family: "FontAwesome";
+	position: absolute;
+	top: 0;
+	right: 0px;
+	width: 16%;
+	height: 100%;
+	text-align: center;
+	font-size: 16px;
+	line-height: 45px;
+	pointer-events: none;
+	background: #f2f2f2;
+	color: #000000;
+}
+.page-item.active .page-link {
+	border-color: none !important;
+	border: none;
+}
+.box select option {
+	padding: 30px;
+}
+button.btn13 {
+	padding: 7px 12px;
+	border-radius: 0px;
+	color: var(--first-color);
+	font-size: 14px;
+	font-family: "poppins";
+	font-weight: 500;
+	background-color: var(--first-color);
+	color: #fff;
+	border: none;
+	height: 43px;
+	width: 100%;
+	cursor: pointer;
+}
+.box select:focus {
+	border-color: var(--first-color);
+	box-shadow: 0 0 8px 0 var(--first-color);
+}

@@ -619,4 +619,11 @@ function ratingToWord(rating) {
         $("#ratingTxt").val('Excellent');
     }
 }
+$('.checkbox').change(function() {
+    if ($(this).is(':checked')) {
+        $(".form-group.check-wrapper").css("display", "block");
+    } else {
+        $(".form-group.check-wrapper").css("display", "none");
+    }
+});
 </script>
